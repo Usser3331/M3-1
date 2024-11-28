@@ -511,3 +511,19 @@ reloadconfirm<--[HERE]
 [03:31:08] [Server thread/INFO]: Jkevvrzzz left the game
 [03:32:52] [Server thread/INFO]: Strande_ issued server command: /home base2
 [03:32:58] [Server thread/INFO]: Strande_ issued server command: /sethome base2
+[03:34:07] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /essentials reload
+[03:34:08] [Server thread/INFO]: [Essentials] Loaded 39097 items from items.json.
+[03:34:08] [Server thread/INFO]: [Essentials] Using locale en
+[03:34:08] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:34:08] [Server thread/INFO]: Essentials reloaded 2.20.1.
+[03:34:16] [Server thread/INFO]: Strande_ issued server command: /sethome base2
+[03:34:28] [Server thread/INFO]: Strande_ issued server command: /home base2
+[03:34:36] [Server thread/INFO]: Strande_ issued server command: /home granja
+[03:34:59] [Server thread/INFO]: Strande_ issued server command: /home esclavos
+[03:35:10] [Server thread/INFO]: Strande_ issued server command: /home base2
+[03:36:14] [Server thread/INFO]: Strande_ issued server command: /home base1
+[03:36:35] [Server thread/INFO]: Strande_ issued server command: /home base2
+[03:42:13] [User Authenticator #2/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[03:42:14] [Server thread/INFO]: Jkevvrzzz joined the game
+[03:42:14] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:42:14] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:51093] logged in with entity id 19903 at ([world_nether]17.69999998807907, 27.0, 51.30000001192093)

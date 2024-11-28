@@ -783,7 +783,7 @@ world-home-permissions: false
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
   #essentials.sethome.multiple.tilines
-  tilines: 5
+  tilines: 30
   vip: 5
   staff: 10
 
