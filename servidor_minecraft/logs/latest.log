@@ -368,3 +368,335 @@
 [06:40:35] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pa que gap
 [06:40:58] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> VEnite pE
 [06:41:03] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> na mentira
+[06:41:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> vas hacer pvp fabrizio123?
+[06:41:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> para darte armor ?
+[06:41:42] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> tengo
+[06:41:43] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> le vas a dar amor?
+[06:41:47] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> le doy yo mejor
+[06:41:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> otra p
+[06:41:56] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> igual
+[06:41:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> sin encantamientos xd
+[06:42:11] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:42:12] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> yo
+[06:42:33] [Server thread/INFO]: Strande_ issued server command: /give SinJao totem 1
+[06:42:33] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[06:42:37] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> TOTEM
+[06:42:51] [Server thread/INFO]: Strande_ issued server command: /give Jkevvrzzz totem 1
+[06:42:51] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[06:42:52] [Server thread/INFO]: Jkevvrzzz has reached the goal [Postmortal]
+[06:42:52] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[06:42:52] [Server thread/INFO]: Jkevvrzzz left the game
+[06:42:58] [Server thread/INFO]: SinJao has reached the goal [Postmortal]
+[06:42:59] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:43:00] [Server thread/INFO]: Strande_ issued server command: /tp SinJao Strande_
+[06:43:01] [User Authenticator #8/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[06:43:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:43:01] [Server thread/INFO]: Jkevvrzzz joined the game
+[06:43:01] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:52997] logged in with entity id 19766 at ([world]-1670.9114485277616, 66.99189059615064, -1255.2262007109882)
+[06:43:03] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[06:43:03] [Server thread/INFO]: Jkevvrzzz left the game
+[06:43:07] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> ese gay
+[06:43:11] [User Authenticator #8/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[06:43:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:43:11] [Server thread/INFO]: Jkevvrzzz joined the game
+[06:43:11] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:51693] logged in with entity id 19798 at ([world]-1667.8191498463632, 66.0, -1253.7484689898413)
+[06:43:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> como asi tiene toten
+[06:43:23] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> venite fabrizio ponte armor
+[06:43:31] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> ya tengo
+[06:43:35] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> la otra
+[06:43:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ponete armor de diamante bobo
+[06:43:38] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:43:47] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dejalo en netherite
+[06:43:51] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> eso n oevitara que lo culee
+[06:43:51] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> no si mmgvo
+[06:43:54] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> tanto asi para bajar de nivel xd
+[06:43:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ?
+[06:43:59] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no ves que no está encantada
+[06:44:01] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> y jhon
+[06:44:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ??????
+[06:44:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> estoy aqui
+[06:44:11] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> esta en
+[06:44:11] [Server thread/INFO]: Strande_ issued server command: /vanish
+[06:44:14] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> los comandos
+[06:44:15] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> del sv
+[06:44:21] [Server thread/INFO]: Strande_ issued server command: /vanish
+[06:44:25] [Server thread/INFO]: Strande_ issued server command: /gamemode survival
+[06:44:29] [Server thread/INFO]: Strande_ issued server command: /vanish
+[06:44:34] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:44:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> fabrizio te vas a poner la armor o te da frio?
+[06:44:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> para
+[06:44:41] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dame armor de diamante
+[06:44:50] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> damela
+[06:44:54] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ME TOCA
+[06:44:55] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> DAMELA
+[06:44:56] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> A MI
+[06:45:01] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> yo no tengo
+[06:45:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> la sword
+[06:45:05] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> aaayyy
+[06:45:07] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> yo quiero
+[06:45:15] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> quitate esa espada encantada
+[06:45:21] [Server thread/INFO]: Strande_ issued server command: /give fabrizio123 totem 1
+[06:45:21] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[06:45:29] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> JAJA
+[06:45:40] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> JAJAJA
+[06:45:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ponete sword normal
+[06:45:47] [Server thread/INFO]: SinJao has made the advancement [Stone Age]
+[06:45:55] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:46:11] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:46:15] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dame armooor
+[06:46:18] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> y espadaaa
+[06:46:19] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:46:26] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> COMO QUE NOOO
+[06:46:29] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> ME TIENE MIEDO
+[06:46:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> ponete sword de diamond normal
+[06:46:37] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> SDAJKDJKAJKAD
+[06:46:54] [Server thread/INFO]: Strande_ issued server command: /give Jkevvrzzz totem 1
+[06:46:54] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[06:47:01] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
+[06:47:12] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> castigo 5 no sirve aqui xdd
+[06:47:20] [Server thread/INFO]: Strande_ issued server command: /give fabrizio123 diamond_sword
+[06:47:20] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[06:47:26] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> tengo
+[06:47:29] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> a mi nada
+[06:47:30] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
+[06:47:32] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> >-<
+[06:47:32] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> muchas espadas
+[06:47:37] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> que tienees john
+[06:47:40] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> DAME 1
+[06:47:42] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:47:46] [Server thread/INFO]: Strande_ issued server command: /vanish
+[06:47:48] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> DAME 1
+[06:47:50] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> RAPIDO
+[06:47:50] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:47:51] [Server thread/INFO]: Strande_ issued server command: /gamemode creative
+[06:48:02] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:48:09] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> mano si eres ridiculo
+[06:48:10] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
+[06:48:22] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:48:31] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> coño deja la ladilal que no es contigo
+[06:48:37] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> das cancer wn
+[06:48:44] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> mardito metio njd
+[06:48:55] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
+[06:48:56] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 3 2 1 pelea
+[06:48:59] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 3 2 1 pelea
+[06:49:03] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> fabri?
+[06:49:04] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> lamentable
+[06:49:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> xd
+[06:49:05] [Server thread/INFO]: Strande_ issued server command: /vanish
+[06:49:10] [Server thread/INFO]: Strande_ issued server command: /gamemode survival
+[06:49:16] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> oe
+[06:49:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> fabrizio123
+[06:49:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> te devulevo tu espada
+[06:49:22] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 456
+[06:49:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> xd
+[06:49:23] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> =
+[06:49:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> pero pvp xd
+[06:49:39] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> y a mi que me devuelves
+[06:49:52] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:50:02] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> jhon de mrd
+[06:50:06] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no tengo anda
+[06:50:08] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
+[06:50:09] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> que chch me quitas mi espada
+[06:50:10] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:50:14] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> damelas
+[06:50:17] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
+[06:50:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> deja ahi nomas
+[06:50:25] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUFFFFFFFFFFF
+[06:50:27] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> q mas
+[06:50:35] [Server thread/INFO]: Strande_ issued server command: /gamemode creative
+[06:50:47] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
+[06:50:48] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> totem
+[06:50:55] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:50:55] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> UYFFFFFFFFFFFFFFFFFFFF
+[06:51:03] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dai ugakl
+[06:51:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> se ecanto todo el imbecil
+[06:51:08] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> da igual si se lo encanto
+[06:51:14] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> qye vebnga}
+[06:51:16] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> aqui
+[06:51:18] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> lo quiero
+[06:51:18] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
