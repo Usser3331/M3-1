@@ -700,3 +700,160 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 
 [06:51:16] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> aqui
 [06:51:18] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> lo quiero
 [06:51:18] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
+[06:51:20] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> venga el primero
+[06:51:23] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:51:28] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> a ver si tan machote
+[06:51:37] [Server thread/INFO]: Strande_ issued server command: /give SinJao diamond_axe
+[06:51:37] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[06:51:40] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> TIENE EMPUJE
+[06:51:52] [Server thread/INFO]: SinJao was slain by fabrizio123
+[06:51:53] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
+[06:51:53] [Server thread/INFO]: [AngelChest] fabrizio123 opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1646.0,y=62.0,z=-1287.0,pitch=0.0,yaw=0.0}
+[06:51:58] [Server thread/INFO]: [AngelChest] Strande_ opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1646.0,y=62.0,z=-1287.0,pitch=0.0,yaw=0.0}
+[06:52:00] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> quitate esa espada
+[06:52:01] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> tramposo
+[06:52:09] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:52:13] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dame el ahcha
+[06:52:15] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> damela
+[06:52:17] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
+[06:52:21] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
+[06:52:22] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> ya me aburrieron
+[06:52:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> conmigo inutil
+[06:52:26] [Server thread/INFO]: Strande_ issued server command: /invsee
+[06:52:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> no te diste bobolongo
+[06:52:30] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
+[06:52:32] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa fabrizio123
+[06:52:36] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> SE FUE
+[06:52:37] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:52:42] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ven cobarde
+[06:52:57] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no puedes sin una espada con empuje
+[06:53:00] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
+[06:53:13] [Server thread/INFO]: Strande_ issued server command: /survival
+[06:53:28] [Server thread/INFO]: fabrizio123 was slain by Jkevvrzzz
+[06:53:28] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> q decepcion
+[06:53:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> Q FACIL
+[06:53:32] [Server thread/INFO]: [AngelChest] Jkevvrzzz opened the AngelChest of fabrizio123 at Location{world=CraftWorld{name=world},x=-243.0,y=68.0,z=676.0,pitch=0.0,yaw=0.0}
+[06:53:36] [Server thread/INFO]: [AngelChest] Jkevvrzzz opened the AngelChest of fabrizio123 at Location{world=CraftWorld{name=world},x=-243.0,y=68.0,z=676.0,pitch=0.0,yaw=0.0}
+[06:53:41] [Server thread/INFO]: SinJao issued server command: /tpa
+[06:53:43] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> estaba bajo
+[06:53:47] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
+[06:53:48] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> vida y vienes
+[06:53:49] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> xd
+[06:53:53] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
+[06:53:56] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> ACEPTA
+[06:54:12] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
+[06:54:12] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> que me devuelva la armadura
+[06:54:14] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> y la espada
+[06:54:15] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> el cobarde
+[06:54:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> que?
+[06:54:21] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> que necesita empuje
+[06:54:23] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> para ganar
+[06:54:55] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> xd
+[06:54:59] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
+[06:55:03] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> anda llora a otra parte
+[06:55:17] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
+[06:55:23] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
+[06:55:25] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dimelo en la cara pa enseñarte como se ven los dientes en primera persona
+[06:55:27] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:55:36] [Server thread/INFO]: SinJao issued server command: /tpask fabrizio123
+[06:55:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> mi amiga la friki:
+[06:55:51] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
+[06:56:00] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dame la armadura
+[06:56:03] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:56:07] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> o tienes miedo
+[06:56:15] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> ahora la espada
+[06:56:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> muvho pides
+[06:56:21] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ty cakkate
+[06:56:25] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> anda farmea
+[06:56:29] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pues me falta el casco
+[06:56:35] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> eso me lo dio strande
+[06:56:50] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:57:18] [Server thread/INFO]: SinJao has made the advancement [Monster Hunter]
+[06:57:21] [Server thread/INFO]: Strande_ issued server command: /clear Jkevvrzzz
+[06:57:26] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> ya jhon deja de hacer wbds
+[06:57:28] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> DROPEALO
+[06:57:37] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[06:57:37] [Server thread/INFO]: Jkevvrzzz left the game
+[06:57:54] [User Authenticator #9/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[06:57:55] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:57:55] [Server thread/INFO]: Jkevvrzzz joined the game
+[06:57:55] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:52379] logged in with entity id 22752 at ([world]-1642.8593756629925, 61.672748187392955, -1262.1689167305024)
+[06:57:58] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> se deconesta
+[06:58:01] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[06:58:01] [Server thread/INFO]: Jkevvrzzz left the game
+[06:58:06] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> jaja
+[06:58:08] [Server thread/INFO]: fabrizio123 was slain by SinJao
+[06:58:13] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
+[06:58:18] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> A DODNE TE FUISTE
+[06:58:33] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> oe
+[06:58:35] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> jhon
+[06:58:37] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> manda tpa
+[06:58:38] [User Authenticator #9/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[06:58:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> dime
+[06:58:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:58:38] [Server thread/INFO]: Jkevvrzzz joined the game
+[06:58:38] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:59213] logged in with entity id 23094 at ([world]-1648.331067773056, 66.0, -1280.7630891161411)
+[06:58:42] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[06:58:42] [Server thread/INFO]: Jkevvrzzz left the game
+[06:58:42] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> tp
+[06:58:45] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:58:51] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> tienes miedo o q
+[06:58:56] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> deja de desconectarte
+[06:59:08] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> q me la debeis
+[06:59:17] [User Authenticator #9/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[06:59:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:59:18] [Server thread/INFO]: Jkevvrzzz joined the game
+[06:59:18] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:54983] logged in with entity id 23161 at ([world]-1650.5551881198949, 66.0, -1279.4516800248289)
+[06:59:20] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[06:59:20] [Server thread/INFO]: Jkevvrzzz left the game
+[06:59:52] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> queria que no escapara
+[07:00:03] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> oe jhon pasa filo pe
+[07:00:07] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> no tengo
+[07:00:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> creo que no tengo
+[07:00:29] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> si usas creativo ctmr
+[07:00:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> pero
+[07:00:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> para el pvp noma p hijo
+[07:00:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> lo demas es survival
+[07:00:52] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pidame perdon
+[07:00:55] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> las cosas se quedan hijo
+[07:00:57] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> o lo masacro
+[07:01:04] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> largate
+[07:01:18] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pidame la bendicion
+[07:01:24] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> largate

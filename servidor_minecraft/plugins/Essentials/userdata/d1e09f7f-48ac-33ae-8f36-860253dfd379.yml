@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1732775456019
+  lastteleport: 1732776963697
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732776183860
-  login: 1732776191756
+  logout: 1732777160408
+  login: 1732777158355
 money: '0'
 last-account-name: Jkevvrzzz
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -17.135993059898663
-  y: 73.24918707874468
-  z: 2475.326798504535
-  yaw: -0.55126953125
-  pitch: 30.785301208496094
+  x: -245.5696633744804
+  y: 78.49520087700593
+  z: 660.5802120422854
+  yaw: -28.7109375
+  pitch: 19.895307540893555
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -1667.8191498463632
+  x: -1650.5551881198949
   y: 66.0
-  z: -1253.7484689898413
-  yaw: -170.39273071289062
-  pitch: 13.972883224487305
+  z: -1279.4516800248289
+  yaw: -130.787841796875
+  pitch: 9.317649841308594
 homes:
   home:
     world: 1e7574d3-972b-44cc-8664-06c3de722bc1
