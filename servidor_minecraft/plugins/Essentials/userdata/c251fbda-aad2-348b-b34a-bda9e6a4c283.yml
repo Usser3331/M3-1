@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1732768115017
+  logout: 1732769547322
+  login: 1732769552615
 money: '0'
 last-account-name: Darnelldmc
 lastlocation:
@@ -28,3 +28,11 @@ lastlocation:
   z: 7.986143112113973
   yaw: 84.69768524169922
   pitch: 33.85441589355469
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -1674.6259911375437
+  y: 69.0
+  z: -1286.2067946231643
+  yaw: 134.07086181640625
+  pitch: -36.173057556152344

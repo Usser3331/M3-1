@@ -13,10 +13,12 @@
       "minecraft:forest": "2024-11-27 04:32:16 +0000",
       "minecraft:ocean": "2024-11-28 04:36:29 +0000",
       "minecraft:sunflower_plains": "2024-11-28 03:52:44 +0000",
+      "minecraft:river": "2024-11-28 04:47:54 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 04:15:52 +0000",
       "minecraft:stony_shore": "2024-11-28 04:05:28 +0000",
       "minecraft:savanna": "2024-11-27 04:12:27 +0000",
-      "minecraft:plains": "2024-11-28 03:57:23 +0000"
+      "minecraft:plains": "2024-11-28 03:57:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-11-28 04:45:29 +0000"
     },
     "done": false
   },
@@ -706,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-11-28 04:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:29:20 +0000"
@@ -757,6 +765,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-11-28 04:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-11-28 04:46:41 +0000"
     },
     "done": true
   },
@@ -862,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-11-28 04:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:29:20 +0000"
@@ -955,6 +975,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-11-28 04:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-11-28 04:43:54 +0000"
     },
     "done": true
   },
@@ -1123,6 +1149,12 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-11-28 04:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-28 04:43:54 +0000"
     },
     "done": true
   },

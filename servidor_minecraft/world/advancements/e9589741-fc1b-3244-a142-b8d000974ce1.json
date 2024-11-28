@@ -12,7 +12,9 @@
       "minecraft:river": "2024-11-17 21:29:06 +0000",
       "minecraft:lukewarm_ocean": "2024-11-23 03:33:42 +0000",
       "minecraft:stony_shore": "2024-11-18 00:07:45 +0000",
+      "minecraft:snowy_plains": "2024-11-28 04:50:17 +0000",
       "minecraft:lush_caves": "2024-11-17 21:38:21 +0000",
+      "minecraft:snowy_taiga": "2024-11-28 04:49:56 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-17 21:09:25 +0000",
       "minecraft:ocean": "2024-11-20 04:18:48 +0000",
       "minecraft:sunflower_plains": "2024-11-20 02:43:20 +0000",
@@ -2258,6 +2260,90 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2024-11-24 18:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-11-28 04:49:49 +0000"
     },
     "done": true
   },
