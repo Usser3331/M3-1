@@ -688,3 +688,46 @@ reloadconfirm<--[HERE]
 [04:34:05] [Async Chat Thread - #14/INFO]: [Not Secure] <Jkevvrzzz> yo tengo
 [04:34:12] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> ponele p
 [04:34:29] [Async Chat Thread - #14/INFO]: [Not Secure] <Jkevvrzzz> toma inutil
+[04:34:49] [Server thread/INFO]: Strande_ issued server command: /home base1
+[04:34:54] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> xd
+[04:35:26] [Server thread/INFO]: Darnelldmc was slain by Zombie
+[04:35:29] [Async Chat Thread - #13/INFO]: [Not Secure] <Jkevvrzzz> XD
+[04:35:38] [Server thread/INFO]: Strande_ issued server command: /home aldeano
+[04:35:54] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> lo llevo luego
+[04:35:58] [Server thread/INFO]: Strande_ issued server command: /tpa Darnelldmc
+[04:36:11] [Server thread/INFO]: Strande_ issued server command: /home base2
+[04:37:04] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> xd
+[04:37:09] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> ve consigue armor
+[04:37:16] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> yo hare el area de almacenamiento
+[04:37:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> vuelves cuando quieras aqui vives
+[04:37:25] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> ga
+[04:38:03] [User Authenticator #9/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
+[04:38:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@2dd75d0[id=c04600ef-ca80-3181-a4c4-0a327d0c948f,name=fabrizio123,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczMjc2ODY4MzE2NSwKICAicHJvZmlsZUlkIiA6ICJjNjIyNmU2ZjI4YjY0NjI0OTJkNTA1OWNlNjI2MmQzYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYWJyaXppbzEyMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNWRkZGI0MWRjYWZlZjYxNmU5NTljMjgxNzgwOGUwYmU3NDFjODlmZmJmZWQzOTEzNGExM2U3NWI4MTE4NjNkIgogICAgfQogIH0KfQ==, signature=KKN2oiCr7xYLlT+vFT5bcxtcr1irQWcdl6cMNwAxSOo0W9LuMgZEYW9KZCXh7z8EJOK84hkfSxWhY1omkSv5EnCyW/vHz5HhtXne9vZMQUPPfRWJ7IoiTN/NrNE1NiXbs5hn1p4r7ps7pBca/Ja5xOsaW0yBlqo0njB1tzYF3CpvzbDBKny6uRtpcpPkCU+kABDVPG/7VS8+xydcGkNnBLyICjTPS9DW1mp4boJCrxdjk4YYDcFg1dhFd/boocbJpz4QTYKBDt1FHxSqWbNl7bz/yEWmRuRNJCIsL+eAaCT/9R2bBYdElZQvuXYMpGKoTrhWWFfjGClin+iTtWKiQX3ACnAKPL1v5r8+3eynJcEWAs86d+abGcc+vt6G9O7sd22X/OG6327ski5sFMZmePH05HItK4z8ev9o2P2I3lrdmY37Ea6gQDdHkmX8orQUFsCYt7puJeBpgZrek4xtqYsAWa7LPlprzyYWsYOY0/jOH7dtoZqFB8V8ZWiO0ddSSBrCZ4vLdgO8U01gv/vHHRquWrmTulDYvuZ8RKaGipRuaj+7pgG0V8v3Yi5lmC/V+KrYnAoBcO3txt+tQM7p2aRHahFrJ7OPAboqcOHdSANql5kdQ2AoObzunz2CRW/Ied7lb9QXqUibf8hH0dhnKDWMtQOwvEFWDZ0ZfDNFDQM=]]}] lost connection: Timed out
+[04:38:59] [User Authenticator #9/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
+[04:39:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fabrizio123's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:39:01] [Server thread/INFO]: fabrizio123 joined the game
+[04:39:01] [Server thread/INFO]: fabrizio123[/127.109.34.235:54303] logged in with entity id 38198 at ([world]-243.71305065990674, 71.83999997377396, 681.8713880380479)
+[04:39:11] [Async Chat Thread - #17/INFO]: [Not Secure] <Strande_> oe Cisneros
+[04:39:15] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> el server esta mas activo xd
+[04:39:21] [Server thread/WARN]: fabrizio123 was kicked for floating too long!
+[04:39:21] [Server thread/INFO]: fabrizio123 lost connection: Flying is not enabled on this server
+[04:39:21] [Server thread/INFO]: fabrizio123 left the game
+[04:39:25] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> ctm
+[04:40:12] [User Authenticator #10/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
+[04:40:14] [Server thread/INFO]: fabrizio123 joined the game
+[04:40:14] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fabrizio123's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:40:14] [Server thread/INFO]: fabrizio123[/127.109.34.235:44395] logged in with entity id 38718 at ([world]-243.71305065990674, 71.12292530233836, 681.8713880380479)
+[04:40:21] [Async Chat Thread - #17/INFO]: [Not Secure] <Jkevvrzzz> che ese fabri re puto
+[04:40:41] [Server thread/INFO]: Jkevvrzzz has made the advancement [Diamonds!]
+[04:40:47] [Async Chat Thread - #17/INFO]: [Not Secure] <Strande_> que
+[04:40:54] [Async Chat Thread - #18/INFO]: [Not Secure] <Jkevvrzzz> recuerda q es otra cuenta
+[04:40:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> a verdad
+[04:41:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> men
+[04:41:30] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> el Darnelldmc es chambeador full
+[04:41:31] [Async Chat Thread - #18/INFO]: [Not Secure] <fabrizio123> xd
+[04:41:53] [Async Chat Thread - #18/INFO]: [Not Secure] <fabrizio123> veo rateros
+[04:43:58] [Async Chat Thread - #19/INFO]: [Not Secure] <Strande_> oe fabrizio123
+[04:44:05] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> el nether y End se reiniciaron
+[04:44:12] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> asi que el dragon aun sigue
+[04:44:27] [Async Chat Thread - #20/INFO]: [Not Secure] <Jkevvrzzz> cords del portal?
+[04:44:35] [Async Chat Thread - #19/INFO]: [Not Secure] <Strande_> toque

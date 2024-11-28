@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2024-11-28 03:46:47 +0000",
       "minecraft:beach": "2024-11-28 03:48:36 +0000",
+      "minecraft:ocean": "2024-11-28 04:36:30 +0000",
       "minecraft:sunflower_plains": "2024-11-28 03:52:43 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 04:15:49 +0000",
       "minecraft:stony_shore": "2024-11-28 04:05:55 +0000",
@@ -205,6 +206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:03:12 +0000"
@@ -235,9 +242,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-11-28 04:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
     },
     "done": true
   },
@@ -313,6 +332,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-11-28 04:08:54 +0000"
@@ -328,6 +359,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-11-28 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
     },
     "done": true
   },
@@ -421,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:03:12 +0000"
@@ -448,6 +491,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
     },
     "done": true
   },
@@ -547,6 +596,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-28 03:56:25 +0000"
@@ -637,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-11-28 03:56:25 +0000"
@@ -664,6 +731,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-28 04:35:13 +0000"
     },
     "done": true
   },
@@ -697,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-28 03:55:20 +0000"
@@ -709,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:03:12 +0000"
@@ -718,6 +803,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-28 03:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
     },
     "done": true
   },
@@ -769,6 +860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-11-28 04:01:02 +0000"
@@ -814,6 +911,18 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-28 03:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
     },
     "done": true
   },
@@ -950,9 +1059,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-11-28 04:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-28 03:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-11-28 04:35:13 +0000"
     },
     "done": true
   },
