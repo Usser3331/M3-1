@@ -12,6 +12,7 @@
       "minecraft:beach": "2024-11-27 04:10:49 +0000",
       "minecraft:forest": "2024-11-27 04:32:16 +0000",
       "minecraft:sunflower_plains": "2024-11-28 03:52:44 +0000",
+      "minecraft:stony_shore": "2024-11-28 04:05:28 +0000",
       "minecraft:savanna": "2024-11-27 04:12:27 +0000",
       "minecraft:plains": "2024-11-28 03:57:23 +0000"
     },
@@ -655,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
@@ -691,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-28 04:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-11-28 03:56:28 +0000"
@@ -706,6 +719,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-11-28 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-28 04:09:39 +0000"
     },
     "done": true
   },
@@ -730,6 +749,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-11-28 04:04:24 +0000"
     },
     "done": true
   },
@@ -766,6 +791,18 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-28 04:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-28 04:04:18 +0000"
     },
     "done": true
   },
@@ -811,6 +848,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
@@ -853,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-11-28 03:53:05 +0000"
@@ -874,6 +929,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-11-28 03:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
     },
     "done": true
   },
@@ -901,15 +962,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-28 04:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-11-28 03:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:04:58 +0000"
     },
     "done": true
   },
