@@ -10,9 +10,13 @@
       "minecraft:old_growth_birch_forest": "2024-11-27 04:28:00 +0000",
       "minecraft:beach": "2024-11-27 04:28:25 +0000",
       "minecraft:forest": "2024-11-28 05:35:40 +0000",
+      "minecraft:jungle": "2024-11-28 06:15:35 +0000",
       "minecraft:river": "2024-11-28 05:38:46 +0000",
+      "minecraft:grove": "2024-11-28 06:16:13 +0000",
       "minecraft:birch_forest": "2024-11-28 05:30:05 +0000",
       "minecraft:stony_shore": "2024-11-27 04:33:50 +0000",
+      "minecraft:snowy_plains": "2024-11-28 06:16:07 +0000",
+      "minecraft:snowy_taiga": "2024-11-28 06:17:17 +0000",
       "minecraft:savanna": "2024-11-27 04:33:21 +0000"
     },
     "done": false
@@ -191,9 +195,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_stick": "2024-11-28 05:29:13 +0000"
+      "has_log": "2024-11-28 05:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 05:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 05:25:59 +0000"
     },
     "done": true
   },
@@ -215,39 +231,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-11-28 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-11-28 05:29:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-28 05:27:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-11-28 05:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-11-28 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-11-28 05:29:13 +0000"
     },
     "done": true
   },
@@ -263,21 +249,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2024-11-28 05:29:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-11-28 05:27:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2024-11-28 05:31:40 +0000"
     },
     "done": true
   },
@@ -293,9 +267,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_cornflower": "2024-11-28 05:30:05 +0000"
+      "has_planks": "2024-11-28 05:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-28 05:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-28 05:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-28 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-11-28 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-28 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-28 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-28 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-28 05:29:13 +0000"
     },
     "done": true
   },
@@ -305,19 +327,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_logs": "2024-11-28 05:25:09 +0000"
+      "has_cornflower": "2024-11-28 05:30:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_planks": "2024-11-28 05:27:29 +0000"
+      "has_sunflower": "2024-11-28 05:31:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-28 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-11-28 05:35:48 +0000"
     },
@@ -329,23 +357,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2024-11-28 05:36:35 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-11-28 05:36:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_hay_block": "2024-11-28 05:35:48 +0000"
+      "bread": "2024-11-28 05:36:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -353,21 +375,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_log": "2024-11-28 05:25:59 +0000"
+      "has_iron_hoe": "2024-11-28 06:17:59 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "crafting_table": "2024-11-28 05:29:07 +0000"
+      "has_lots_of_items": "2024-11-28 06:17:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_planks": "2024-11-28 05:27:29 +0000"
+      "killed_by_something": "2024-11-28 06:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2024-11-28 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-11-28 06:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-11-28 06:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-11-28 06:15:45 +0000"
     },
     "done": true
   },

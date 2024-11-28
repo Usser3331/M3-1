@@ -171,3 +171,43 @@
 [06:07:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> toy hablando con ellos xd
 [06:07:52] [Async Chat Thread - #3/INFO]: [Not Secure] <fabrizio123> q
 [06:09:45] [Server thread/WARN]: fabrizio123 moved too quickly! 19.912901986689718,-3.4239667008948516,-2.2211992387998407
+[06:12:54] [Server thread/INFO]: Strande_ issued server command: /home base2
+[06:13:08] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[06:13:08] [Server thread/INFO]: Jkevvrzzz left the game
+[06:13:11] [User Authenticator #5/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[06:13:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:13:11] [Server thread/INFO]: Jkevvrzzz joined the game
+[06:13:11] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:59067] logged in with entity id 8362 at ([world]-18.08216704509059, 71.9375, 2471.3073396979776)
+[06:13:50] [User Authenticator #5/INFO]: UUID of player SinJao is bdca5c86-df72-3b9e-9784-60bd29ced7dd
+[06:13:52] [Server thread/INFO]: SinJao joined the game
+[06:13:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player SinJao's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:13:52] [Server thread/INFO]: SinJao[/127.100.95.161:37305] logged in with entity id 8891 at ([world]424.8541974563193, 70.16610926093821, 548.3394380938369)
+[06:15:36] [Server thread/INFO]: Jkevvrzzz issued server command: /sethome
+[06:15:42] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
+[06:15:45] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:16:02] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
+[06:16:05] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> yo quiero
+[06:16:06] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
+[06:16:12] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> dame espada
+[06:16:47] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:16:50] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> dame espada
+[06:16:54] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
+[06:16:57] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
+[06:17:06] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> che
+[06:17:38] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
+[06:17:57] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
+[06:18:13] [Async Chat Thread - #6/INFO]: [Not Secure] <SinJao> te voy a clipear con esta iron hoe que le saqué a strande
+[06:18:19] [Async Chat Thread - #6/INFO]: [Not Secure] <SinJao> quitate la perchera y el pantalon nadamas
+[06:18:27] [Async Chat Thread - #6/INFO]: [Not Secure] <SinJao> tu a mano yo a esto
+[06:18:33] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
+[06:18:36] [Async Chat Thread - #6/INFO]: [Not Secure] <fabrizio123> xd
+[06:19:08] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
+[06:19:15] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> tu tienes armor estupido
+[06:19:19] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
+[06:19:20] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
+[06:19:29] [Server thread/INFO]: SinJao has made the advancement [Cover Me with Diamonds]
+[06:19:38] [Server thread/INFO]: SinJao has made the advancement [Acquire Hardware]
+[06:19:45] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> ve y aprende
+[06:19:59] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> dale pue
+[06:20:02] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> a ver si tan macho
+[06:20:22] [Server thread/INFO]: SinJao has made the advancement [Sweet Dreams]
