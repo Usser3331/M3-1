@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732682131361
-  login: 1732681772829
+  logout: 1732764667967
+  login: 1732764184812
 money: '0'
 last-account-name: Jkevvrzzz
 lastlocation:
@@ -29,10 +29,19 @@ lastlocation:
   yaw: 5.46026611328125
   pitch: 26.441974639892578
 logoutlocation:
-  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
-  world-name: world
-  x: -258.148920237178
-  y: 73.00133597911214
-  z: 676.8902318359035
-  yaw: -173.260986328125
-  pitch: 21.019546508789062
+  world: 6cce31da-3f08-4c72-b96a-b82bdaecebd9
+  world-name: world_nether
+  x: 17.69999998807907
+  y: 27.0
+  z: 51.30000001192093
+  yaw: 36.22726821899414
+  pitch: 23.2984619140625
+homes:
+  home:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -260.41110544884543
+    y: 71.0
+    z: 686.1693890886373
+    yaw: -124.76226806640625
+    pitch: 31.455873489379883

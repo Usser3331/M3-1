@@ -491,3 +491,23 @@ reloadconfirm<--[HERE]
 [02:58:01] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
 [02:58:34] [Server thread/INFO]: Strande_ issued server command: /tps
 [03:05:32] [Server thread/INFO]: Strande_ issued server command: /home base1
+[03:22:06] [Server thread/INFO]: Strande_ issued server command: /homes
+[03:23:03] [User Authenticator #1/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[03:23:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:23:04] [Server thread/INFO]: Jkevvrzzz joined the game
+[03:23:04] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:52589] logged in with entity id 7338 at ([world]-258.1677711600376, 73.24947197770308, 676.7312107366337)
+[03:23:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Jkevvrzzz> Q ONDA
+[03:23:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> ando buscando montañas xd
+[03:23:35] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:23:35] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:23:35] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:23:37] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
+[03:23:46] [Server thread/INFO]: Jkevvrzzz issued server command: /sethome
+[03:23:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> toque que estoy volando sobre el mar
+[03:23:57] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> go dc?
+[03:24:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Jkevvrzzz> ando con un amigo pa
+[03:24:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> vava
+[03:31:07] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[03:31:08] [Server thread/INFO]: Jkevvrzzz left the game
+[03:32:52] [Server thread/INFO]: Strande_ issued server command: /home base2
+[03:32:58] [Server thread/INFO]: Strande_ issued server command: /sethome base2
