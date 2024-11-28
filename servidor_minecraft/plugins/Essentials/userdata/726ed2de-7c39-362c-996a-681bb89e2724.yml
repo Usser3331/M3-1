@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732765813924
+  logout: 1732771446236
   login: 1732765835365
 money: '0'
 last-account-name: Delatrini
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: 71.88867691602854
-  y: 69.0
-  z: 51.457188782277434
-  yaw: 56.523284912109375
-  pitch: 20.27406120300293
+  x: 2.963623433530518
+  y: 77.0
+  z: 2486.798644413517
+  yaw: 116.03466796875
+  pitch: 32.40152359008789
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world

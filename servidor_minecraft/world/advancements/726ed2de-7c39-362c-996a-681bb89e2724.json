@@ -1227,7 +1227,8 @@
     "criteria": {
       "apple": "2024-11-28 04:57:07 +0000",
       "rotten_flesh": "2024-11-28 03:50:40 +0000",
-      "baked_potato": "2024-11-28 03:53:45 +0000"
+      "baked_potato": "2024-11-28 03:53:45 +0000",
+      "carrot": "2024-11-28 05:21:56 +0000"
     },
     "done": false
   },
@@ -1444,6 +1445,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-11-28 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 05:16:09 +0000"
     },
     "done": true
   },
