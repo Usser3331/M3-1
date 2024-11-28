@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732776465854
+  logout: 1732777606609
   login: 1732775890254
 money: '0'
 last-account-name: Strande_
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -1635.9267231849353
-  y: 67.50924684464894
-  z: -1281.5904758284385
-  yaw: -25.435590744018555
-  pitch: 35.14118194580078
+  x: -1650.249765290595
+  y: 66.0
+  z: -1283.1521514110548
+  yaw: 6.128662109375
+  pitch: 21.343528747558594
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world

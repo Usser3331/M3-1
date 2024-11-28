@@ -857,3 +857,96 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 
 [07:01:04] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> largate
 [07:01:18] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pidame la bendicion
 [07:01:24] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> largate
+[07:01:36] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
+[07:01:42] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no habrá misericordia
+[07:01:46] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> en gente como tu
+[07:01:49] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dios se encargará
+[07:02:17] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no porque si la tengo lo reviento
+[07:02:19] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 3er aviso
+[07:02:23] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pideme la bendicion
+[07:02:28] [Server thread/INFO]: SinJao was slain by fabrizio123
+[07:02:37] [Server thread/INFO]: Strande_ issued server command: /creative
+[07:02:40] [Server thread/INFO]: SinJao was slain by fabrizio123
+[07:02:55] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
+[07:03:11] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> eu
+[07:03:19] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> rompi el spawn para irme
+[07:03:29] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
+[07:03:41] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ando chill de cojones
+[07:03:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> jajaja
+[07:03:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> ire a descansar
+[07:03:59] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> serpa
+[07:04:01] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> son 3 am
+[07:04:13] [Server thread/INFO]: SinJao lost connection: Disconnected
+[07:04:13] [Server thread/INFO]: SinJao left the game
+[07:04:27] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> alamos yo tmb
+[07:04:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> yaya
+[07:04:36] [Server thread/INFO]: fabrizio123 lost connection: Disconnected
+[07:04:36] [Server thread/INFO]: fabrizio123 left the game
+[07:04:50] [Server thread/INFO]: Strande_ issued server command: /gamemode survival
+[07:04:55] [Server thread/INFO]: [AngelChest] Strande_ opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1633.0,y=66.0,z=-1274.0,pitch=0.0,yaw=0.0}
+[07:05:46] [User Authenticator #10/INFO]: UUID of player skunk_mx is b1a837d0-6775-3596-a3ff-565f718c7623
+[07:05:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player skunk_mx's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[07:05:47] [Server thread/INFO]: skunk_mx joined the game
+[07:05:47] [Server thread/INFO]: skunk_mx[/127.104.9.75:38851] logged in with entity id 24744 at ([world]88.69999998807907, 64.0, -27.565865295879945)
+[07:06:18] [Async Chat Thread - #13/INFO]: [Not Secure] <skunk_mx> hola
+[07:06:46] [Server thread/INFO]: Strande_ lost connection: Disconnected
+[07:06:46] [Server thread/INFO]: Strande_ left the game
+[07:07:00] [Server thread/INFO]: Stopping the server
+[07:07:00] [Server thread/INFO]: Stopping server
+[07:07:00] [Server thread/INFO]: [TreeCapitator] Disabling TreeCapitator v1.0
+[07:07:00] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[07:07:00] [Server thread/INFO]: [TAB] Disabling TAB v5.0.1
+[07:07:00] [Server thread/INFO]: [TAB] Disabled in 4ms
+[07:07:00] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[07:07:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[07:07:00] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[07:07:00] [Server thread/ERROR]: Error occurred while disabling AngelChest v13.9.0
+java.lang.ExceptionInInitializerError: null
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain.onDisable(AngelChestMain.java:442) ~[AngelChest-13.9.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:609) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1046) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:847) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:539) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:219) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:210) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.scheduler.BukkitRunnable.runTaskTimer(BukkitRunnable.java:117) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain$$aF.<clinit>(GraveyardListener.java:57) ~[AngelChest-13.9.0.jar:?]
+	... 12 more
+[07:07:00] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[07:07:00] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[07:07:00] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.146
+[07:07:00] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[07:07:00] [Server thread/INFO]: [LuckPerms] Closing storage...
+[07:07:00] [Server thread/INFO]: [LuckPerms] Goodbye!
+[07:07:00] [Server thread/INFO]: Saving players
+[07:07:00] [Server thread/INFO]: skunk_mx lost connection: Server closed
+[07:07:00] [Server thread/INFO]: skunk_mx left the game
+[07:07:00] [Server thread/INFO]: Saving worlds
+[07:07:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:07:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:07:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:07:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saved 366 block chunks, 389 entity chunks, 0 poi chunks in world 'world' in 0.88s
+[07:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[07:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

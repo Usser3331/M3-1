@@ -719,7 +719,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-11-28 06:57:18 +0000"
+      "minecraft:skeleton": "2024-11-28 06:57:18 +0000",
+      "minecraft:phantom": "2024-11-28 07:01:08 +0000"
     },
     "done": false
   },
