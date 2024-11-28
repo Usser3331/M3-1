@@ -600,3 +600,16 @@ reloadconfirm<--[HERE]
 [04:05:07] [Server thread/INFO]: Strande_ issued server command: /list
 [04:09:39] [Server thread/INFO]: Jkevvrzzz has made the advancement [Not Today, Thank You]
 [04:11:06] [Server thread/INFO]: Delatrini has made the advancement [Suit Up]
+[04:14:40] [Server thread/INFO]: Delatrini has made the advancement [Not Today, Thank You]
+[04:19:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> Delatrini hay /skin por si deseas usarla
+[04:19:18] [Server thread/INFO]: Delatrini issued server command: /skin
+[04:19:47] [Server thread/INFO]: Strande_ issued server command: /lp user Delatrini permission set skinsrestorer.skin true
+[04:19:47] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (delatrini)
+[04:19:47] [luckperms-command-executor/INFO]: [LP] LOG > permission set skinsrestorer.skin true
+[04:21:13] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> Jkevvrzzz ya tenes alguna pieza de netherite?
+[04:22:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Jkevvrzzz> no
+[04:22:25] [Async Chat Thread - #8/INFO]: [Not Secure] <Jkevvrzzz> solo consegui esos 2 y me fui con Delatrini
+[04:22:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> vava
+[04:22:35] [Server thread/INFO]: Delatrini issued server command: /skin kafisdaddy
+[04:22:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> me avisas si necesitas algo
+[04:23:18] [Server thread/INFO]: Delatrini issued server command: /skin llltryhardlll

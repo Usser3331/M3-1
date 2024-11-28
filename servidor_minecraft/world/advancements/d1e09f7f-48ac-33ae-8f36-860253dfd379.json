@@ -12,6 +12,7 @@
       "minecraft:beach": "2024-11-27 04:10:49 +0000",
       "minecraft:forest": "2024-11-27 04:32:16 +0000",
       "minecraft:sunflower_plains": "2024-11-28 03:52:44 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 04:15:52 +0000",
       "minecraft:stony_shore": "2024-11-28 04:05:28 +0000",
       "minecraft:savanna": "2024-11-27 04:12:27 +0000",
       "minecraft:plains": "2024-11-28 03:57:23 +0000"
@@ -656,9 +657,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 04:18:47 +0000"
     },
     "done": true
   },
@@ -683,6 +696,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-11-28 03:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2024-11-28 04:14:12 +0000"
     },
     "done": true
   },
@@ -740,6 +759,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-11-28 04:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-11-28 04:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-11-28 03:53:05 +0000"
@@ -776,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
@@ -785,6 +822,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-11-28 03:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:18:43 +0000"
     },
     "done": true
   },
@@ -803,6 +846,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-11-28 04:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:18:43 +0000"
     },
     "done": true
   },
@@ -833,6 +882,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:18:43 +0000"
     },
     "done": true
   },
@@ -872,6 +927,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-11-28 04:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
@@ -893,6 +960,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 03:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2024-11-28 04:14:12 +0000"
     },
     "done": true
   },

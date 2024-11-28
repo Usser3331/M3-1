@@ -10,6 +10,7 @@
       "minecraft:old_growth_birch_forest": "2024-11-28 03:46:47 +0000",
       "minecraft:beach": "2024-11-28 03:48:36 +0000",
       "minecraft:sunflower_plains": "2024-11-28 03:52:43 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 04:15:49 +0000",
       "minecraft:stony_shore": "2024-11-28 04:05:55 +0000",
       "minecraft:savanna": "2024-11-28 03:51:36 +0000",
       "minecraft:plains": "2024-11-28 03:57:40 +0000"
@@ -150,6 +151,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-11-28 04:14:59 +0000",
+      "minecraft:spider": "2024-11-28 04:15:17 +0000",
       "minecraft:zombie": "2024-11-28 03:50:09 +0000"
     },
     "done": false
@@ -238,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-11-28 04:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-28 03:55:20 +0000"
@@ -283,6 +292,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-11-28 03:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-28 04:14:40 +0000"
     },
     "done": true
   },
@@ -343,6 +358,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-11-28 03:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-11-28 04:15:18 +0000"
     },
     "done": true
   },
@@ -454,6 +475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-11-28 04:08:54 +0000"
@@ -469,6 +496,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-11-28 03:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
     },
     "done": true
   },
@@ -493,6 +526,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-11-28 03:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
     },
     "done": true
   },
@@ -589,6 +628,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
     },
     "done": true
   },
@@ -737,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-28 03:55:20 +0000"
@@ -752,6 +803,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-11-28 03:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
     },
     "done": true
   },
@@ -833,6 +890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 04:03:12 +0000"
@@ -866,6 +929,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-28 04:13:39 +0000"
     },
     "done": true
   },
