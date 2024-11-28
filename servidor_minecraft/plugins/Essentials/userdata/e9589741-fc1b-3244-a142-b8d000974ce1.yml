@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.200.126.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732680860121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732681259032
+  login: 1732681215134
+money: '0'
+last-account-name: JoshePM_12
+logoutlocation:
+  world: 02db97d7-807a-4ba2-9c7e-47f2fa8832a1
+  world-name: world_nether
+  x: -164.67431442270055
+  y: 87.20000004768372
+  z: 220.72655116384138
+  yaw: -53.910709381103516
+  pitch: 32.85002136230469
+lastlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -247.81950627429322
+  y: 72.0
+  z: 677.7847139372843
+  yaw: -56.349365234375
+  pitch: 21.7749080657959
+homes:
+  base:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -233.9200042655608
+    y: 77.0
+    z: 661.5846576845053
+    yaw: -12.09979248046875
+    pitch: 14.124899864196777
+  cima:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -244.29192618052218
+    y: 193.0
+    z: 779.5784135154199
+    yaw: -0.5113142728805542
+    pitch: 15.44998550415039
+  negros:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -239.10355759175857
+    y: 65.0
+    z: 682.6999999880791
+    yaw: 128.707275390625
+    pitch: 13.386404037475586

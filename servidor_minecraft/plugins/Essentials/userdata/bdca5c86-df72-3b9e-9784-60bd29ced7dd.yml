@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.100.95.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732682000994
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732682131376
+  login: 1732681679090
+money: '0'
+last-account-name: SinJao
+lastlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: 75.93569601993538
+  y: 73.7531999805212
+  z: 138.13725741338985
+  yaw: -7.7587890625
+  pitch: 32.24386215209961
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: 82.08587083459972
+  y: 64.0
+  z: -10.699999988079071
+  yaw: -155.21632385253906
+  pitch: -49.96717071533203

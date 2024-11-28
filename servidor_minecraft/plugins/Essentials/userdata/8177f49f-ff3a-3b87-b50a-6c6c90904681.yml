@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.35.44.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732594970544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732595091985
+  login: 1732594715254
+money: '0'
+last-account-name: xime
+lastlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -244.59101336090038
+  y: 193.0
+  z: 798.0439316559739
+  yaw: 96.15482330322266
+  pitch: 54.89997863769531
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -240.33723387781856
+  y: 193.0
+  z: 782.946730482902
+  yaw: 100.95462036132812
+  pitch: 17.10001564025879
+homes:
+  granja2:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -247.32596381049242
+    y: 193.0
+    z: 790.0828094124195
+    yaw: -174.59519958496094
+    pitch: 13.499969482421875

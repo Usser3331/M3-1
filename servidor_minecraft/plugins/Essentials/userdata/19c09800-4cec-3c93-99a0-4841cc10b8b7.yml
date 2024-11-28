@@ -1,0 +1,127 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.200.126.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732681950584
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732682079816
+  login: 1732682042317
+money: '0'
+last-account-name: Strande_
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -203.69999998807907
+  y: 71.23152379758702
+  z: 674.6177840146237
+  yaw: 10.828704833984375
+  pitch: 15.233999252319336
+lastlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -100.15071087069919
+  y: -30.0
+  z: 195.920190883895
+  yaw: -160.99314880371094
+  pitch: 5.338550567626953
+homes:
+  nether:
+    world: 02db97d7-807a-4ba2-9c7e-47f2fa8832a1
+    world-name: world_nether
+    x: -22.925253411480288
+    y: 45.0
+    z: 11.985953089635968
+    yaw: 76.4278564453125
+    pitch: 54.959407806396484
+  end:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: 1550.699999988079
+    y: 10.0
+    z: -451.0373103020313
+    yaw: -17.863563537597656
+    pitch: 53.07856750488281
+  spawn:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -1.65232189180513
+    y: 320.0
+    z: 11.559065408519285
+    yaw: -91.85167694091797
+    pitch: 85.20233917236328
+  base1:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -232.060442265597
+    y: 72.0
+    z: 672.8660481786127
+    yaw: -9.099395751953125
+    pitch: 30.024906158447266
+  granja:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -95.72459677015765
+    y: -30.0
+    z: 191.20354678567233
+    yaw: 90.8428955078125
+    pitch: 19.68792724609375
+  granja3:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -278.69999998807907
+    y: 64.0
+    z: 679.368544009654
+    yaw: -96.6832275390625
+    pitch: 51.256629943847656
+  dungeon:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: 1652.2816015035387
+    y: -29.446786612984777
+    z: -246.1250463483429
+    yaw: -95.5816650390625
+    pitch: 39.11478805541992
+  esclavos:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -236.72499674303452
+    y: 65.0
+    z: 684.8792274679554
+    yaw: -84.591064453125
+    pitch: 24.174766540527344
+  cima:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -244.46114083066308
+    y: 264.0
+    z: 791.6999999880791
+    yaw: 2.686004638671875
+    pitch: 36.134578704833984
+  granja2_1:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -244.6684069695798
+    y: 193.0
+    z: 780.7329573120442
+    yaw: 1.2733057737350464
+    pitch: 26.973661422729492
+  cimagranja3:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -268.5885989343326
+    y: 72.0
+    z: 680.9122718405059
+    yaw: -179.5767822265625
+    pitch: 38.7838020324707

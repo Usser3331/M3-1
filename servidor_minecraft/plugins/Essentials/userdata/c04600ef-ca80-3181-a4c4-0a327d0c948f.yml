@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.109.34.235
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732682034192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732682131369
+  login: 1732675028103
+money: '0'
+last-account-name: fabrizio123
+lastlocation:
+  world: 02db97d7-807a-4ba2-9c7e-47f2fa8832a1
+  world-name: world_nether
+  x: -350.64929883325544
+  y: 87.0
+  z: -192.299730417866
+  yaw: 66.763671875
+  pitch: 5.850033283233643
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -243.56697707046513
+  y: 71.41999998688698
+  z: 682.0256872663975
+  yaw: 143.71868896484375
+  pitch: 7.952348232269287
+homes:
+  base:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -242.95029492512478
+    y: 73.0
+    z: 676.3158704744378
+    yaw: 97.36837768554688
+    pitch: 18.15228843688965
+  granja1:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -92.85487400665878
+    y: -30.0
+    z: 192.30000001192093
+    yaw: 39.380802154541016
+    pitch: 2.859528064727783
+  granja2:
+    world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    world-name: world
+    x: -241.72340548857935
+    y: 193.0
+    z: 782.1026510886229
+    yaw: 111.67571258544922
+    pitch: 1.9214324951171875
