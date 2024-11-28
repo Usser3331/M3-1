@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1732682034192
+  lastteleport: 1732773518682
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1732768761671
-  login: 1732768814763
+  login: 1732773085552
 money: '0'
 last-account-name: fabrizio123
 lastlocation:
-  world: 02db97d7-807a-4ba2-9c7e-47f2fa8832a1
+  world: 6cce31da-3f08-4c72-b96a-b82bdaecebd9
   world-name: world_nether
-  x: -350.64929883325544
-  y: 87.0
-  z: -192.299730417866
-  yaw: 66.763671875
-  pitch: 5.850033283233643
+  x: 486.6764342186327
+  y: 73.0
+  z: 1474.5236673036754
+  yaw: 87.67431640625
+  pitch: 1.1999995708465576
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world

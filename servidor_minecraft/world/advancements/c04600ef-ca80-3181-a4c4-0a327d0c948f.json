@@ -625,6 +625,7 @@
       "minecraft:hoglin": "2024-11-17 22:31:36 +0000",
       "minecraft:breeze": "2024-11-23 22:33:45 +0000",
       "minecraft:vindicator": "2024-11-26 07:06:11 +0000",
+      "minecraft:magma_cube": "2024-11-28 05:38:04 +0000",
       "minecraft:spider": "2024-11-17 21:07:16 +0000",
       "minecraft:piglin_brute": "2024-11-17 22:47:48 +0000",
       "minecraft:creeper": "2024-11-17 21:39:03 +0000",
@@ -4106,15 +4107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-11-28 05:19:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-11-28 05:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-11-28 05:19:41 +0000"
     },
     "done": true
   },
