@@ -613,3 +613,78 @@ reloadconfirm<--[HERE]
 [04:22:35] [Server thread/INFO]: Delatrini issued server command: /skin kafisdaddy
 [04:22:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> me avisas si necesitas algo
 [04:23:18] [Server thread/INFO]: Delatrini issued server command: /skin llltryhardlll
+[04:27:52] [Server thread/INFO]: Delatrini has made the advancement [Diamonds!]
+[04:28:33] [User Authenticator #7/INFO]: UUID of player Darnelldmc is c251fbda-aad2-348b-b34a-bda9e6a4c283
+[04:28:34] [Server thread/INFO]: Darnelldmc joined the game
+[04:28:35] [Server thread/INFO]: Darnelldmc[/127.59.97.93:55143] logged in with entity id 34357 at ([world]-11.5, 63.0, -0.5)
+[04:28:52] [Server thread/INFO]: Strande_ issued server command: /lp user Darnelldmc parent set tilines
+[04:28:52] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (darnelldmc)
+[04:28:52] [luckperms-command-executor/INFO]: [LP] LOG > parent set tilines
+[04:28:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Darnelldmc's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:28:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Darnelldmc> holo
+[04:29:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Darnelldmc> donde voy
+[04:29:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Darnelldmc> quien me adopta
+[04:29:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Jkevvrzzz> y ese
+[04:29:14] [Server thread/INFO]: Strande_ issued server command: /lp user Darnelldmc permission set essentials.tpa true
+[04:29:14] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (darnelldmc)
+[04:29:14] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpa true
+[04:29:15] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> xd
+[04:29:20] [Server thread/INFO]: Jkevvrzzz has made the advancement [Acquire Hardware]
+[04:29:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> un nuevo
+[04:29:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> veni
+[04:29:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> manda tpa
+[04:29:43] [Server thread/INFO]: Darnelldmc issued server command: /tpaccept *
+[04:29:50] [Server thread/INFO]: Strande_ issued server command: /lp user Darnelldmc permission set essentials.tpaccept true
+[04:29:50] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (darnelldmc)
+[04:29:50] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpaccept true
+[04:29:56] [Server thread/INFO]: Darnelldmc issued server command: /tpask Strande_
+[04:30:00] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[04:30:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Darnelldmc> adoptame pibe
+[04:30:17] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> dale
+[04:30:19] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> normal
+[04:30:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> consigue tus cositas
+[04:30:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> en lo demas te ayudo
+[04:30:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Darnelldmc> okei
+[04:30:47] [Server thread/INFO]: Darnelldmc has made the advancement [Ice Bucket Challenge]
+[04:30:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> Strande_ hay smg o tell?
+[04:31:05] [Server thread/INFO]: Strande_ issued server command: /tell Jkevvrzzz NO
+[04:31:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> si hay xd
+[04:31:18] [Server thread/INFO]: Jkevvrzzz issued server command: /tell Strade_ che, no le des nada
+[04:31:18] [Server thread/INFO]: [Essentials] Jkevvrzzz was denied access to command.
+[04:31:18] [User Authenticator #8/INFO]: UUID of player skunk_mx is b1a837d0-6775-3596-a3ff-565f718c7623
+[04:31:20] [Server thread/INFO]: skunk_mx joined the game
+[04:31:20] [Server thread/INFO]: skunk_mx[/127.104.9.75:34329] logged in with entity id 35244 at ([world]-0.5, 65.0, 8.5)
+[04:31:23] [Server thread/INFO]: Jkevvrzzz issued server command: /tsmg Strade_ che, no le des nada
+[04:31:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> toque que doy tambien ese permiso pense que nadie lo iba usar
+[04:31:31] [Server thread/INFO]: Jkevvrzzz issued server command: /smg Strade_ che, no le des nada
+[04:31:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> pasame el comando xd
+[04:31:41] [Server thread/INFO]: Strande_ issued server command: /lp user skunk_mx parent set tilines
+[04:31:41] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (skunk_mx)
+[04:31:41] [luckperms-command-executor/INFO]: [LP] LOG > parent set tilines
+[04:31:41] [TAB Processing Thread/INFO]: [TAB] [WARN] Player skunk_mx's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:32:10] [Server thread/INFO]: skunk_mx lost connection: Disconnected
+[04:32:10] [Server thread/INFO]: skunk_mx left the game
+[04:32:14] [Server thread/INFO]: Strande_ issued server command: /lp user skunk_mx permission set essentials.tpa
+[04:32:14] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (skunk_mx)
+[04:32:14] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpa true
+[04:32:34] [Server thread/INFO]: Darnelldmc has made the advancement [Sweet Dreams]
+[04:32:46] [Server thread/INFO]: Darnelldmc has made the advancement [Stone Age]
+[04:32:50] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> EU
+[04:32:52] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> toma
+[04:32:57] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> veni
+[04:33:12] [Server thread/INFO]: Darnelldmc has made the advancement [Diamonds!]
+[04:33:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Jkevvrzzz> Strande_ haste tp
+[04:33:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> agarra no es mucho pero algo
+[04:33:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Jkevvrzzz> aldeano zombie
+[04:33:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> vava
+[04:33:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Darnelldmc> gracia pibe
+[04:33:29] [Server thread/INFO]: Delatrini issued server command: /seed
+[04:33:33] [Server thread/INFO]: Strande_ issued server command: /tpa Jkevvrzzz
+[04:33:39] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
+[04:33:45] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> uy
+[04:33:52] [Server thread/INFO]: Darnelldmc was shot by Skeleton
+[04:33:54] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> traere etiqueta
+[04:34:05] [Server thread/INFO]: Strande_ issued server command: /sethome aldeano
+[04:34:05] [Async Chat Thread - #14/INFO]: [Not Secure] <Jkevvrzzz> yo tengo
+[04:34:12] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> ponele p
+[04:34:29] [Async Chat Thread - #14/INFO]: [Not Secure] <Jkevvrzzz> toma inutil

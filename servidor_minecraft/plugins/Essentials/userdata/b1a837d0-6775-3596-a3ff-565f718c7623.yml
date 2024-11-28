@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.104.9.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732768330272
+  login: 1732768280023
+money: '0'
+last-account-name: skunk_mx
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: 88.69999998807907
+  y: 64.0
+  z: -27.565865295879945
+  yaw: -76.34992218017578
+  pitch: 24.30002212524414
