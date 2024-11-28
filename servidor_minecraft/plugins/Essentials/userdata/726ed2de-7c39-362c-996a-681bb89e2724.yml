@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.108.65.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732765895846
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732765813924
+  login: 1732765835365
+money: '0'
+last-account-name: Delatrini
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: 71.88867691602854
+  y: 69.0
+  z: 51.457188782277434
+  yaw: 56.523284912109375
+  pitch: 20.27406120300293
+lastlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: 99.75448480692097
+  y: 67.7531999805212
+  z: 27.64746412051597
+  yaw: 145.25233459472656
+  pitch: 19.2879695892334
