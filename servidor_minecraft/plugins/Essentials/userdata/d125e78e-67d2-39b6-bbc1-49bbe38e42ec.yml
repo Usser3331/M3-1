@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1732854122983
   login: 1732849805949
 money: '0'
 last-account-name: jerchis
@@ -28,3 +28,11 @@ lastlocation:
   z: 5.755442517148131
   yaw: -46.6427001953125
   pitch: 13.500191688537598
+logoutlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -2666.699999988079
+  y: 57.0
+  z: -1300.699999988079
+  yaw: -27.443115234375
+  pitch: 22.65042495727539
