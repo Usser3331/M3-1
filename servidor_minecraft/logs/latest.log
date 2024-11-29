@@ -134,3 +134,15 @@
 [01:41:12] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
 [01:41:12] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
 [01:41:12] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:01:46] [Server thread/INFO]: Strande_ lost connection: Timed out
+[03:01:46] [Server thread/INFO]: Strande_ left the game
+[03:01:50] [User Authenticator #1/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[03:01:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:01:52] [Server thread/INFO]: Strande_ joined the game
+[03:01:52] [Server thread/INFO]: Strande_[/127.200.126.4:50177] logged in with entity id 21556 at ([world]-1676.2834946872392, 69.69568317254246, -1288.3494778138495)
+[03:10:03] [User Authenticator #2/INFO]: UUID of player jerchis is d125e78e-67d2-39b6-bbc1-49bbe38e42ec
+[03:10:05] [Server thread/INFO]: jerchis joined the game
+[03:10:05] [Server thread/INFO]: jerchis[/127.242.40.0:38791] logged in with entity id 23116 at ([world]-5.5, 64.0, 0.5)
+[03:11:00] [Server thread/INFO]: Strande_ issued server command: /lp user jerchis parent set tilines
+[03:11:00] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (jerchis)
+[03:11:00] [luckperms-command-executor/INFO]: [LP] LOG > parent set tilines
