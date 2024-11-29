@@ -406,3 +406,5 @@
 [06:38:48] [Server thread/INFO]: Strande_ issued server command: /home base2
 [06:38:56] [Server thread/INFO]: Strande_ issued server command: /home base1
 [06:40:28] [Server thread/INFO]: Strande_ issued server command: /home base2
+[06:50:24] [Craft Scheduler Thread - 2161 - Vault/INFO]: [Vault] Checking for Updates ... 
+[06:50:25] [Craft Scheduler Thread - 2161 - Vault/INFO]: [Vault] No new version available
