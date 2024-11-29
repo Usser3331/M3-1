@@ -249,3 +249,24 @@
 [04:25:09] [Server thread/INFO]: Strande_ issued server command: /home base2
 [04:25:19] [Server thread/INFO]: Strande_ issued server command: /home granja2_1
 [04:26:09] [Server thread/INFO]: Strande_ issued server command: /home base2
+[04:44:26] [Server thread/INFO]: fabrizio123 (/127.109.34.235:58913) lost connection: Disconnected
+[04:44:27] [User Authenticator #4/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
+[04:44:31] [User Authenticator #4/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
+[04:44:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fabrizio123's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:44:34] [Server thread/INFO]: fabrizio123 joined the game
+[04:44:34] [Server thread/INFO]: fabrizio123[/127.109.34.235:36307] logged in with entity id 51710 at ([world]-243.5, 74.0, 676.5)
+[04:44:41] [Async Chat Thread - #4/INFO]: [Not Secure] <Strande_> beba
+[04:47:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> ven beba
+[04:47:55] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> manda tpa
+[04:49:44] [Async Chat Thread - #8/INFO]: [Not Secure] <fabrizio123> oe
+[04:49:49] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> que fue
+[04:49:54] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
+[04:49:58] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[04:50:04] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> que fu
+[04:50:14] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> mira adentro de la sala
+[04:50:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> ven
+[04:50:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> es enorme wbon
+[04:50:37] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> haces wbds tya
+[04:50:42] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> ctm
+[04:50:44] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> ta chevre
+[04:51:40] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
