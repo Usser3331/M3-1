@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-29 03:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-11-29 03:48:31 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-11-29 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-11-29 03:55:46 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-11-29 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-29 03:58:13 +0000"
     },
     "done": true
   },
@@ -266,6 +284,18 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-11-29 03:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
     },
     "done": true
   },
@@ -425,9 +455,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-11-29 03:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-29 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
     },
     "done": true
   },
@@ -470,6 +512,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-29 03:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
     },
     "done": true
   },
@@ -629,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-11-29 03:20:55 +0000"
@@ -637,6 +691,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-11-29 03:56:35 +0000",
       "minecraft:zombie": "2024-11-29 03:17:46 +0000",
       "minecraft:drowned": "2024-11-29 03:17:54 +0000"
     },
@@ -669,6 +724,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-29 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
     },
     "done": true
   },
@@ -720,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-29 04:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-11-29 03:19:27 +0000"
@@ -765,16 +832,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-11-29 03:30:34 +0000",
-      "minecraft:old_growth_birch_forest": "2024-11-29 03:10:06 +0000",
       "minecraft:beach": "2024-11-29 03:11:41 +0000",
-      "minecraft:frozen_river": "2024-11-29 03:23:18 +0000",
       "minecraft:forest": "2024-11-29 03:23:24 +0000",
-      "minecraft:cherry_grove": "2024-11-29 03:41:33 +0000",
-      "minecraft:grove": "2024-11-29 03:19:16 +0000",
-      "minecraft:meadow": "2024-11-29 03:35:44 +0000",
+      "minecraft:river": "2024-11-29 03:52:22 +0000",
       "minecraft:stony_shore": "2024-11-29 03:24:03 +0000",
       "minecraft:snowy_plains": "2024-11-29 03:19:25 +0000",
       "minecraft:snowy_taiga": "2024-11-29 03:21:12 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-29 03:10:06 +0000",
+      "minecraft:frozen_river": "2024-11-29 03:23:18 +0000",
+      "minecraft:ocean": "2024-11-29 03:51:59 +0000",
+      "minecraft:cherry_grove": "2024-11-29 03:41:33 +0000",
+      "minecraft:grove": "2024-11-29 03:19:16 +0000",
+      "minecraft:meadow": "2024-11-29 03:35:44 +0000",
       "minecraft:plains": "2024-11-29 03:31:06 +0000"
     },
     "done": false
@@ -880,6 +949,12 @@
       "cooked_mutton": "2024-11-29 03:18:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -1013,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-29 03:13:10 +0000"
@@ -1043,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 03:34:15 +0000"
@@ -1052,6 +1139,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-29 03:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:50:18 +0000"
     },
     "done": true
   },
