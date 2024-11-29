@@ -146,3 +146,54 @@
 [03:11:00] [Server thread/INFO]: Strande_ issued server command: /lp user jerchis parent set tilines
 [03:11:00] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (jerchis)
 [03:11:00] [luckperms-command-executor/INFO]: [LP] LOG > parent set tilines
+[03:11:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jerchis's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:11:13] [Server thread/INFO]: Strande_ issued server command: /lp user jerchis permission set essentials.tpa
+[03:11:13] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (jerchis)
+[03:11:13] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpa true
+[03:11:17] [Server thread/INFO]: Strande_ issued server command: /lp user jerchis permission set essentials.sethome
+[03:11:17] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (jerchis)
+[03:11:17] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome true
+[03:11:24] [Server thread/INFO]: Strande_ issued server command: /lp user jerchis permission set essentials.tpaccept
+[03:11:24] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (jerchis)
+[03:11:24] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpaccept true
+[03:11:33] [Async Chat Thread - #0/INFO]: [Not Secure] <jerchis> holaa
+[03:11:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> que tal
+[03:11:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> nuevo?
+[03:11:49] [Async Chat Thread - #0/INFO]: [Not Secure] <jerchis> siiii
+[03:11:58] [Async Chat Thread - #0/INFO]: [Not Secure] <jerchis> un gusto
+[03:12:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> dale xd un gusto
+[03:12:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> consigue tus cositas
+[03:12:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> podes romper?
+[03:12:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> osea bloques?
+[03:12:29] [Server thread/INFO]: Strande_ issued server command: /homes spawn
+[03:12:31] [Async Chat Thread - #0/INFO]: [Not Secure] <jerchis> noooo talvez por q estoy cerca al spawn
+[03:12:42] [Async Chat Thread - #0/INFO]: [Not Secure] <jerchis> si ya me deje
+[03:13:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> bien
+[03:13:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> deseas vivir lejos
+[03:13:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> o con la gente?
+[03:13:44] [Server thread/WARN]: Player Strande_ just tried to change non-editable sign
+[03:14:05] [Server thread/INFO]: Strande_ issued server command: /home base2
+[03:17:45] [Server thread/INFO]: Strande_ issued server command: /tpa jerchis
+[03:17:46] [Server thread/INFO]: jerchis has made the advancement [Monster Hunter]
+[03:18:00] [Server thread/INFO]: jerchis issued server command: /tpaccept
+[03:18:04] [Async Chat Thread - #2/INFO]: [Not Secure] <Strande_> que paso xd
+[03:18:16] [Async Chat Thread - #3/INFO]: [Not Secure] <jerchis> no se me mandaste tp
+[03:18:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> no es eso si no que pense que andabas ya con hierro xd
+[03:18:50] [Async Chat Thread - #3/INFO]: [Not Secure] <jerchis> nooo q seas de dia ire a buscar una cueva
+[03:19:01] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> veni
+[03:19:03] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> manda tpa
+[03:19:06] [Server thread/INFO]: Strande_ issued server command: /home base2
+[03:19:06] [Async Chat Thread - #3/INFO]: [Not Secure] <jerchis> ok
+[03:19:13] [Server thread/INFO]: jerchis issued server command: /tpa Strande_
+[03:19:16] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[03:19:24] [Async Chat Thread - #3/INFO]: [Not Secure] <jerchis> oh
+[03:19:31] [Server thread/INFO]: jerchis has made the advancement [Stone Age]
+[03:19:41] [Async Chat Thread - #3/INFO]: [Not Secure] <jerchis> esta es tu base
+[03:19:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> naa
+[03:19:53] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> es solo mi sala de cofres
+[03:19:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> xd
+[03:20:03] [Async Chat Thread - #3/INFO]: [Not Secure] <jerchis> mmmm jajjajajajjajajja q joda
+[03:20:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> see
+[03:20:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> ahi hay una cama dormi
+[03:20:23] [Server thread/INFO]: jerchis has made the advancement [Getting an Upgrade]
+[03:20:28] [Async Chat Thread - #3/INFO]: [Not Secure] <jerchis> okw
