@@ -211,3 +211,33 @@
 [03:36:58] [Server thread/INFO]: Strande_ issued server command: /home base1
 [03:37:02] [Server thread/INFO]: Strande_ issued server command: /home base2
 [03:41:12] [Server thread/INFO]: Strande_ issued server command: /home granja2_1
+[03:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[03:44:44] [Server thread/WARN]: jerchis moved too quickly! -5.873453994225201,-2.0,-8.300512620475047
+[03:44:51] [Server thread/INFO]: Strande_ lost connection: Disconnected
+[03:44:52] [Server thread/INFO]: Strande_ left the game
+[03:44:59] [User Authenticator #3/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[03:45:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:45:00] [Server thread/INFO]: Strande_ joined the game
+[03:45:00] [Server thread/INFO]: Strande_[/127.200.126.4:37365] logged in with entity id 36483 at ([world]-1000.5344604372989, 44.97264403231222, -324.88309231508566)
+[03:45:21] [Server thread/INFO]: Strande_ lost connection: Disconnected
+[03:45:21] [Server thread/INFO]: Strande_ left the game
+[03:45:23] [User Authenticator #3/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[03:45:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:45:24] [Server thread/INFO]: Strande_ joined the game
+[03:45:24] [Server thread/INFO]: Strande_[/127.200.126.4:55857] logged in with entity id 36767 at ([world]-1049.3474116704488, 67.31435479176788, -320.1059260328417)
+[03:45:34] [Server thread/INFO]: Strande_ lost connection: Disconnected
+[03:45:34] [Server thread/INFO]: Strande_ left the game
+[03:45:36] [User Authenticator #3/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[03:45:37] [Server thread/INFO]: Strande_ joined the game
+[03:45:37] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:45:37] [Server thread/INFO]: Strande_[/127.200.126.4:40893] logged in with entity id 36994 at ([world]-1071.0340096977848, 67.85442665049501, -307.41369824934577)
+[03:45:51] [Server thread/INFO]: Strande_ issued server command: /deop Strande_
+[03:45:51] [Server thread/INFO]: [Strande_: Made Strande_ no longer a server operator]
+[03:45:54] [Server thread/INFO]: Strande_ lost connection: Disconnected
+[03:45:54] [Server thread/INFO]: Strande_ left the game
+[03:45:57] [User Authenticator #3/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[03:45:58] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:45:58] [Server thread/INFO]: Strande_ joined the game
+[03:45:58] [Server thread/INFO]: Strande_[/127.200.126.4:50713] logged in with entity id 37263 at ([world]-1122.783218156489, 66.10330046564498, -278.89636168548867)
+[03:46:39] [Server thread/INFO]: Strande_ issued server command: /home base2
+[03:48:31] [Server thread/INFO]: jerchis has made the advancement [Isn't It Iron Pick]
