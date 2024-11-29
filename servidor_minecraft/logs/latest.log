@@ -1,952 +1,131 @@
-[05:49:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[05:49:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[05:49:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:49:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
-[05:49:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+[00:49:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[00:49:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[00:49:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:49:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[00:49:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
  - AngelChest (13.9.0), Essentials (2.20.1), LuckPerms (5.4.146), PlaceholderAPI (2.11.6), SkinsRestorer (15.4.4), TAB (5.0.1), TreeCapitator (1.0), Vault (1.7.3-b131)
-[05:49:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:49:55] [ServerMain/INFO]: Loaded 1290 recipes
-[05:49:55] [ServerMain/INFO]: Loaded 1399 advancements
-[05:49:56] [Server thread/INFO]: Starting minecraft server version 1.21
-[05:49:56] [Server thread/INFO]: Loading properties
-[05:49:56] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[05:49:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:49:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:49:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:49:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[05:49:59] [Server thread/INFO]: Default game type: SURVIVAL
-[05:49:59] [Server thread/INFO]: Generating keypair
-[05:49:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:49:59] [Server thread/INFO]: Using epoll channel type
-[05:49:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:49:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[05:50:00] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[05:50:11] [Server thread/WARN]: Legacy plugin TreeCapitator v1.0 does not specify an api-version.
-[05:50:11] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.146
-[05:50:11] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[05:50:11] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[05:50:11] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
-[05:50:11] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[05:50:11] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.1
-[05:50:11] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[05:50:11] [Server thread/INFO]: [TreeCapitator] Loading server plugin TreeCapitator v1.0
-[05:50:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:50:11] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.146
-[05:50:12] [Server thread/INFO]:         __    
-[05:50:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.146
-[05:50:12] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[05:50:12] [Server thread/INFO]: 
-[05:50:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[05:50:12] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[05:50:13] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[05:50:13] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[05:50:13] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1908ms)
-[05:50:13] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[05:50:13] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[05:50:14] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[05:50:14] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[05:50:14] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[05:50:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[05:50:16] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[05:50:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[05:50:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:50:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
-[05:50:18] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[05:50:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:50:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:50:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:50:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:50:18] [Server thread/INFO]: Preparing level "world"
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:50:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:50:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:50:21] [Server thread/INFO]: Time elapsed: 2220 ms
-[05:50:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:50:22] [Server thread/INFO]: Time elapsed: 304 ms
-[05:50:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:50:22] [Server thread/INFO]: Time elapsed: 166 ms
-[05:50:22] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[05:50:23] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[05:50:23] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
-[05:50:23] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[05:50:23] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[05:50:23] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[05:50:24] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[05:50:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
-[05:50:24] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
-[05:50:24] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[05:50:24] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
-[05:50:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[05:50:24] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[05:50:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[05:50:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[05:50:26] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[05:50:26] [Server thread/INFO]: [Essentials] Using locale en
-[05:50:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[05:50:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[05:50:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[05:50:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[05:50:27] [Server thread/INFO]: [TAB] Enabling TAB v5.0.1
-[05:50:27] [Server thread/INFO]: [TAB] Loaded NMS hook in 101ms
-[05:50:29] [Server thread/INFO]: [TAB] Enabled in 1775ms
-[05:50:29] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v1.0*
-[05:50:30] [Server thread/INFO]: [spark] Starting background profiler...
-[05:50:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[05:50:30] [Server thread/INFO]: Done preparing level "world" (12.162s)
-[05:50:30] [Server thread/INFO]: Running delayed init tasks
-[05:50:30] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[05:50:30] [Server thread/INFO]: Done (49.959s)! For help, type "help"
-[05:50:30] [Server thread/INFO]: Timings Reset
-[05:50:31] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
-[05:50:31] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
-[05:50:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[05:50:31] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[05:50:31] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
-[05:50:33] [Server thread/INFO]: [AngelChest] ========================================================
-[05:50:33] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[05:50:33] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[05:50:33] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[05:50:33] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[05:50:33] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[05:50:33] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[05:50:33] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[05:50:33] [Server thread/INFO]: [AngelChest] 
-[05:50:33] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[05:50:33] [Server thread/INFO]: [AngelChest] ========================================================
-[05:50:44] [User Authenticator #0/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
-[05:50:46] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[05:50:46] [Server thread/INFO]: Strande_ joined the game
-[05:50:46] [Server thread/INFO]: Strande_[/127.200.126.4:54455] logged in with entity id 26 at ([world]-1672.7996479354392, 67.0, -1259.773952595914)
-[05:51:19] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
-[05:51:19] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
-[05:51:19] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
-[05:51:24] [User Authenticator #0/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
-[05:51:25] [Server thread/INFO]: fabrizio123 joined the game
-[05:51:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fabrizio123's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[05:51:25] [Server thread/INFO]: fabrizio123[/127.109.34.235:39529] logged in with entity id 281 at ([world_nether]558.2089955641568, 95.0, 262.18230442967155)
-[05:56:37] [Server thread/INFO]: Strande_ lost connection: Disconnected
-[05:56:37] [Server thread/INFO]: Strande_ left the game
-[05:56:41] [User Authenticator #1/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
-[05:56:42] [Server thread/INFO]: Strande_ joined the game
-[05:56:42] [Server thread/INFO]: Strande_[/127.200.126.4:39403] logged in with entity id 3291 at ([world]-1662.9021024333538, 74.0, -1249.7346824375247)
-[05:56:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[05:58:38] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
-[06:02:04] [User Authenticator #2/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:02:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@45995219[id=d1e09f7f-48ac-33ae-8f36-860253dfd379,name=Jkevvrzzz,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczMjc3MzcyNDk2MiwKICAicHJvZmlsZUlkIiA6ICI4MWNmMGI2NzY0MjE0ODZhODdmMTM2YzMwMWVmMTgzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKa2V2dnJ6enoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmU1MTU5MGJiNjMzNjUwNmUyNjYyZGQwOTExYjFkMzY2Y2U2ZjVkOTg1YjBkZDM5ZjYzMDA5MTU2ZjlkY2FlNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU2OWI3ZjJhMWQwMGQyNmYzMGVmZTNmOWFiOWFjODE3YjFlNmQzNWY0ZjNjZmIwMzI0ZWYyZDMyODIyM2QzNTAiCiAgICB9CiAgfQp9, signature=ZODZSVW1FLHTj+GHODbULMvxYs/YpzH4ijO+uwoVoLl43U8rc9mUUQzfbh/CMQ6SGZtU/aKf3LrzBBrv0Mumdjwe8+vEZ7VlVGbjMtlKdy+zSv/RNOHVuSv0dGB9LFSOtZ8FpqyOJ+D4e9Cs6I+HWMOqZnCqnbOeS9GYvLay5AOvra5mIXHJarAD3yCZjK2kJkndjOoUyYL5czaC6Y2KV3F78FxfcLUfY8pc7O+XBxq6Q6DYlbMwTOKXlj8BbyVhCE5wOCqEd9IlVkj3d9XkpQxwQOrrHENkLTBTIrp7L2MJ6d0m5nTnb0QfNe6l2HEH1aEcr7iG0+wyXwfFknhKBpGIO8I4Etkl5r0zn2DQViaOi0obsFbqtm73W6ac9porFVLYGE7I4t6sKn5jRi5DLZg3krct3hN0i1so3WHlKU6y2LTTH3d9hqCuB86IVBwP7SsXKGEi7Yzc3IER2+Qpl7kRcdodG7zjGrTpZwNNClfYSV38KjvDRHj+xPq/KnMQ5UItkdP+SoHdBR43kegs+wHzYUHpVvEw0CCJfuaQx8nQKOTWzvi/f4fsEP5DvFRMIyzFNGHnvwZdfo4tOwSjXtT6ieTz9QbxnBecSGMWpz5c973yupxRZfqc+xrtp0qvKzzfbDdH0DxkoXtfHsP4vKeIL02uuuot1BYAyK0QTuo=]]}] lost connection: Disconnected
-[06:02:13] [User Authenticator #2/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:02:14] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:02:14] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:02:14] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:56875] logged in with entity id 4869 at ([world]-2.760041914657008, 72.0, 2476.569471790707)
-[06:02:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 29a5e182-10e0-4f2c-a076-3d51c2507d2c, mapped to Bat['Bat'/4898, uuid='29a5e182-10e0-4f2c-a076-3d51c2507d2c', l='ServerLevel[world]', x=-43.97, y=-22.37, z=2478.02, cpos=[-3, 154], tl=766, v=true], can't add Bat['Bat'/4916, uuid='29a5e182-10e0-4f2c-a076-3d51c2507d2c', l='ServerLevel[world]', x=-41.84, y=-26.03, z=2463.18, cpos=[-3, 153], tl=402, v=false]
-[06:02:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 4f890d36-2065-4d21-ae52-60b73c097b31, mapped to Zombie['Zombie'/4937, uuid='4f890d36-2065-4d21-ae52-60b73c097b31', l='ServerLevel[world]', x=-6.30, y=29.00, z=2541.89, cpos=[-1, 158], tl=120, v=true], can't add Zombie['Zombie'/4951, uuid='4f890d36-2065-4d21-ae52-60b73c097b31', l='ServerLevel[world]', x=-2.81, y=31.00, z=2544.26, cpos=[-1, 159], tl=179, v=false]
-[06:02:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2f09b512-9d0b-4343-8948-988eefa79c36, mapped to Bat['Bat'/4947, uuid='2f09b512-9d0b-4343-8948-988eefa79c36', l='ServerLevel[world]', x=-47.34, y=18.70, z=2501.67, cpos=[-3, 156], tl=525, v=true], can't add Bat['Bat'/4957, uuid='2f09b512-9d0b-4343-8948-988eefa79c36', l='ServerLevel[world]', x=-48.34, y=18.69, z=2509.83, cpos=[-4, 156], tl=668, v=false]
-[06:02:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 45fdaa91-1ab1-42a3-8158-762fcea7adcb, mapped to Creeper['Creeper'/4930, uuid='45fdaa91-1ab1-42a3-8158-762fcea7adcb', l='ServerLevel[world]', x=47.62, y=0.18, z=2450.25, cpos=[2, 153], tl=95, v=true], can't add Creeper['Creeper'/4967, uuid='45fdaa91-1ab1-42a3-8158-762fcea7adcb', l='ServerLevel[world]', x=48.16, y=1.00, z=2449.52, cpos=[3, 153], tl=173, v=false]
-[06:02:16] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5c3dbb5a-4018-4c41-9851-a958b6787c2f, mapped to Bee['Bee'/5024, uuid='5c3dbb5a-4018-4c41-9851-a958b6787c2f', l='ServerLevel[world]', x=52.91, y=84.50, z=2522.19, cpos=[3, 157], tl=23624, v=true], can't add Bee['Bee'/5046, uuid='5c3dbb5a-4018-4c41-9851-a958b6787c2f', l='ServerLevel[world]', x=50.15, y=83.29, z=2532.39, cpos=[3, 158], tl=23750, v=false]
-[06:02:18] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:02:18] [Server thread/INFO]: Jkevvrzzz left the game
-[06:02:39] [Server thread/INFO]: Strande_ issued server command: /home base1
-[06:02:58] [Async Chat Thread - #1/INFO]: [Not Secure] <fabrizio123> que hay
-[06:05:41] [User Authenticator #3/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:05:42] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:05:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:05:42] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:40881] logged in with entity id 5536 at ([world]-2.760041914657008, 72.0, 2476.569471790707)
-[06:05:49] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:05:49] [Server thread/INFO]: Jkevvrzzz left the game
-[06:07:16] [User Authenticator #4/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:07:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:07:16] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:07:16] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:46315] logged in with entity id 5942 at ([world]-0.21114298154591354, 73.0, 2472.0716706736075)
-[06:07:29] [Async Chat Thread - #2/INFO]: [Not Secure] <fabrizio123> que gaces jhon
-[06:07:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> toy hablando con ellos xd
-[06:07:52] [Async Chat Thread - #3/INFO]: [Not Secure] <fabrizio123> q
-[06:09:45] [Server thread/WARN]: fabrizio123 moved too quickly! 19.912901986689718,-3.4239667008948516,-2.2211992387998407
-[06:12:54] [Server thread/INFO]: Strande_ issued server command: /home base2
-[06:13:08] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:13:08] [Server thread/INFO]: Jkevvrzzz left the game
-[06:13:11] [User Authenticator #5/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:13:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:13:11] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:13:11] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:59067] logged in with entity id 8362 at ([world]-18.08216704509059, 71.9375, 2471.3073396979776)
-[06:13:50] [User Authenticator #5/INFO]: UUID of player SinJao is bdca5c86-df72-3b9e-9784-60bd29ced7dd
-[06:13:52] [Server thread/INFO]: SinJao joined the game
-[06:13:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player SinJao's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:13:52] [Server thread/INFO]: SinJao[/127.100.95.161:37305] logged in with entity id 8891 at ([world]424.8541974563193, 70.16610926093821, 548.3394380938369)
-[06:15:36] [Server thread/INFO]: Jkevvrzzz issued server command: /sethome
-[06:15:42] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
-[06:15:45] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:16:02] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
-[06:16:05] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> yo quiero
-[06:16:06] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
-[06:16:12] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> dame espada
-[06:16:47] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:16:50] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> dame espada
-[06:16:54] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
-[06:16:57] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
-[06:17:06] [Async Chat Thread - #4/INFO]: [Not Secure] <SinJao> che
-[06:17:38] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
-[06:17:57] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
-[06:18:13] [Async Chat Thread - #6/INFO]: [Not Secure] <SinJao> te voy a clipear con esta iron hoe que le saqué a strande
-[06:18:19] [Async Chat Thread - #6/INFO]: [Not Secure] <SinJao> quitate la perchera y el pantalon nadamas
-[06:18:27] [Async Chat Thread - #6/INFO]: [Not Secure] <SinJao> tu a mano yo a esto
-[06:18:33] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
-[06:18:36] [Async Chat Thread - #6/INFO]: [Not Secure] <fabrizio123> xd
-[06:19:08] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:19:15] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> tu tienes armor estupido
-[06:19:19] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
-[06:19:20] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
-[06:19:29] [Server thread/INFO]: SinJao has made the advancement [Cover Me with Diamonds]
-[06:19:38] [Server thread/INFO]: SinJao has made the advancement [Acquire Hardware]
-[06:19:45] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> ve y aprende
-[06:19:59] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> dale pue
-[06:20:02] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> a ver si tan macho
-[06:20:22] [Server thread/INFO]: SinJao has made the advancement [Sweet Dreams]
-[06:20:44] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:20:47] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
-[06:20:54] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> pero mas miedo no puedes tener
-[06:20:57] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> armadura y espada
-[06:21:01] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> con razon no me ganabas ni 1
-[06:21:13] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> XDDD
-[06:21:22] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> me la pelas y se la melaste al mati
-[06:21:31] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> yo no soy 1.7
-[06:21:33] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:21:42] [Server thread/INFO]: [AngelChest] Strande_ opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1673.0,y=66.0,z=-1286.0,pitch=0.0,yaw=0.0}
-[06:21:51] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> si
-[06:22:03] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> telajeta 1 año
-[06:22:20] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> xd
-[06:22:31] [Server thread/INFO]: Jkevvrzzz issued server command: /home
-[06:22:36] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
-[06:22:41] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:23:00] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:23:19] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> que chch haces
-[06:23:42] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> que esats haciendo beba?
-[06:23:53] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> me da ganas de matarlo xd
-[06:23:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> sala de alamacenamiento
-[06:24:04] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> tanto xd
-[06:24:04] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> un q?
-[06:24:06] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> aaa siii
-[06:24:08] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> yo vi ese video
-[06:24:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> diavlo
-[06:24:28] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> si
-[06:25:20] [Server thread/INFO]: SinJao was shot by fabrizio123
-[06:25:26] [Async Chat Thread - #7/INFO]: [Not Secure] <SinJao> a donde tan cancerbero
-[06:25:42] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> me esta llegando
-[06:27:00] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> XDDD
-[06:27:05] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> use el sk
-[06:27:56] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> entraba su mama *
-[06:28:04] [Server thread/INFO]: Strande_ issued server command: /tpa Jkevvrzzz
-[06:28:13] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:28:19] [Async Chat Thread - #8/INFO]: [Not Secure] <fabrizio123> dejate de wbds
-[06:28:48] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:28:53] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> si corres ensima
-[06:28:54] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> de
-[06:28:58] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> los shukler
-[06:28:58] [Async Chat Thread - #8/INFO]: [Not Secure] <fabrizio123> dejate de wbds
-[06:28:59] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> s ebugea
-[06:29:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> JAJAJA
-[06:29:04] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> xddd
-[06:29:08] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> USTEDES ME CONOCEN
-[06:29:10] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> GRACIAS A MI
-[06:29:21] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> YO FUI QUIEN LES DI HOGAR COMO UNA PUTA MADRE
-[06:29:27] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> no te conozco
-[06:29:33] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> estamos en llamada
-[06:29:35] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> xd
-[06:29:37] [Async Chat Thread - #9/INFO]: [Not Secure] <Jkevvrzzz> no es con vos idiota
-[06:29:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> estamos en llamda
-[06:29:44] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> xd
-[06:29:46] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> no estamos hablando contigo :P :P :P ¨:P :P:P
-[06:30:00] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> jhon dile que deje den joder creo que a ti te hace caso
-[06:30:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> pero
-[06:30:14] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:30:15] [Async Chat Thread - #9/INFO]: [Not Secure] <Jkevvrzzz> ASKLAKLKLASLA
-[06:30:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> xd
-[06:30:22] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa SinJao
-[06:30:26] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:30:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> te esta dando golpesito xd
-[06:30:30] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> el que?
-[06:30:35] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> TPA ACPET
-[06:30:37] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> me molesta
-[06:30:42] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> xd
-[06:30:43] [Server thread/INFO]: [AngelChest] Strande_ opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1641.0,y=66.0,z=-1280.0,pitch=0.0,yaw=0.0}
-[06:30:52] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
-[06:30:53] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> AAJHAJAJAJAAJJAJAJAJJAJAJAJJAJAJAJAJ ZORVAK q pendjeote
-[06:30:56] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:31:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> para uno toque
-[06:31:29] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> los domino yo
-[06:31:31] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> si me dan armor
-[06:31:42] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> no hare malda btw
-[06:31:44] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:31:44] [Server thread/INFO]: Jkevvrzzz left the game
-[06:31:48] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> xdd
-[06:31:52] [User Authenticator #6/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:31:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:31:52] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:31:52] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:35495] logged in with entity id 16559 at ([world]-1632.6878881393911, 64.0, -1267.988256602036)
-[06:31:55] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> me estan llegadno
-[06:31:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Jkevvrzzz> dea
-[06:32:04] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> tu tranqui xd
-[06:32:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> corre a base
-[06:32:17] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> ve a casa xd
-[06:32:45] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
-[06:32:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> corre a base xd
-[06:32:59] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:33:00] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> xd
-[06:33:02] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> nop
-[06:33:48] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:34:00] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> QUE ONDA CON LOS FANTON
-[06:34:08] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> parece que quiere morir
-[06:34:12] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> y
-[06:34:24] [Server thread/INFO]: SinJao was slain by Zombie
-[06:34:36] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
-[06:34:37] [Async Chat Thread - #9/INFO]: [Not Secure] <Jkevvrzzz> fabrizio
-[06:34:37] [Async Chat Thread - #8/INFO]: [Not Secure] <SinJao> imagina un mod de tumbas
-[06:34:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Jkevvrzzz> pvp
-[06:34:45] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> luego corres
-[06:34:50] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> eu
-[06:34:50] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> me haces gastar mi comida
-[06:34:52] [Async Chat Thread - #9/INFO]: [Not Secure] <Jkevvrzzz> en server
-[06:34:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> les doy armors
-[06:34:53] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> JAJAJAJA
-[06:35:13] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> esto si me gusta
-[06:35:14] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> anda pvp con SinJao
-[06:35:19] [Async Chat Thread - #9/INFO]: [Not Secure] <SinJao> yo misme
-[06:35:22] [Async Chat Thread - #10/INFO]: [Not Secure] <SinJao> perre
-[06:35:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> veni
-[06:35:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> les dare amors
-[06:35:53] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> osea sin encantamientos parejo
-[06:36:26] [Server thread/INFO]: SinJao hit the ground too hard
-[06:36:39] [Server thread/INFO]: Strande_ issued server command: /home base2
-[06:36:42] [Server thread/INFO]: Strande_ issued server command: /home base1
-[06:36:46] [Server thread/INFO]: Strande_ issued server command: /home granja
-[06:36:57] [Server thread/INFO]: Strande_ issued server command: /home base2
-[06:37:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> veni fabri
-[06:37:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> pvp
-[06:37:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> yo les doy armor
-[06:37:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> no vas a perder nada tu tranqui
-[06:37:17] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> voy
-[06:37:30] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:37:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> vava
-[06:37:41] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> mi esperiencia
-[06:37:43] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> xdd
-[06:37:46] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> tengo 50
-[06:37:48] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> dime cuanto tienes
-[06:37:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> te lo devuelvo
-[06:37:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> se re cago ASJSJKAJKSAJKSA
-[06:38:03] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> puedes?
-[06:38:06] [Server thread/INFO]: Strande_ lost connection: Disconnected
-[06:38:06] [Server thread/INFO]: Strande_ left the game
-[06:38:09] [User Authenticator #7/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
-[06:38:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:38:10] [Server thread/INFO]: Strande_ joined the game
-[06:38:10] [Server thread/INFO]: Strande_[/127.200.126.4:59745] logged in with entity id 18688 at ([world]-1635.9267231849353, 67.5, -1281.5904758284385)
-[06:38:14] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> porque simplemente no me dijiste que te golpearas
-[06:38:23] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
-[06:38:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> vienes fabri?
-[06:38:48] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> te di pt
-[06:38:49] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> tp
-[06:38:51] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:38:56] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> guarda tus cosas
-[06:39:12] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> eres burde malo
-[06:39:15] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> LIT
-[06:39:16] [Server thread/INFO]: Strande_ issued server command: /vanish
-[06:39:22] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> siempre lo has sido
-[06:39:29] [Server thread/INFO]: Strande_ issued server command: /gamemode creative
-[06:39:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> si siempre te cojo
-[06:40:10] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:40:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> XD
-[06:40:24] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> crj
-[06:40:35] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pa que gap
-[06:40:58] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> VEnite pE
-[06:41:03] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> na mentira
-[06:41:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> vas hacer pvp fabrizio123?
-[06:41:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> para darte armor ?
-[06:41:42] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> tengo
-[06:41:43] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> le vas a dar amor?
-[06:41:47] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> le doy yo mejor
-[06:41:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> otra p
-[06:41:56] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> igual
-[06:41:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> sin encantamientos xd
-[06:42:11] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:42:12] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> yo
-[06:42:33] [Server thread/INFO]: Strande_ issued server command: /give SinJao totem 1
-[06:42:33] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
-java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-[06:42:37] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> TOTEM
-[06:42:51] [Server thread/INFO]: Strande_ issued server command: /give Jkevvrzzz totem 1
-[06:42:51] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
-java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-[06:42:52] [Server thread/INFO]: Jkevvrzzz has reached the goal [Postmortal]
-[06:42:52] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:42:52] [Server thread/INFO]: Jkevvrzzz left the game
-[06:42:58] [Server thread/INFO]: SinJao has reached the goal [Postmortal]
-[06:42:59] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:43:00] [Server thread/INFO]: Strande_ issued server command: /tp SinJao Strande_
-[06:43:01] [User Authenticator #8/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:43:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:43:01] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:43:01] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:52997] logged in with entity id 19766 at ([world]-1670.9114485277616, 66.99189059615064, -1255.2262007109882)
-[06:43:03] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:43:03] [Server thread/INFO]: Jkevvrzzz left the game
-[06:43:07] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> ese gay
-[06:43:11] [User Authenticator #8/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:43:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:43:11] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:43:11] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:51693] logged in with entity id 19798 at ([world]-1667.8191498463632, 66.0, -1253.7484689898413)
-[06:43:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> como asi tiene toten
-[06:43:23] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> venite fabrizio ponte armor
-[06:43:31] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> ya tengo
-[06:43:35] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> la otra
-[06:43:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ponete armor de diamante bobo
-[06:43:38] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:43:47] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dejalo en netherite
-[06:43:51] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> eso n oevitara que lo culee
-[06:43:51] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> no si mmgvo
-[06:43:54] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> tanto asi para bajar de nivel xd
-[06:43:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ?
-[06:43:59] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no ves que no está encantada
-[06:44:01] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> y jhon
-[06:44:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ??????
-[06:44:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> estoy aqui
-[06:44:11] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> esta en
-[06:44:11] [Server thread/INFO]: Strande_ issued server command: /vanish
-[06:44:14] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> los comandos
-[06:44:15] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> del sv
-[06:44:21] [Server thread/INFO]: Strande_ issued server command: /vanish
-[06:44:25] [Server thread/INFO]: Strande_ issued server command: /gamemode survival
-[06:44:29] [Server thread/INFO]: Strande_ issued server command: /vanish
-[06:44:34] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:44:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> fabrizio te vas a poner la armor o te da frio?
-[06:44:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> para
-[06:44:41] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dame armor de diamante
-[06:44:50] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> damela
-[06:44:54] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ME TOCA
-[06:44:55] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> DAMELA
-[06:44:56] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> A MI
-[06:45:01] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> yo no tengo
-[06:45:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> la sword
-[06:45:05] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> aaayyy
-[06:45:07] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> yo quiero
-[06:45:15] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> quitate esa espada encantada
-[06:45:21] [Server thread/INFO]: Strande_ issued server command: /give fabrizio123 totem 1
-[06:45:21] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
-java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-[06:45:29] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> JAJA
-[06:45:40] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> JAJAJA
-[06:45:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> ponete sword normal
-[06:45:47] [Server thread/INFO]: SinJao has made the advancement [Stone Age]
-[06:45:55] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:46:11] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:46:15] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dame armooor
-[06:46:18] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> y espadaaa
-[06:46:19] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:46:26] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> COMO QUE NOOO
-[06:46:29] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> ME TIENE MIEDO
-[06:46:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> ponete sword de diamond normal
-[06:46:37] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> SDAJKDJKAJKAD
-[06:46:54] [Server thread/INFO]: Strande_ issued server command: /give Jkevvrzzz totem 1
-[06:46:54] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
-java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-[06:47:01] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
-[06:47:12] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> castigo 5 no sirve aqui xdd
-[06:47:20] [Server thread/INFO]: Strande_ issued server command: /give fabrizio123 diamond_sword
-[06:47:20] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
-java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-[06:47:26] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> tengo
-[06:47:29] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> a mi nada
-[06:47:30] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
-[06:47:32] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> >-<
-[06:47:32] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> muchas espadas
-[06:47:37] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> que tienees john
-[06:47:40] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> DAME 1
-[06:47:42] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:47:46] [Server thread/INFO]: Strande_ issued server command: /vanish
-[06:47:48] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> DAME 1
-[06:47:50] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> RAPIDO
-[06:47:50] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:47:51] [Server thread/INFO]: Strande_ issued server command: /gamemode creative
-[06:48:02] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:48:09] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> mano si eres ridiculo
-[06:48:10] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
-[06:48:22] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:48:31] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> coño deja la ladilal que no es contigo
-[06:48:37] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> das cancer wn
-[06:48:44] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> mardito metio njd
-[06:48:55] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
-[06:48:56] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 3 2 1 pelea
-[06:48:59] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 3 2 1 pelea
-[06:49:03] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> fabri?
-[06:49:04] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> lamentable
-[06:49:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> xd
-[06:49:05] [Server thread/INFO]: Strande_ issued server command: /vanish
-[06:49:10] [Server thread/INFO]: Strande_ issued server command: /gamemode survival
-[06:49:16] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> oe
-[06:49:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> fabrizio123
-[06:49:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> te devulevo tu espada
-[06:49:22] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 456
-[06:49:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> xd
-[06:49:23] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> =
-[06:49:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> pero pvp xd
-[06:49:39] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> y a mi que me devuelves
-[06:49:52] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:50:02] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> jhon de mrd
-[06:50:06] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no tengo anda
-[06:50:08] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
-[06:50:09] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> que chch me quitas mi espada
-[06:50:10] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:50:14] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> damelas
-[06:50:17] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
-[06:50:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> deja ahi nomas
-[06:50:25] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUFFFFFFFFFFF
-[06:50:27] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> q mas
-[06:50:35] [Server thread/INFO]: Strande_ issued server command: /gamemode creative
-[06:50:47] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
-[06:50:48] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> totem
-[06:50:55] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:50:55] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> UYFFFFFFFFFFFFFFFFFFFF
-[06:51:03] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dai ugakl
-[06:51:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> se ecanto todo el imbecil
-[06:51:08] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> da igual si se lo encanto
-[06:51:14] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> qye vebnga}
-[06:51:16] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> aqui
-[06:51:18] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> lo quiero
-[06:51:18] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
-[06:51:20] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> venga el primero
-[06:51:23] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:51:28] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> a ver si tan machote
-[06:51:37] [Server thread/INFO]: Strande_ issued server command: /give SinJao diamond_axe
-[06:51:37] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
-java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
-	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
-[06:51:40] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> TIENE EMPUJE
-[06:51:52] [Server thread/INFO]: SinJao was slain by fabrizio123
-[06:51:53] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
-[06:51:53] [Server thread/INFO]: [AngelChest] fabrizio123 opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1646.0,y=62.0,z=-1287.0,pitch=0.0,yaw=0.0}
-[06:51:58] [Server thread/INFO]: [AngelChest] Strande_ opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1646.0,y=62.0,z=-1287.0,pitch=0.0,yaw=0.0}
-[06:52:00] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> quitate esa espada
-[06:52:01] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> tramposo
-[06:52:09] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:52:13] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dame el ahcha
-[06:52:15] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> damela
-[06:52:17] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
-[06:52:21] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
-[06:52:22] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> ya me aburrieron
-[06:52:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> conmigo inutil
-[06:52:26] [Server thread/INFO]: Strande_ issued server command: /invsee
-[06:52:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Jkevvrzzz> no te diste bobolongo
-[06:52:30] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
-[06:52:32] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa fabrizio123
-[06:52:36] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> SE FUE
-[06:52:37] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:52:42] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ven cobarde
-[06:52:57] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no puedes sin una espada con empuje
-[06:53:00] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
-[06:53:13] [Server thread/INFO]: Strande_ issued server command: /survival
-[06:53:28] [Server thread/INFO]: fabrizio123 was slain by Jkevvrzzz
-[06:53:28] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> q decepcion
-[06:53:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> Q FACIL
-[06:53:32] [Server thread/INFO]: [AngelChest] Jkevvrzzz opened the AngelChest of fabrizio123 at Location{world=CraftWorld{name=world},x=-243.0,y=68.0,z=676.0,pitch=0.0,yaw=0.0}
-[06:53:36] [Server thread/INFO]: [AngelChest] Jkevvrzzz opened the AngelChest of fabrizio123 at Location{world=CraftWorld{name=world},x=-243.0,y=68.0,z=676.0,pitch=0.0,yaw=0.0}
-[06:53:41] [Server thread/INFO]: SinJao issued server command: /tpa
-[06:53:43] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> estaba bajo
-[06:53:47] [Server thread/INFO]: SinJao issued server command: /tpask Jkevvrzzz
-[06:53:48] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> vida y vienes
-[06:53:49] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> xd
-[06:53:53] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
-[06:53:56] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> ACEPTA
-[06:54:12] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
-[06:54:12] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> que me devuelva la armadura
-[06:54:14] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> y la espada
-[06:54:15] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> el cobarde
-[06:54:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> que?
-[06:54:21] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> que necesita empuje
-[06:54:23] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> para ganar
-[06:54:55] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> xd
-[06:54:59] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
-[06:55:03] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> anda llora a otra parte
-[06:55:17] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
-[06:55:23] [Server thread/INFO]: Strande_ issued server command: /invsee Jkevvrzzz
-[06:55:25] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dimelo en la cara pa enseñarte como se ven los dientes en primera persona
-[06:55:27] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:55:36] [Server thread/INFO]: SinJao issued server command: /tpask fabrizio123
-[06:55:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Jkevvrzzz> mi amiga la friki:
-[06:55:51] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
-[06:56:00] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> dame la armadura
-[06:56:03] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:56:07] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> o tienes miedo
-[06:56:15] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> ahora la espada
-[06:56:20] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> muvho pides
-[06:56:21] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ty cakkate
-[06:56:25] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> anda farmea
-[06:56:29] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pues me falta el casco
-[06:56:35] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> eso me lo dio strande
-[06:56:50] [Server thread/INFO]: SinJao was slain by Jkevvrzzz
-[06:57:18] [Server thread/INFO]: SinJao has made the advancement [Monster Hunter]
-[06:57:21] [Server thread/INFO]: Strande_ issued server command: /clear Jkevvrzzz
-[06:57:26] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> ya jhon deja de hacer wbds
-[06:57:28] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> DROPEALO
-[06:57:37] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:57:37] [Server thread/INFO]: Jkevvrzzz left the game
-[06:57:54] [User Authenticator #9/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:57:55] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:57:55] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:57:55] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:52379] logged in with entity id 22752 at ([world]-1642.8593756629925, 61.672748187392955, -1262.1689167305024)
-[06:57:58] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> se deconesta
-[06:58:01] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:58:01] [Server thread/INFO]: Jkevvrzzz left the game
-[06:58:06] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> jaja
-[06:58:08] [Server thread/INFO]: fabrizio123 was slain by SinJao
-[06:58:13] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
-[06:58:18] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> A DODNE TE FUISTE
-[06:58:33] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> oe
-[06:58:35] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> jhon
-[06:58:37] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> manda tpa
-[06:58:38] [User Authenticator #9/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:58:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> dime
-[06:58:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:58:38] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:58:38] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:59213] logged in with entity id 23094 at ([world]-1648.331067773056, 66.0, -1280.7630891161411)
-[06:58:42] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:58:42] [Server thread/INFO]: Jkevvrzzz left the game
-[06:58:42] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> tp
-[06:58:45] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[06:58:51] [Async Chat Thread - #12/INFO]: [Not Secure] <SinJao> tienes miedo o q
-[06:58:56] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> deja de desconectarte
-[06:59:08] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> q me la debeis
-[06:59:17] [User Authenticator #9/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
-[06:59:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[06:59:18] [Server thread/INFO]: Jkevvrzzz joined the game
-[06:59:18] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:54983] logged in with entity id 23161 at ([world]-1650.5551881198949, 66.0, -1279.4516800248289)
-[06:59:20] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
-[06:59:20] [Server thread/INFO]: Jkevvrzzz left the game
-[06:59:52] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> queria que no escapara
-[07:00:03] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> oe jhon pasa filo pe
-[07:00:07] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> no tengo
-[07:00:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> creo que no tengo
-[07:00:29] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> si usas creativo ctmr
-[07:00:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> pero
-[07:00:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> para el pvp noma p hijo
-[07:00:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> lo demas es survival
-[07:00:52] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pidame perdon
-[07:00:55] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> las cosas se quedan hijo
-[07:00:57] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> o lo masacro
-[07:01:04] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> largate
-[07:01:18] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pidame la bendicion
-[07:01:24] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> largate
-[07:01:36] [Server thread/INFO]: Strande_ issued server command: /invsee SinJao
-[07:01:42] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no habrá misericordia
-[07:01:46] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> en gente como tu
-[07:01:49] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> dios se encargará
-[07:02:17] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> no porque si la tengo lo reviento
-[07:02:19] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> 3er aviso
-[07:02:23] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> pideme la bendicion
-[07:02:28] [Server thread/INFO]: SinJao was slain by fabrizio123
-[07:02:37] [Server thread/INFO]: Strande_ issued server command: /creative
-[07:02:40] [Server thread/INFO]: SinJao was slain by fabrizio123
-[07:02:55] [Server thread/INFO]: Strande_ issued server command: /invsee fabrizio123
-[07:03:11] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> eu
-[07:03:19] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> rompi el spawn para irme
-[07:03:29] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
-[07:03:41] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> ando chill de cojones
-[07:03:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> jajaja
-[07:03:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Strande_> ire a descansar
-[07:03:59] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> serpa
-[07:04:01] [Async Chat Thread - #11/INFO]: [Not Secure] <SinJao> son 3 am
-[07:04:13] [Server thread/INFO]: SinJao lost connection: Disconnected
-[07:04:13] [Server thread/INFO]: SinJao left the game
-[07:04:27] [Async Chat Thread - #12/INFO]: [Not Secure] <fabrizio123> alamos yo tmb
-[07:04:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> yaya
-[07:04:36] [Server thread/INFO]: fabrizio123 lost connection: Disconnected
-[07:04:36] [Server thread/INFO]: fabrizio123 left the game
-[07:04:50] [Server thread/INFO]: Strande_ issued server command: /gamemode survival
-[07:04:55] [Server thread/INFO]: [AngelChest] Strande_ opened the AngelChest of SinJao at Location{world=CraftWorld{name=world},x=-1633.0,y=66.0,z=-1274.0,pitch=0.0,yaw=0.0}
-[07:05:46] [User Authenticator #10/INFO]: UUID of player skunk_mx is b1a837d0-6775-3596-a3ff-565f718c7623
-[07:05:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player skunk_mx's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[07:05:47] [Server thread/INFO]: skunk_mx joined the game
-[07:05:47] [Server thread/INFO]: skunk_mx[/127.104.9.75:38851] logged in with entity id 24744 at ([world]88.69999998807907, 64.0, -27.565865295879945)
-[07:06:18] [Async Chat Thread - #13/INFO]: [Not Secure] <skunk_mx> hola
-[07:06:46] [Server thread/INFO]: Strande_ lost connection: Disconnected
-[07:06:46] [Server thread/INFO]: Strande_ left the game
-[07:07:00] [Server thread/INFO]: Stopping the server
-[07:07:00] [Server thread/INFO]: Stopping server
-[07:07:00] [Server thread/INFO]: [TreeCapitator] Disabling TreeCapitator v1.0
-[07:07:00] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
-[07:07:00] [Server thread/INFO]: [TAB] Disabling TAB v5.0.1
-[07:07:00] [Server thread/INFO]: [TAB] Disabled in 4ms
-[07:07:00] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[07:07:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[07:07:00] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
-[07:07:00] [Server thread/ERROR]: Error occurred while disabling AngelChest v13.9.0
-java.lang.ExceptionInInitializerError: null
-	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain.onDisable(AngelChestMain.java:442) ~[AngelChest-13.9.0.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:609) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1046) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:847) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:539) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:219) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:210) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.scheduler.BukkitRunnable.runTaskTimer(BukkitRunnable.java:117) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain$$aF.<clinit>(GraveyardListener.java:57) ~[AngelChest-13.9.0.jar:?]
-	... 12 more
-[07:07:00] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[07:07:00] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[07:07:00] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.146
-[07:07:00] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[07:07:00] [Server thread/INFO]: [LuckPerms] Closing storage...
-[07:07:00] [Server thread/INFO]: [LuckPerms] Goodbye!
-[07:07:00] [Server thread/INFO]: Saving players
-[07:07:00] [Server thread/INFO]: skunk_mx lost connection: Server closed
-[07:07:00] [Server thread/INFO]: skunk_mx left the game
-[07:07:00] [Server thread/INFO]: Saving worlds
-[07:07:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:07:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:07:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:07:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saved 366 block chunks, 389 entity chunks, 0 poi chunks in world 'world' in 0.88s
-[07:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[07:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:07:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:49:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:49:45] [ServerMain/INFO]: Loaded 1290 recipes
+[00:49:45] [ServerMain/INFO]: Loaded 1399 advancements
+[00:49:46] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:49:46] [Server thread/INFO]: Loading properties
+[00:49:46] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[00:49:47] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:49:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:49:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:49:48] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:49:48] [Server thread/INFO]: Default game type: SURVIVAL
+[00:49:48] [Server thread/INFO]: Generating keypair
+[00:49:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:49:49] [Server thread/INFO]: Using epoll channel type
+[00:49:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:49:49] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:49:50] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:50:01] [Server thread/WARN]: Legacy plugin TreeCapitator v1.0 does not specify an api-version.
+[00:50:01] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.146
+[00:50:02] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:50:02] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[00:50:02] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[00:50:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[00:50:02] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.1
+[00:50:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[00:50:02] [Server thread/INFO]: [TreeCapitator] Loading server plugin TreeCapitator v1.0
+[00:50:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:50:02] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.146
+[00:50:02] [Server thread/INFO]:         __    
+[00:50:02] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.146
+[00:50:02] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:50:02] [Server thread/INFO]: 
+[00:50:02] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:50:03] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:50:03] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:50:03] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:50:04] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1822ms)
+[00:50:04] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[00:50:04] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:50:04] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:50:05] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[00:50:05] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[00:50:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[00:50:06] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[00:50:07] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[00:50:09] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:50:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
+[00:50:09] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[00:50:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:50:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:50:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:50:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:50:09] [Server thread/INFO]: Preparing level "world"
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:50:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:50:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:50:12] [Server thread/INFO]: Time elapsed: 2529 ms
+[00:50:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:50:13] [Server thread/INFO]: Time elapsed: 359 ms
+[00:50:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:50:13] [Server thread/INFO]: Time elapsed: 189 ms
+[00:50:13] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[00:50:14] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:50:14] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[00:50:14] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[00:50:14] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[00:50:14] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[00:50:14] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[00:50:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
+[00:50:15] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
+[00:50:15] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[00:50:15] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[00:50:15] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[00:50:15] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[00:50:17] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:50:17] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:50:17] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[00:50:17] [Server thread/INFO]: [Essentials] Using locale en
+[00:50:18] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:50:18] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:50:18] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[00:50:18] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[00:50:18] [Server thread/INFO]: [TAB] Enabling TAB v5.0.1
+[00:50:18] [Server thread/INFO]: [TAB] Loaded NMS hook in 115ms
+[00:50:20] [Server thread/INFO]: [TAB] Enabled in 1391ms
+[00:50:20] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v1.0*
+[00:50:20] [Server thread/INFO]: [spark] Starting background profiler...
+[00:50:22] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:50:22] [Server thread/INFO]: Done preparing level "world" (13.046s)
+[00:50:22] [Server thread/INFO]: Running delayed init tasks
+[00:50:22] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[00:50:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[00:50:22] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[00:50:22] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:50:22] [Server thread/INFO]: Done (49.670s)! For help, type "help"
+[00:50:22] [Server thread/INFO]: Timings Reset
+[00:50:22] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:50:22] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
+[00:50:25] [Server thread/INFO]: [AngelChest] ========================================================
+[00:50:25] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[00:50:25] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[00:50:25] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[00:50:25] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[00:50:25] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[00:50:25] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[00:50:25] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[00:50:25] [Server thread/INFO]: [AngelChest] 
+[00:50:25] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[00:50:25] [Server thread/INFO]: [AngelChest] ========================================================
+[00:51:36] [User Authenticator #0/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[00:51:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:51:39] [Server thread/INFO]: Strande_ joined the game
+[00:51:40] [Server thread/INFO]: Strande_[/127.200.126.4:43569] logged in with entity id 33 at ([world]-1650.249765290595, 66.0, -1283.1521514110548)
+[00:54:50] [Server thread/INFO]: Strande_ issued server command: /home granja2_1
