@@ -1,464 +1,140 @@
-[01:51:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:51:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:51:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:51:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
-[01:51:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
- - AngelChest (13.9.0), Essentials (2.20.1), LuckPerms (5.4.146), PlaceholderAPI (2.11.6), SkinsRestorer (15.4.4), TAB (5.0.1), UltimateTimber (1.1), Vault (1.7.3-b131)
-[01:51:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:51:20] [ServerMain/INFO]: Loaded 1290 recipes
-[01:51:20] [ServerMain/INFO]: Loaded 1399 advancements
-[01:51:21] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:51:21] [Server thread/INFO]: Loading properties
-[01:51:21] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:51:22] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:51:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:51:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:51:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:51:24] [Server thread/INFO]: Default game type: SURVIVAL
-[01:51:24] [Server thread/INFO]: Generating keypair
-[01:51:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:51:24] [Server thread/INFO]: Using epoll channel type
-[01:51:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:51:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:51:25] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.146
-[01:51:25] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[01:51:25] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[01:51:25] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
-[01:51:26] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[01:51:26] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.1
-[01:51:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[01:51:26] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v1.1
-[01:51:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:51:26] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.146
-[01:51:27] [Server thread/INFO]:         __    
-[01:51:27] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.146
-[01:51:27] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[01:51:27] [Server thread/INFO]: 
-[01:51:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[01:51:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[01:51:27] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[01:51:28] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[01:51:28] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2061ms)
-[01:51:28] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[01:51:28] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[01:51:28] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[01:51:29] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[01:51:29] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[01:51:29] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[01:51:31] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:51:33] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:51:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
-[01:51:33] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[01:51:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:51:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:51:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:51:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:51:33] [Server thread/INFO]: Preparing level "world"
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:51:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:51:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:51:35] [Server thread/INFO]: Time elapsed: 1247 ms
-[01:51:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:51:37] [Server thread/INFO]: Time elapsed: 1574 ms
-[01:51:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:51:37] [Server thread/INFO]: Time elapsed: 226 ms
-[01:51:37] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[01:51:38] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[01:51:38] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
-[01:51:39] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[01:51:39] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[01:51:39] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[01:51:39] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[01:51:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
-[01:51:39] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
-[01:51:39] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[01:51:39] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
-[01:51:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[01:51:40] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[01:51:41] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[01:51:41] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[01:51:42] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[01:51:42] [Server thread/INFO]: [Essentials] Using locale en
-[01:51:42] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[01:51:42] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[01:51:42] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[01:51:42] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[01:51:42] [Server thread/INFO]: [TAB] Enabling TAB v5.0.1
-[01:51:43] [Server thread/INFO]: [TAB] Loaded NMS hook in 101ms
-[01:51:44] [Server thread/INFO]: [TAB] Enabled in 1282ms
-[01:51:44] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v1.1
-[01:51:44] [Server thread/INFO]: [spark] Starting background profiler...
-[01:51:45] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[01:51:45] [Server thread/INFO]: Done preparing level "world" (12.094s)
-[01:51:45] [Server thread/INFO]: Running delayed init tasks
-[01:51:45] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[01:51:45] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[01:51:45] [Server thread/INFO]: Done (45.131s)! For help, type "help"
-[01:51:45] [Server thread/INFO]: Timings Reset
-[01:51:45] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
-[01:51:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[01:51:45] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[01:51:45] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
-[01:51:48] [Server thread/INFO]: [AngelChest] ========================================================
-[01:51:48] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[01:51:48] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[01:51:48] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[01:51:48] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[01:51:48] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[01:51:48] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[01:51:48] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[01:51:48] [Server thread/INFO]: [AngelChest] 
-[01:51:48] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[01:51:48] [Server thread/INFO]: [AngelChest] ========================================================
-[01:52:02] [User Authenticator #0/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
-[01:52:05] [Server thread/INFO]: Strande_ joined the game
-[01:52:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:52:06] [Server thread/INFO]: Strande_[/127.200.126.4:40949] logged in with entity id 25 at ([world]-1666.5467005045111, 66.5, -1304.0224520640252)
-[01:52:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> lp
-[01:59:38] [Server thread/INFO]: Strande_ issued server command: /home base1
-[02:00:20] [Server thread/INFO]: Strande_ issued server command: /home granja
-[02:00:31] [Server thread/INFO]: Strande_ issued server command: /home base1
-[02:07:35] [Server thread/INFO]: Strande_ issued server command: /lp
-[02:11:34] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
-[02:11:34] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
-[02:11:34] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
-[02:15:44] [Server thread/INFO]: Strande_ issued server command: /home base2
-[02:16:35] [Server thread/INFO]: Strande_ issued server command: /home granja2_1
-[02:20:04] [Server thread/INFO]: Strande_ issued server command: /home base2
-[02:24:52] [Server thread/WARN]: Strande_ moved wrongly!
-[03:04:46] [Server thread/INFO]: Strande_ issued server command: /home base1
-[03:13:13] [Server thread/INFO]: Strande_ issued server command: /home base2
-[03:33:18] [Server thread/INFO]: Strande_ fell from a high place
-[03:33:37] [Server thread/INFO]: Strande_ issued server command: /home dungeon
-[03:45:15] [Server thread/INFO]: Strande_ issued server command: /home granja
-[03:46:15] [Server thread/INFO]: Strande_ issued server command: /home base2
-[03:46:45] [Server thread/INFO]: Strande_ issued server command: /home base1
-[03:48:10] [Server thread/INFO]: Strande_ fell from a high place
-[03:48:23] [Server thread/INFO]: Strande_ issued server command: /home base1
-[04:00:12] [User Authenticator #1/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
-[04:00:13] [Server thread/INFO]: JoshePM_12 (/127.212.58.155:38173) lost connection: Disconnected
-[04:00:20] [User Authenticator #1/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
-[04:00:22] [TAB Processing Thread/INFO]: [TAB] [WARN] Player JoshePM_12's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[04:00:22] [Server thread/INFO]: JoshePM_12 joined the game
-[04:00:22] [Server thread/INFO]: JoshePM_12[/127.212.58.155:55795] logged in with entity id 32082 at ([world]-1633.300000011921, 66.0, -1289.699999988079)
-[04:00:29] [Async Chat Thread - #1/INFO]: [Not Secure] <JoshePM_12> k aspo'
-[04:01:47] [Async Chat Thread - #3/INFO]: [Not Secure] <JoshePM_12> oe
-[04:01:53] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> que fue
-[04:01:59] [Async Chat Thread - #3/INFO]: [Not Secure] <JoshePM_12> don tas
-[04:02:06] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> manda tpa
-[04:02:23] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:02:26] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:02:28] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> oe
-[04:02:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> beba
-[04:02:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> quieres que se te vea
-[04:02:42] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> bien csm el mc?
-[04:02:56] [Async Chat Thread - #3/INFO]: [Not Secure] <JoshePM_12> shi
-[04:03:22] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> oe
-[04:03:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> me quede hablando con ivana hasta la tarde wbon
-[04:03:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> me decia wvdas como quedate no te vayas
-[04:03:49] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> y asi xd
-[04:03:59] [Async Chat Thread - #3/INFO]: [Not Secure] <JoshePM_12> firme?
-[04:04:01] [Async Chat Thread - #3/INFO]: [Not Secure] <JoshePM_12> jaja
-[04:04:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Strande_> firme
-[04:04:06] [Async Chat Thread - #4/INFO]: [Not Secure] <Strande_> oe
-[04:04:08] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> ven
-[04:04:09] [Async Chat Thread - #5/INFO]: [Not Secure] <JoshePM_12> se nota que le gustas
-[04:04:10] [Server thread/INFO]: Strande_ issued server command: /home base2
-[04:04:20] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:04:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> es muy linda beba
-[04:04:26] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> ya quedamos pa salir
-[04:04:29] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> mñana los es todo
-[04:04:32] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:04:36] [Async Chat Thread - #5/INFO]: [Not Secure] <JoshePM_12> que
-[04:04:40] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> oe va aver tono aqui arriba te enteraste?
-[04:04:48] [Async Chat Thread - #5/INFO]: [Not Secure] <JoshePM_12> ño
-[04:04:50] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> asi tiene que quedar
-[04:04:51] [Async Chat Thread - #5/INFO]: [Not Secure] <JoshePM_12> k hora
-[04:04:53] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> ven
-[04:05:00] [Async Chat Thread - #5/INFO]: [Not Secure] <JoshePM_12> ya vi td esto
-[04:05:10] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> el aniversario de Victor Castillo p
-[04:05:19] [Async Chat Thread - #5/INFO]: [Not Secure] <Strande_> oe ahi te envio los archivos
-[04:05:20] [Async Chat Thread - #5/INFO]: [Not Secure] <JoshePM_12> otra vuekta
-[04:05:26] [Async Chat Thread - #5/INFO]: [Not Secure] <JoshePM_12> ya
-[04:08:09] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> ahi envie
-[04:08:12] [Async Chat Thread - #6/INFO]: [Not Secure] <JoshePM_12> oe pvp?
-[04:08:15] [Async Chat Thread - #6/INFO]: [Not Secure] <JoshePM_12> aca nms
-[04:08:19] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> ta desactivado
-[04:08:21] [Async Chat Thread - #6/INFO]: [Not Secure] <JoshePM_12> parao sin polo
-[04:08:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> mucho chow un dia
-[04:08:24] [Async Chat Thread - #6/INFO]: [Not Secure] <JoshePM_12> activa p
-[04:08:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> oe
-[04:08:35] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> ayuda crjo
-[04:08:38] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> luego pvp
-[04:08:42] [Async Chat Thread - #7/INFO]: [Not Secure] <JoshePM_12> activa y te ayudo
-[04:08:58] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> oe instale primero
-[04:09:01] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> lo que mande al grupo
-[04:09:11] [Async Chat Thread - #7/INFO]: [Not Secure] <JoshePM_12> toy con internet de mi cell
-[04:09:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> ve JAJAJ
-[04:09:19] [Async Chat Thread - #6/INFO]: [Not Secure] <JoshePM_12> me apagaron el wifi
-[04:09:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> no pesa nada lit
-[04:09:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> es un mb creo
-[04:09:55] [Async Chat Thread - #6/INFO]: [Not Secure] <JoshePM_12> mñn
-[04:10:25] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> firme
-[04:10:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Strande_> se ve de la ptmre
-[04:10:35] [Async Chat Thread - #6/INFO]: [Not Secure] <JoshePM_12> aver
-[04:10:37] [Server thread/INFO]: JoshePM_12 lost connection: Disconnected
-[04:10:37] [Server thread/INFO]: JoshePM_12 left the game
-[04:11:07] [Server thread/INFO]: Strande_ issued server command: /home dungeon
-[04:12:58] [User Authenticator #2/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
-[04:13:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player JoshePM_12's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[04:13:00] [Server thread/INFO]: JoshePM_12 joined the game
-[04:13:00] [Server thread/INFO]: JoshePM_12[/127.212.58.155:53037] logged in with entity id 35179 at ([world]-1647.8327282779944, 66.0, -1282.79171425191)
-[04:13:08] [Async Chat Thread - #8/INFO]: [Not Secure] <JoshePM_12> or
-[04:13:19] [Async Chat Thread - #8/INFO]: [Not Secure] <JoshePM_12> se pegaba en mods o resouserpacks?
-[04:13:27] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> resources
-[04:13:30] [Async Chat Thread - #8/INFO]: [Not Secure] <JoshePM_12> tmr
-[04:13:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> solo abre
-[04:13:31] [Server thread/INFO]: JoshePM_12 lost connection: Disconnected
-[04:13:31] [Server thread/INFO]: JoshePM_12 left the game
-[04:14:57] [User Authenticator #3/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
-[04:14:58] [TAB Processing Thread/INFO]: [TAB] [WARN] Player JoshePM_12's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[04:14:58] [Server thread/INFO]: JoshePM_12 joined the game
-[04:14:58] [Server thread/INFO]: JoshePM_12[/127.212.58.155:34967] logged in with entity id 35684 at ([world]-1638.6143130666528, 66.0, -1286.5871973292367)
-[04:15:02] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> que fue
-[04:15:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> ya los pusiste?
-[04:15:11] [Async Chat Thread - #10/INFO]: [Not Secure] <JoshePM_12> OE
-[04:15:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> que
-[04:15:15] [Async Chat Thread - #10/INFO]: [Not Secure] <JoshePM_12> lo veo igual
-[04:15:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> ve
-[04:15:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> a opciones
-[04:15:34] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> texturepacks
-[04:15:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> y pon los 3 arriba del todo
-[04:16:05] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> manda cap
-[04:16:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> en el grupo fast
-[04:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <JoshePM_12> cm se llama el pack
-[04:16:32] [Async Chat Thread - #10/INFO]: [Not Secure] <JoshePM_12> no me sale
-[04:16:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> oe
-[04:16:48] [Async Chat Thread - #10/INFO]: [Not Secure] <JoshePM_12> que
-[04:16:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> manda foto al grupo
-[04:19:02] [Server thread/INFO]: Strande_ has reached the goal [Revaulting]
-[04:21:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> oe
-[04:21:29] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> manda tpa
-[04:21:39] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:21:44] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:21:44] [Server thread/INFO]: JoshePM_12 has made the advancement [Minecraft: Trial(s) Edition]
-[04:21:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> mira
-[04:21:54] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> como me muevo
-[04:21:56] [Async Chat Thread - #12/INFO]: [Not Secure] <JoshePM_12> ye sto
-[04:22:01] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> oe
-[04:22:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> ven
-[04:22:21] [Async Chat Thread - #12/INFO]: [Not Secure] <JoshePM_12> que
-[04:22:24] [Async Chat Thread - #12/INFO]: [Not Secure] <JoshePM_12> pa eso
-[04:22:50] [Async Chat Thread - #12/INFO]: [Not Secure] <Strande_> donde estas?
-[04:22:57] [Async Chat Thread - #12/INFO]: [Not Secure] <JoshePM_12> manda tp
-[04:23:39] [Server thread/INFO]: JoshePM_12 was shot by Skeleton
-[04:24:11] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:24:17] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:24:41] [Async Chat Thread - #14/INFO]: [Not Secure] <JoshePM_12> misc osa
-[04:25:00] [Server thread/INFO]: JoshePM_12 was shot by Skeleton
-[04:25:09] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:25:14] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:25:59] [Server thread/INFO]: Strande_ issued server command: /aclist JoshePM_12
-[04:26:01] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> oe no me dio nd
-[04:26:01] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> oe
-[04:26:03] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> y tus cosas
-[04:26:04] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> ?
-[04:26:07] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> nose
-[04:26:16] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> mori dos veces
-[04:26:24] [Server thread/INFO]: Made Strande_ a server operator
-[04:26:32] [Server thread/INFO]: Strande_ issued server command: /aclist JoshePM_12
-[04:26:34] [Server thread/INFO]: Strande_ issued server command: /acfetch JoshePM_12 1
-[04:26:37] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> ven
-[04:26:40] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> aqui esta
-[04:27:06] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> dodne
-[04:27:08] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> se ve piola cuando caminas
-[04:27:09] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> abajo
-[04:27:18] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1639.0,y=-40.0,z=-249.0,pitch=0.0,yaw=0.0}
-[04:27:19] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1639.0,y=-40.0,z=-249.0,pitch=0.0,yaw=0.0}
-[04:27:21] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1639.0,y=-40.0,z=-249.0,pitch=0.0,yaw=0.0}
-[04:27:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> oe
-[04:27:23] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1639.0,y=-40.0,z=-249.0,pitch=0.0,yaw=0.0}
-[04:27:24] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1639.0,y=-40.0,z=-249.0,pitch=0.0,yaw=0.0}
-[04:27:28] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> no puedo
-[04:27:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> tienes que ver a alas arañas wbon
-[04:27:41] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> vota 2 coss
-[04:27:42] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> que paso
-[04:27:45] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> no desaparece xd
-[04:27:47] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1639.0,y=-40.0,z=-249.0,pitch=0.0,yaw=0.0}
-[04:27:54] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> vota 2 cosas de tu inventario
-[04:28:14] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> ven
-[04:28:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> tienes que ver a las arañas
-[04:28:32] [Server thread/INFO]: JoshePM_12 lost connection: Timed out
-[04:28:32] [Server thread/INFO]: JoshePM_12 left the game
-[04:28:33] [User Authenticator #4/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
-[04:28:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player JoshePM_12's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[04:28:34] [Server thread/INFO]: JoshePM_12 joined the game
-[04:28:34] [Server thread/INFO]: JoshePM_12[/127.229.43.169:57393] logged in with entity id 38450 at ([world]1641.597203662343, -40.0, -250.17300038835253)
-[04:28:36] [Async Chat Thread - #16/INFO]: [Not Secure] <Strande_> que fue
-[04:28:41] [Async Chat Thread - #16/INFO]: [Not Secure] <JoshePM_12> me saco
-[04:29:45] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> viste como son las arañas xd
-[04:29:46] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> ??
-[04:29:50] [Async Chat Thread - #18/INFO]: [Not Secure] <JoshePM_12> me da miedow
-[04:29:52] [Async Chat Thread - #19/INFO]: [Not Secure] <Strande_> JAJA
-[04:30:26] [Server thread/INFO]: JoshePM_12 was slain by Spider
-[04:30:33] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:30:36] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:30:40] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1666.0,y=-28.0,z=-247.0,pitch=0.0,yaw=0.0}
-[04:31:26] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> BEBA
-[04:31:27] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> VEN
-[04:31:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> AGARRA P
-[04:31:55] [Server thread/INFO]: Strande_ issued server command: /invsee JoshePM_12
-[04:31:59] [Async Chat Thread - #20/INFO]: [Not Secure] <JoshePM_12> cual
-[04:31:59] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> abre
-[04:32:12] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> usa la llave xd
-[04:32:22] [Server thread/INFO]: JoshePM_12 has reached the goal [Revaulting]
-[04:32:30] [Async Chat Thread - #20/INFO]: [Not Secure] <Strande_> la mrda
-[04:35:16] [Server thread/INFO]: JoshePM_12 was shot by Skeleton
-[04:35:24] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:35:27] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:35:32] [Server thread/INFO]: [AngelChest] JoshePM_12 opened the AngelChest of JoshePM_12 at Location{world=CraftWorld{name=world},x=1695.0,y=-40.0,z=-225.0,pitch=0.0,yaw=0.0}
-[04:36:02] [Server thread/INFO]: JoshePM_12 was shot by Skeleton
-[04:36:14] [Async Chat Thread - #22/INFO]: [Not Secure] <Strande_> ponte armor full
-[04:36:17] [Async Chat Thread - #23/INFO]: [Not Secure] <Strande_> te van a matar
-[04:37:12] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:37:18] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:37:26] [Async Chat Thread - #24/INFO]: [Not Secure] <JoshePM_12> mis coasa
-[04:37:53] [Async Chat Thread - #24/INFO]: [Not Secure] <Strande_> agarra
-[04:40:19] [Async Chat Thread - #26/INFO]: [Not Secure] <Strande_> oe
-[04:40:23] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> ponte pechera
-[04:40:24] [Async Chat Thread - #27/INFO]: [Not Secure] <JoshePM_12> que
-[04:40:26] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> y botas
-[04:40:31] [Async Chat Thread - #27/INFO]: [Not Secure] <JoshePM_12> au
-[04:40:39] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> tus botas?
-[04:40:43] [Async Chat Thread - #27/INFO]: [Not Secure] <JoshePM_12> no tengo
-[04:40:48] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> tienes diamantes?
-[04:40:51] [Async Chat Thread - #27/INFO]: [Not Secure] <JoshePM_12> no
-[04:40:55] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> ve a base
-[04:41:01] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> agarra una des cisneros
-[04:41:02] [Async Chat Thread - #27/INFO]: [Not Secure] <JoshePM_12> asi nms
-[04:41:09] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> te van a matar wbon
-[04:41:18] [Async Chat Thread - #27/INFO]: [Not Secure] <JoshePM_12> ne
-[04:42:04] [Async Chat Thread - #27/INFO]: [Not Secure] <Strande_> las arañas dan miedo?
-[04:42:10] [Async Chat Thread - #27/INFO]: [Not Secure] <JoshePM_12> si dond estas?
-[04:42:27] [Async Chat Thread - #26/INFO]: [Not Secure] <Strande_> madn tpa
-[04:44:58] [Server thread/INFO]: JoshePM_12 has made the advancement [Who Needs Rockets?]
-[04:45:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Strande_> JAJAJA
-[04:45:21] [Async Chat Thread - #28/INFO]: [Not Secure] <JoshePM_12> aprende
-[04:45:39] [Async Chat Thread - #28/INFO]: [Not Secure] <JoshePM_12> ayuda
-[04:46:46] [Async Chat Thread - #30/INFO]: [Not Secure] <Strande_> ire base beba
-[04:46:50] [Server thread/INFO]: Strande_ issued server command: /home base1
-[04:46:51] [Async Chat Thread - #31/INFO]: [Not Secure] <JoshePM_12> ño
-[04:50:08] [Server thread/INFO]: Strande_ issued server command: /home aldeanos
-[04:52:55] [Server thread/INFO]: JoshePM_12 issued server command: /home base
-[04:53:20] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> encontre aldea beba
-[04:53:25] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> oe
-[04:53:27] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
-[04:53:30] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> hasta tarde te quedas hoy o na
-[04:53:32] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[04:53:39] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> mira como mueven los ojos xd
-[04:53:41] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> mi inter
-[04:53:59] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> 12 en punot
-[04:54:07] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> xd
-[04:54:41] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> hare una granja de hierro amor
-[04:54:45] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> qye
-[04:54:48] [Server thread/INFO]: Strande_ issued server command: /home base2
-[04:54:49] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> ven
-[04:54:54] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> a la sala de cofres
-[04:55:07] [Server thread/INFO]: JoshePM_12 issued server command: /home tp
-[04:55:39] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> fotito
-[04:55:53] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> sin armor p
-[04:56:00] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> que
-[04:56:06] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> sin armadura?
-[04:56:35] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> oe
-[04:56:41] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> que chcha mas le agregate al mc
-[04:56:42] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> xd
-[04:56:48] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> porque te sale mi armor xd
-[04:56:49] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> xq?
-[04:56:49] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> ??
-[04:57:07] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> mods p
-[04:57:07] [Server thread/INFO]: Strande_ issued server command: /invsee JoshePM_12
-[04:57:14] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> jajaja
-[04:57:28] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> xd
-[04:57:53] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> duerme
-[04:57:58] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> jaja tu cama es marron
-[04:58:09] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> claro ps
-[04:58:14] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> convina conmigo
-[04:58:16] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> y la mia blanca p
-[04:58:22] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> convina conmigo
-[04:58:33] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> convina cn nuestros personajes
-[04:58:36] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> jajaja
-[04:58:46] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> este va ser mi cofre
-[04:59:34] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> ta bien ta bien
-[04:59:35] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> oe
-[04:59:42] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> hasta que hora te quedas?
-[04:59:47] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> hasa las 12
-[04:59:53] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> ctm
-[05:00:06] [Async Chat Thread - #33/INFO]: [Not Secure] <JoshePM_12> mñn me levanto als 6 p
-[05:00:10] [Async Chat Thread - #33/INFO]: [Not Secure] <Strande_> porque?=
-[05:00:13] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> yaya
-[05:00:15] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> ve a descansar
-[05:00:18] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> mi mam se ira temprano
-[05:00:28] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> yaya
-[05:01:23] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> se cae todoxd
-[05:01:24] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> xq se cae el arvol?
-[05:04:50] [Async Chat Thread - #34/INFO]: [Not Secure] <JoshePM_12> toma
-[05:04:54] [Async Chat Thread - #34/INFO]: [Not Secure] <Strande_> que fue
-[05:05:18] [Server thread/WARN]: JoshePM_12 dropped their items too quickly!
-[05:05:18] [Server thread/INFO]: JoshePM_12 lost connection: You dropped your items too quickly (Hacking?)
-[05:05:18] [Server thread/INFO]: JoshePM_12 left the game
-[05:05:24] [User Authenticator #5/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
-[05:05:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player JoshePM_12's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[05:05:25] [Server thread/INFO]: JoshePM_12 joined the game
-[05:05:25] [Server thread/INFO]: JoshePM_12[/127.229.43.169:53825] logged in with entity id 49928 at ([world]-1688.2256936814229, 67.0, -1281.1184833886641)
-[05:05:54] [Async Chat Thread - #36/INFO]: [Not Secure] <JoshePM_12> ya saldre beba
-[05:05:56] [Server thread/INFO]: JoshePM_12 lost connection: Disconnected
-[05:05:56] [Server thread/INFO]: JoshePM_12 left the game
-[05:13:10] [Server thread/INFO]: Strande_ lost connection: Timed out
-[05:13:10] [Server thread/INFO]: Strande_ left the game
-[05:14:35] [Server thread/INFO]: Stopping the server
-[05:14:35] [Server thread/INFO]: Stopping server
-[05:14:35] [Server thread/INFO]: [UltimateTimber] Disabling UltimateTimber v1.1
-[05:14:35] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
-[05:14:35] [Server thread/INFO]: [TAB] Disabling TAB v5.0.1
-[05:14:35] [Server thread/INFO]: [TAB] Disabled in 2ms
-[05:14:35] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[05:14:35] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[05:14:35] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
-[05:14:35] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[05:14:35] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[05:14:35] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.146
-[05:14:35] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[05:14:35] [Server thread/INFO]: [LuckPerms] Closing storage...
-[05:14:35] [Server thread/INFO]: [LuckPerms] Goodbye!
-[05:14:35] [Server thread/INFO]: Saving players
-[05:14:35] [Server thread/INFO]: Saving worlds
-[05:14:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 42 entity chunks, 0 poi chunks in world 'world' in 0.03s
-[05:14:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[05:14:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:14:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[05:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:19:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[16:19:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[16:19:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:19:33] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Sleeper.jar'...
+[16:19:35] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Sleeper.jar' in 1304ms.
+[16:19:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[16:19:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - AngelChest (13.9.0), Essentials (2.20.1), LuckPerms (5.4.146), PlaceholderAPI (2.11.6), SkinsRestorer (15.4.4), Sleeper (1.5.3), TAB (5.0.1), UltimateTimber (1.1), Vault (1.7.3-b131)
+[16:19:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:19:43] [ServerMain/INFO]: Loaded 1290 recipes
+[16:19:43] [ServerMain/INFO]: Loaded 1399 advancements
+[16:19:44] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:19:44] [Server thread/INFO]: Loading properties
+[16:19:44] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[16:19:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:19:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:19:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:19:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:19:46] [Server thread/INFO]: Default game type: SURVIVAL
+[16:19:46] [Server thread/INFO]: Generating keypair
+[16:19:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:19:46] [Server thread/INFO]: Using epoll channel type
+[16:19:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:19:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:19:46] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.146
+[16:19:47] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[16:19:47] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[16:19:47] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[16:19:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[16:19:47] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
+[16:19:47] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.1
+[16:19:47] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[16:19:47] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v1.1
+[16:19:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:19:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.146
+[16:19:47] [Server thread/INFO]:         __    
+[16:19:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.146
+[16:19:47] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:19:47] [Server thread/INFO]: 
+[16:19:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:19:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:19:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:19:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:19:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1480ms)
+[16:19:48] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[16:19:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[16:19:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:19:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[16:19:49] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[16:19:49] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[16:19:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[16:19:52] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:19:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
+[16:19:52] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[16:19:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:19:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:19:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:19:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:19:52] [Server thread/INFO]: Preparing level "world"
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:19:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:19:53] [Server thread/INFO]: Time elapsed: 615 ms
+[16:19:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:19:54] [Server thread/INFO]: Time elapsed: 682 ms
+[16:19:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:19:54] [Server thread/INFO]: Time elapsed: 134 ms
+[16:19:54] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[16:19:54] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[16:19:54] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[16:19:55] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[16:19:55] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[16:19:55] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[16:19:55] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[16:19:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
+[16:19:55] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
+[16:19:55] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[16:19:55] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[16:19:55] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[16:19:55] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[16:19:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[16:19:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[16:19:56] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[16:19:56] [Server thread/INFO]: [Essentials] Using locale en
+[16:19:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:19:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:19:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[16:19:57] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[16:19:57] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
+[16:19:57] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
+[16:19:57] [Server thread/INFO]: [TAB] Enabling TAB v5.0.1
+[16:19:57] [Server thread/INFO]: [TAB] Loaded NMS hook in 85ms
+[16:19:58] [Server thread/INFO]: [TAB] Enabled in 831ms
+[16:19:58] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v1.1
+[16:19:58] [Server thread/INFO]: [spark] Starting background profiler...
+[16:19:59] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[16:19:59] [Server thread/INFO]: Done preparing level "world" (6.802s)
+[16:19:59] [Server thread/INFO]: Running delayed init tasks
+[16:19:59] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[16:19:59] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[16:19:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[16:19:59] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[16:19:59] [Server thread/INFO]: Done (27.007s)! For help, type "help"
+[16:19:59] [Server thread/INFO]: Timings Reset
+[16:19:59] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
+[16:19:59] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[16:20:02] [Server thread/INFO]: [AngelChest] ========================================================
+[16:20:02] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[16:20:02] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[16:20:02] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[16:20:02] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[16:20:02] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[16:20:02] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[16:20:02] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[16:20:02] [Server thread/INFO]: [AngelChest] 
+[16:20:02] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[16:20:02] [Server thread/INFO]: [AngelChest] ========================================================
+[16:20:39] [User Authenticator #0/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[16:20:41] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[16:20:41] [Server thread/INFO]: Strande_ joined the game
+[16:20:41] [Server thread/INFO]: Strande_[/127.200.126.4:50965] logged in with entity id 25 at ([world]-1664.2550273693519, 66.0, -1246.4076734502921)
+[16:20:56] [Server thread/INFO]: Strande_ issued server command: /lp
+[16:21:05] [Server thread/INFO]: Strande_ issued server command: /plugins
+[16:21:21] [Server thread/INFO]: Strande_ issued server command: /sleep help
+[16:21:26] [Server thread/INFO]: Strande_ issued server command: /sleep
+[16:21:30] [Server thread/INFO]: Strande_ issued server command: /sleep Strande_
+[16:21:38] [Server thread/INFO]: Strande_ issued server command: /sleep yes
+[16:24:48] [Server thread/INFO]: Strande_ issued server command: /sleep reload
+[16:25:05] [Server thread/INFO]: Strande_ issued server command: /tps
