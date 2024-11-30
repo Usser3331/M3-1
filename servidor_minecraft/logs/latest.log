@@ -156,3 +156,6 @@
 [17:53:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [17:53:52] [Server thread/INFO]: Strande_ joined the game
 [17:53:52] [Server thread/INFO]: Strande_[/127.200.126.4:41299] logged in with entity id 13444 at ([world]-1668.8767029292262, 67.0, -1308.8540533184605)
+[18:00:59] [Server thread/INFO]: Strande_ issued server command: /home granja2_1
+[18:01:51] [Server thread/INFO]: Strande_ issued server command: /home base2
+[18:03:59] [Server thread/WARN]: Strande_ moved wrongly!
