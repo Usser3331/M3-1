@@ -146,3 +146,20 @@
 [03:46:45] [Server thread/INFO]: Strande_ issued server command: /home base1
 [03:48:10] [Server thread/INFO]: Strande_ fell from a high place
 [03:48:23] [Server thread/INFO]: Strande_ issued server command: /home base1
+[04:00:12] [User Authenticator #1/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
+[04:00:13] [Server thread/INFO]: JoshePM_12 (/127.212.58.155:38173) lost connection: Disconnected
+[04:00:20] [User Authenticator #1/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
+[04:00:22] [TAB Processing Thread/INFO]: [TAB] [WARN] Player JoshePM_12's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:00:22] [Server thread/INFO]: JoshePM_12 joined the game
+[04:00:22] [Server thread/INFO]: JoshePM_12[/127.212.58.155:55795] logged in with entity id 32082 at ([world]-1633.300000011921, 66.0, -1289.699999988079)
+[04:00:29] [Async Chat Thread - #1/INFO]: [Not Secure] <JoshePM_12> k aspo'
+[04:01:47] [Async Chat Thread - #3/INFO]: [Not Secure] <JoshePM_12> oe
+[04:01:53] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> que fue
+[04:01:59] [Async Chat Thread - #3/INFO]: [Not Secure] <JoshePM_12> don tas
+[04:02:06] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> manda tpa
+[04:02:23] [Server thread/INFO]: JoshePM_12 issued server command: /tpa Strande
+[04:02:26] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[04:02:28] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> oe
+[04:02:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> beba
+[04:02:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> quieres que se te vea
+[04:02:42] [Async Chat Thread - #3/INFO]: [Not Secure] <Strande_> bien csm el mc?
