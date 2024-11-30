@@ -150,3 +150,9 @@
 [17:38:38] [Server thread/INFO]: Strande_ issued server command: /home base2
 [17:49:46] [Server thread/INFO]: Strande_ issued server command: /home granja
 [17:50:28] [Server thread/INFO]: Strande_ issued server command: /home base2
+[17:53:50] [User Authenticator #1/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[17:53:51] [Server thread/INFO]: Strande_ lost connection: You logged in from another location
+[17:53:51] [Server thread/INFO]: Strande_ left the game
+[17:53:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:53:52] [Server thread/INFO]: Strande_ joined the game
+[17:53:52] [Server thread/INFO]: Strande_[/127.200.126.4:41299] logged in with entity id 13444 at ([world]-1668.8767029292262, 67.0, -1308.8540533184605)
