@@ -412,3 +412,17 @@
 [05:00:28] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> yaya
 [05:01:23] [Async Chat Thread - #32/INFO]: [Not Secure] <Strande_> se cae todoxd
 [05:01:24] [Async Chat Thread - #32/INFO]: [Not Secure] <JoshePM_12> xq se cae el arvol?
+[05:04:50] [Async Chat Thread - #34/INFO]: [Not Secure] <JoshePM_12> toma
+[05:04:54] [Async Chat Thread - #34/INFO]: [Not Secure] <Strande_> que fue
+[05:05:18] [Server thread/WARN]: JoshePM_12 dropped their items too quickly!
+[05:05:18] [Server thread/INFO]: JoshePM_12 lost connection: You dropped your items too quickly (Hacking?)
+[05:05:18] [Server thread/INFO]: JoshePM_12 left the game
+[05:05:24] [User Authenticator #5/INFO]: UUID of player JoshePM_12 is e9589741-fc1b-3244-a142-b8d000974ce1
+[05:05:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player JoshePM_12's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:05:25] [Server thread/INFO]: JoshePM_12 joined the game
+[05:05:25] [Server thread/INFO]: JoshePM_12[/127.229.43.169:53825] logged in with entity id 49928 at ([world]-1688.2256936814229, 67.0, -1281.1184833886641)
+[05:05:54] [Async Chat Thread - #36/INFO]: [Not Secure] <JoshePM_12> ya saldre beba
+[05:05:56] [Server thread/INFO]: JoshePM_12 lost connection: Disconnected
+[05:05:56] [Server thread/INFO]: JoshePM_12 left the game
+[05:13:10] [Server thread/INFO]: Strande_ lost connection: Timed out
+[05:13:10] [Server thread/INFO]: Strande_ left the game

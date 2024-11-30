@@ -2442,6 +2442,48 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2024-11-30 04:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-11-30 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-30 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-30 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2024-11-30 04:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-11-30 04:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-11-30 04:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-30 04:50:40 +0000"
@@ -2457,30 +2499,6 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2024-11-30 04:50:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-11-30 04:38:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-11-30 04:52:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/revaulting": {
-    "criteria": {
-      "revaulting": "2024-11-30 04:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2024-11-30 04:49:17 +0000"
     },
     "done": true
   },
@@ -2508,12 +2526,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-11-30 04:38:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_door": {
     "criteria": {
       "has_planks": "2024-11-30 04:50:40 +0000"
@@ -2526,21 +2538,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_honeycomb": "2024-11-30 04:49:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-11-30 04:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/who_needs_rockets": {
-    "criteria": {
-      "who_needs_rockets": "2024-11-30 04:44:58 +0000"
+      "has_item_frame": "2024-11-30 04:52:20 +0000"
     },
     "done": true
   },
