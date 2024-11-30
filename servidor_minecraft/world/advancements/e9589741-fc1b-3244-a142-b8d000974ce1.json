@@ -16,6 +16,7 @@
       "minecraft:snowy_plains": "2024-11-28 04:50:17 +0000",
       "minecraft:lush_caves": "2024-11-17 21:38:21 +0000",
       "minecraft:snowy_taiga": "2024-11-28 04:49:56 +0000",
+      "minecraft:deep_cold_ocean": "2024-11-30 04:49:01 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-17 21:09:25 +0000",
       "minecraft:ocean": "2024-11-20 04:18:48 +0000",
       "minecraft:sunflower_plains": "2024-11-20 02:43:20 +0000",
@@ -2441,9 +2442,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-11-30 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-11-30 04:52:20 +0000"
     },
     "done": true
   },
@@ -2453,9 +2478,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-11-30 04:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-11-30 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-11-30 04:49:17 +0000"
     },
     "done": true
   },
