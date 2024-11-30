@@ -161,3 +161,72 @@
 [18:03:59] [Server thread/WARN]: Strande_ moved wrongly!
 [18:11:10] [Server thread/INFO]: Strande_ issued server command: /home granja
 [18:11:31] [Server thread/INFO]: Strande_ issued server command: /home base2
+[18:34:40] [Server thread/INFO]: Strande_ issued server command: /home granja
+[18:35:24] [Server thread/INFO]: Strande_ lost connection: Disconnected
+[18:35:24] [Server thread/INFO]: Strande_ left the game
+[18:35:27] [User Authenticator #2/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[18:35:28] [Server thread/INFO]: Strande_ joined the game
+[18:35:28] [Server thread/INFO]: Strande_[/127.200.126.4:60047] logged in with entity id 18092 at ([world]-91.96494401246288, -30.0, 194.09985015843046)
+[18:35:28] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:35:32] [Server thread/INFO]: Strande_ issued server command: /stop
+[18:35:32] [Server thread/INFO]: [Strande_: Stopping the server]
+[18:35:32] [Server thread/INFO]: Stopping server
+[18:35:32] [Server thread/INFO]: [UltimateTimber] Disabling UltimateTimber v1.1
+[18:35:32] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[18:35:32] [Server thread/INFO]: [TAB] Disabling TAB v5.0.1
+[18:35:32] [Server thread/INFO]: [TAB] Disabled in 1ms
+[18:35:32] [Server thread/INFO]: [Sleeper] Disabling Sleeper v1.5.3
+[18:35:32] [Server thread/INFO]: [Sleeper] Sleeper Has Been Disabled!
+[18:35:32] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[18:35:32] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[18:35:32] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[18:35:32] [Server thread/ERROR]: Error occurred while disabling AngelChest v13.9.0
+java.lang.ExceptionInInitializerError: null
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain.onDisable(AngelChestMain.java:442) ~[AngelChest-13.9.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:609) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1046) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:847) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:539) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:219) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:210) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.scheduler.BukkitRunnable.runTaskTimer(BukkitRunnable.java:117) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain$$aF.<clinit>(GraveyardListener.java:57) ~[AngelChest-13.9.0.jar:?]
+	... 12 more
+[18:35:32] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[18:35:32] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[18:35:32] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.146
+[18:35:32] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[18:35:32] [Server thread/INFO]: [LuckPerms] Closing storage...
+[18:35:32] [Server thread/INFO]: [LuckPerms] Goodbye!
+[18:35:32] [Server thread/INFO]: Saving players
+[18:35:32] [Server thread/INFO]: Strande_ lost connection: Server closed
+[18:35:32] [Server thread/INFO]: Strande_ left the game
+[18:35:32] [Server thread/INFO]: Saving worlds
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:35:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:35:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:35:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:35:32] [Server thread/INFO]: [ChunkHolderManager] Saved 183 block chunks, 229 entity chunks, 0 poi chunks in world 'world' in 0.24s
+[18:35:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:35:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:35:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:35:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:35:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[18:35:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:35:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:35:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:35:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:35:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[18:35:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:35:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:35:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:35:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
