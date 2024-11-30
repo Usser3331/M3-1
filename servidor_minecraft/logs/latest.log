@@ -129,3 +129,10 @@
 [01:59:38] [Server thread/INFO]: Strande_ issued server command: /home base1
 [02:00:20] [Server thread/INFO]: Strande_ issued server command: /home granja
 [02:00:31] [Server thread/INFO]: Strande_ issued server command: /home base1
+[02:07:35] [Server thread/INFO]: Strande_ issued server command: /lp
+[02:11:34] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[02:11:34] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[02:11:34] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[02:15:44] [Server thread/INFO]: Strande_ issued server command: /home base2
+[02:16:35] [Server thread/INFO]: Strande_ issued server command: /home granja2_1
+[02:20:04] [Server thread/INFO]: Strande_ issued server command: /home base2
