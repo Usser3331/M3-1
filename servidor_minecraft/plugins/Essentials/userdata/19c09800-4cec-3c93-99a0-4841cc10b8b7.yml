@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1732862428619
+  lastteleport: 1732932031182
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1732863958322
-  login: 1732851958814
+  login: 1732931526226
 money: '0'
 last-account-name: Strande_
 logoutlocation:
@@ -31,11 +31,11 @@ logoutlocation:
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -254.35617294190195
-  y: 72.0
-  z: 638.9115117708326
-  yaw: -16.1038818359375
-  pitch: 16.707685470581055
+  x: -84.4864163206973
+  y: -34.0
+  z: 193.97622113390912
+  yaw: 67.3319320678711
+  pitch: 16.266130447387695
 homes:
   nether:
     world: 6cce31da-3f08-4c72-b96a-b82bdaecebd9

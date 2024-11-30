@@ -60,8 +60,8 @@ advancements:
 world-settings:
   default:
     verbose: false
-    below-zero-generation-in-existing-chunks: true
-    view-distance: default
+    below-zero-generation-in-existing-chunks: false
+    view-distance: 6
     simulation-distance: default
     thunder-chance: 100000
     merge-radius:
