@@ -456,6 +456,7 @@
       "minecraft:witch": "2024-11-25 05:56:05 +0000",
       "minecraft:hoglin": "2024-11-17 22:31:49 +0000",
       "minecraft:shulker": "2024-11-23 21:44:07 +0000",
+      "minecraft:cave_spider": "2024-11-30 04:30:03 +0000",
       "minecraft:piglin": "2024-11-17 22:32:43 +0000",
       "minecraft:breeze": "2024-11-30 04:24:45 +0000",
       "minecraft:enderman": "2024-11-17 22:37:03 +0000",
@@ -2361,21 +2362,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2024-11-30 04:25:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2024-11-30 04:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wind_charge": {
-    "criteria": {
-      "has_breeze_rod": "2024-11-30 04:24:24 +0000"
     },
     "done": true
   },
@@ -2385,15 +2374,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-11-30 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-30 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2024-11-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2024-11-30 04:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2024-11-30 04:25:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
-      "has_smelts_to_glass": "2024-11-30 04:23:57 +0000"
+      "has_tuff_bricks": "2024-11-30 04:25:39 +0000"
     },
     "done": true
   },
@@ -2415,18 +2428,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-11-30 04:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/mace": {
-    "criteria": {
-      "has_breeze_rod": "2024-11-30 04:24:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
       "has_tuff_bricks": "2024-11-30 04:25:39 +0000"
@@ -2436,6 +2437,30 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab": {
     "criteria": {
       "has_tuff_bricks": "2024-11-30 04:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-30 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2024-11-30 04:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-30 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-11-30 04:32:30 +0000"
     },
     "done": true
   },
