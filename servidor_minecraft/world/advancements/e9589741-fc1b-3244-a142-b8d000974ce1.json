@@ -216,7 +216,8 @@
       "cooked_mutton": "2024-11-17 22:28:48 +0000",
       "chorus_fruit": "2024-11-23 22:10:10 +0000",
       "baked_potato": "2024-11-24 18:43:48 +0000",
-      "porkchop": "2024-11-17 23:47:06 +0000"
+      "porkchop": "2024-11-17 23:47:06 +0000",
+      "golden_carrot": "2024-11-30 04:43:34 +0000"
     },
     "done": false
   },
@@ -2461,6 +2462,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-11-30 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2024-11-30 04:44:58 +0000"
     },
     "done": true
   },
