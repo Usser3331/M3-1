@@ -124,3 +124,7 @@
 [20:20:01] [Server thread/INFO]: [AngelChest] 
 [20:20:01] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [20:20:01] [Server thread/INFO]: [AngelChest] ========================================================
+[20:33:12] [User Authenticator #0/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
+[20:33:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:33:16] [Server thread/INFO]: Strande_ joined the game
+[20:33:16] [Server thread/INFO]: Strande_[/127.200.126.4:33595] logged in with entity id 25 at ([world]-1668.6902015526268, 66.0, -1284.300000011921)
