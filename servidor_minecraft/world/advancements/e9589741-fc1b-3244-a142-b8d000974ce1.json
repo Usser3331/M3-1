@@ -18,6 +18,7 @@
       "minecraft:snowy_taiga": "2024-11-28 04:49:56 +0000",
       "minecraft:deep_cold_ocean": "2024-11-30 04:49:01 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-17 21:09:25 +0000",
+      "minecraft:frozen_river": "2024-12-01 21:38:24 +0000",
       "minecraft:ocean": "2024-11-20 04:18:48 +0000",
       "minecraft:sunflower_plains": "2024-11-20 02:43:20 +0000",
       "minecraft:grove": "2024-11-18 00:08:40 +0000",
@@ -2547,6 +2548,30 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-01 20:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-01 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-01 21:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-01 21:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-01 21:41:27 +0000"
     },
     "done": true
   },
