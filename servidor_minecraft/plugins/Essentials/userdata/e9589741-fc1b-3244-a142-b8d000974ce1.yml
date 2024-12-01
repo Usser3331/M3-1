@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733089326026
+  logout: 1733091754358
   login: 1733089376822
 money: '0'
 last-account-name: JoshePM_12
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: 592.6999999880791
-  y: -59.0
-  z: -2698.300000011921
-  yaw: 91.02261352539062
-  pitch: 86.10001373291016
+  x: -1644.3792825882513
+  y: 66.0
+  z: -1288.9073763315807
+  yaw: 166.19952392578125
+  pitch: 54.00001525878906
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
