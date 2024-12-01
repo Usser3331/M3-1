@@ -1,262 +1,126 @@
-[01:09:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:09:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:09:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:09:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[01:09:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[20:19:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[20:19:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[20:19:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:19:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[20:19:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - AngelChest (13.9.0), Essentials (2.20.1), LuckPerms (5.4.146), PlaceholderAPI (2.11.6), SkinsRestorer (15.4.4), Sleeper (1.5.3), TAB (5.0.1), UltimateTimber (1.1), Vault (1.7.3-b131)
-[01:09:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:09:32] [ServerMain/INFO]: Loaded 1290 recipes
-[01:09:32] [ServerMain/INFO]: Loaded 1399 advancements
-[01:09:32] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:09:32] [Server thread/INFO]: Loading properties
-[01:09:33] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:09:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:09:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:09:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:09:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:09:35] [Server thread/INFO]: Default game type: SURVIVAL
-[01:09:35] [Server thread/INFO]: Generating keypair
-[01:09:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:09:35] [Server thread/INFO]: Using epoll channel type
-[01:09:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:09:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:09:36] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.146
-[01:09:36] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[01:09:36] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[01:09:36] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
-[01:09:37] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[01:09:37] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
-[01:09:37] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.1
-[01:09:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[01:09:37] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v1.1
-[01:09:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:09:37] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.146
-[01:09:37] [Server thread/INFO]:         __    
-[01:09:37] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.146
-[01:09:37] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[01:09:37] [Server thread/INFO]: 
-[01:09:37] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[01:09:37] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[01:09:38] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[01:09:38] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[01:09:38] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1377ms)
-[01:09:38] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[01:09:38] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[01:09:38] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[01:09:38] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[01:09:38] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[01:09:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[01:09:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:09:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:09:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
-[01:09:42] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[01:09:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:09:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:09:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:09:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:09:42] [Server thread/INFO]: Preparing level "world"
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:09:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:09:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:09:43] [Server thread/INFO]: Time elapsed: 742 ms
-[01:09:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:09:44] [Server thread/INFO]: Time elapsed: 988 ms
-[01:09:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:09:44] [Server thread/INFO]: Time elapsed: 222 ms
-[01:09:44] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[01:09:45] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[01:09:45] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
-[01:09:45] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[01:09:45] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[01:09:45] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[01:09:45] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[01:09:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
-[01:09:45] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
-[01:09:46] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[01:09:46] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
-[01:09:46] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[01:09:46] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[01:09:47] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[01:09:47] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[01:09:47] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[01:09:47] [Server thread/INFO]: [Essentials] Using locale en
-[01:09:47] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[01:09:48] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[01:09:48] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[01:09:48] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[01:09:48] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
-[01:09:48] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
-[01:09:48] [Server thread/INFO]: [TAB] Enabling TAB v5.0.1
-[01:09:48] [Server thread/INFO]: [TAB] Loaded NMS hook in 125ms
-[01:09:49] [Server thread/INFO]: [TAB] Enabled in 1090ms
-[01:09:49] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v1.1
-[01:09:49] [Server thread/INFO]: [spark] Starting background profiler...
-[01:09:51] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[01:09:51] [Server thread/INFO]: Done preparing level "world" (9.476s)
-[01:09:51] [Server thread/INFO]: Running delayed init tasks
-[01:09:51] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[01:09:51] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[01:09:51] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
-[01:09:51] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[01:09:51] [Server thread/INFO]: 1 placeholder hook(s) registered!
-[01:09:51] [Server thread/INFO]: Done (29.305s)! For help, type "help"
-[01:09:51] [Server thread/INFO]: Timings Reset
-[01:09:51] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
-[01:09:54] [Server thread/INFO]: [AngelChest] ========================================================
-[01:09:54] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[01:09:54] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[01:09:54] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[01:09:54] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[01:09:54] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[01:09:54] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[01:09:54] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[01:09:54] [Server thread/INFO]: [AngelChest] 
-[01:09:54] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[01:09:54] [Server thread/INFO]: [AngelChest] ========================================================
-[01:10:14] [User Authenticator #0/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
-[01:10:43] [Server thread/INFO]: fabrizio123 joined the game
-[01:10:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fabrizio123's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:10:43] [Server thread/INFO]: fabrizio123[/127.109.34.235:47271] logged in with entity id 25 at ([world]-244.85247120006213, 72.0, 677.8483755447267)
-[01:18:18] [User Authenticator #1/INFO]: UUID of player Strande_ is 19c09800-4cec-3c93-99a0-4841cc10b8b7
-[01:18:19] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:18:19] [Server thread/INFO]: Strande_ joined the game
-[01:18:19] [Server thread/INFO]: Strande_[/127.200.126.4:58799] logged in with entity id 3307 at ([world]-91.96494401246288, -30.0, 194.09985015843046)
-[01:18:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> que fue
-[01:19:15] [Server thread/INFO]: Strande_ issued server command: /home base2
-[01:21:18] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> beba
-[01:21:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> ven
-[01:21:30] [Async Chat Thread - #1/INFO]: [Not Secure] <fabrizio123> pa que
-[01:21:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> mira p
-[01:25:41] [Server thread/INFO]: fabrizio123 lost connection: Disconnected
-[01:25:41] [Server thread/INFO]: fabrizio123 left the game
-[01:26:51] [User Authenticator #2/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
-[01:26:52] [Server thread/INFO]: fabrizio123 joined the game
-[01:26:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fabrizio123's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:26:52] [Server thread/INFO]: fabrizio123[/127.109.34.235:58475] logged in with entity id 5251 at ([world]470.51422677674753, -5.0, 310.9128058204246)
-[01:29:05] [Async Chat Thread - #3/INFO]: [Not Secure] <fabrizio123> preta
-[01:30:57] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
-[01:32:42] [Async Chat Thread - #5/INFO]: [Not Secure] <fabrizio123> oe has agarrado el sulker
-[01:32:46] [Async Chat Thread - #5/INFO]: [Not Secure] <fabrizio123> donde estaba
-[01:32:49] [Async Chat Thread - #5/INFO]: [Not Secure] <fabrizio123> afuera
-[01:34:59] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> que fue
-[01:35:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> que shulker
-[01:35:14] [Async Chat Thread - #7/INFO]: [Not Secure] <Strande_> ed tu hierro?
-[01:35:21] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> no
-[01:35:28] [Async Chat Thread - #7/INFO]: [Not Secure] <fabrizio123> donde estaba el hueso
-[01:43:37] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> a chcha si
-[01:43:54] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> necesitaba shulckers
-[01:43:57] [Async Chat Thread - #9/INFO]: [Not Secure] <Strande_> ven
-[01:43:57] [Async Chat Thread - #9/INFO]: [Not Secure] <fabrizio123> xd
-[01:46:39] [Server thread/INFO]: fabrizio123 issued server command: /home base 1
-[01:48:15] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
-[01:49:08] [Async Chat Thread - #11/INFO]: [Not Secure] <fabrizio123> acepta cachao
-[01:52:11] [Server thread/INFO]: Strande_ issued server command: /tpaccept
-[01:52:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> JAJA
-[01:52:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> taba con una beba
-[01:52:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Strande_> manda
-[02:00:20] [Server thread/INFO]: Strande_ was slain by Enderman
-[02:03:36] [Server thread/INFO]: Strande_ issued server command: /tpa fabrizio123
-[02:03:46] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
-[02:05:09] [Server thread/INFO]: Strande_ issued server command: /home base2
-[02:05:15] [Server thread/INFO]: Strande_ issued server command: /home granja
-[02:05:27] [Server thread/INFO]: Strande_ issued server command: /home base1
-[02:06:09] [Server thread/INFO]: Strande_ issued server command: /home base2
-[02:17:27] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> oe
-[02:17:49] [Async Chat Thread - #15/INFO]: [Not Secure] <fabrizio123> q
-[02:17:50] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
-[02:18:32] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> necesito hacer una
-[02:18:36] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> raida
-[02:18:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> *raid
-[02:18:57] [Async Chat Thread - #15/INFO]: [Not Secure] <Strande_> para hacer una granja de aldeanos
-[02:19:11] [Async Chat Thread - #15/INFO]: [Not Secure] <fabrizio123> que
-[02:39:08] [Async Chat Thread - #17/INFO]: [Not Secure] <Strande_> ya beba
-[02:39:11] [Async Chat Thread - #17/INFO]: [Not Secure] <Strande_> ya estoy
-[02:39:15] [Async Chat Thread - #17/INFO]: [Not Secure] <Strande_> ahorasi
-[02:47:56] [Async Chat Thread - #19/INFO]: [Not Secure] <fabrizio123> luego jugamos cuasa
-[02:48:04] [Async Chat Thread - #19/INFO]: [Not Secure] <fabrizio123> en 20
-[02:48:05] [Server thread/INFO]: fabrizio123 lost connection: Disconnected
-[02:48:05] [Server thread/INFO]: fabrizio123 left the game
-[02:49:22] [Async Chat Thread - #21/INFO]: [Not Secure] <Strande_> yaya
-[02:51:56] [Server thread/INFO]: Strande_ issued server command: /home aldeanos
-[02:56:22] [Server thread/INFO]: Strande_ issued server command: /home base2
-[02:58:47] [Server thread/INFO]: Strande_ issued server command: /home aldeanos
-[03:20:29] [Server thread/INFO]: Strande_ issued server command: /home base2
-[03:21:00] [Server thread/INFO]: Strande_ issued server command: /homes aldeanos
-[03:26:04] [Server thread/INFO]: Strande_ issued server command: /homes esclavos
-[03:26:55] [Server thread/INFO]: Strande_ issued server command: /homes aldeanos
-[03:27:39] [Server thread/INFO]: Strande_ issued server command: /homes granja2_1
-[03:28:06] [Server thread/INFO]: Strande_ issued server command: /homes aldeanos
-[03:36:39] [Server thread/INFO]: Strande_ issued server command: /homes base2
-[03:40:16] [Server thread/INFO]: Strande_ issued server command: /stop
-[03:40:16] [Server thread/INFO]: [Strande_: Stopping the server]
-[03:40:16] [Server thread/INFO]: Stopping server
-[03:40:16] [Server thread/INFO]: [UltimateTimber] Disabling UltimateTimber v1.1
-[03:40:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
-[03:40:16] [Server thread/INFO]: [TAB] Disabling TAB v5.0.1
-[03:40:16] [Server thread/INFO]: [TAB] Disabled in 1ms
-[03:40:16] [Server thread/INFO]: [Sleeper] Disabling Sleeper v1.5.3
-[03:40:16] [Server thread/INFO]: [Sleeper] Sleeper Has Been Disabled!
-[03:40:16] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[03:40:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[03:40:16] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
-[03:40:16] [Server thread/ERROR]: Error occurred while disabling AngelChest v13.9.0
-java.lang.ExceptionInInitializerError: null
-	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain.onDisable(AngelChestMain.java:442) ~[AngelChest-13.9.0.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:609) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1046) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:847) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:539) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:219) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:210) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.scheduler.BukkitRunnable.runTaskTimer(BukkitRunnable.java:117) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain$$aF.<clinit>(GraveyardListener.java:57) ~[AngelChest-13.9.0.jar:?]
-	... 12 more
-[03:40:16] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[03:40:16] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[03:40:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.146
-[03:40:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[03:40:16] [Server thread/INFO]: [LuckPerms] Closing storage...
-[03:40:16] [Server thread/INFO]: [LuckPerms] Goodbye!
-[03:40:16] [Server thread/INFO]: Saving players
-[03:40:16] [Server thread/INFO]: Strande_ lost connection: Server closed
-[03:40:16] [Server thread/INFO]: Strande_ left the game
-[03:40:17] [Server thread/INFO]: Saving worlds
-[03:40:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Saved 462 block chunks, 490 entity chunks, 0 poi chunks in world 'world' in 0.50s
-[03:40:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 17 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[03:40:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:40:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[03:40:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:40:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:40:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:40:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:19:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:19:43] [ServerMain/INFO]: Loaded 1290 recipes
+[20:19:44] [ServerMain/INFO]: Loaded 1399 advancements
+[20:19:44] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:19:44] [Server thread/INFO]: Loading properties
+[20:19:44] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[20:19:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:19:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:19:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:19:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[20:19:46] [Server thread/INFO]: Default game type: SURVIVAL
+[20:19:46] [Server thread/INFO]: Generating keypair
+[20:19:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:19:46] [Server thread/INFO]: Using epoll channel type
+[20:19:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:19:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:19:47] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.146
+[20:19:47] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[20:19:47] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[20:19:47] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[20:19:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[20:19:47] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
+[20:19:47] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.1
+[20:19:47] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[20:19:47] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v1.1
+[20:19:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:19:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.146
+[20:19:48] [Server thread/INFO]:         __    
+[20:19:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.146
+[20:19:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:19:48] [Server thread/INFO]: 
+[20:19:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:19:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:19:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:19:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:19:49] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1471ms)
+[20:19:49] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[20:19:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[20:19:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:19:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[20:19:49] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[20:19:49] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[20:19:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[20:19:52] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:19:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
+[20:19:52] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[20:19:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:19:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:19:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:19:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:19:52] [Server thread/INFO]: Preparing level "world"
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:19:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:19:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:53] [Server thread/INFO]: Time elapsed: 759 ms
+[20:19:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:19:54] [Server thread/INFO]: Time elapsed: 790 ms
+[20:19:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:19:54] [Server thread/INFO]: Time elapsed: 125 ms
+[20:19:54] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[20:19:54] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:19:54] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[20:19:55] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[20:19:55] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[20:19:55] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[20:19:55] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[20:19:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
+[20:19:55] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
+[20:19:55] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[20:19:55] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[20:19:55] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[20:19:56] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[20:19:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[20:19:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[20:19:56] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[20:19:56] [Server thread/INFO]: [Essentials] Using locale en
+[20:19:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:19:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:19:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[20:19:57] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[20:19:57] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
+[20:19:57] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
+[20:19:57] [Server thread/INFO]: [TAB] Enabling TAB v5.0.1
+[20:19:57] [Server thread/INFO]: [TAB] Loaded NMS hook in 86ms
+[20:19:58] [Server thread/INFO]: [TAB] Enabled in 801ms
+[20:19:58] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v1.1
+[20:19:58] [Server thread/INFO]: [spark] Starting background profiler...
+[20:19:59] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:19:59] [Server thread/INFO]: Done preparing level "world" (6.753s)
+[20:19:59] [Server thread/INFO]: Running delayed init tasks
+[20:19:59] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[20:19:59] [Server thread/INFO]: Done (22.877s)! For help, type "help"
+[20:19:59] [Server thread/INFO]: Timings Reset
+[20:19:59] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[20:19:59] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
+[20:19:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:19:59] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[20:19:59] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
+[20:20:01] [Server thread/INFO]: [AngelChest] ========================================================
+[20:20:01] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[20:20:01] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[20:20:01] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[20:20:01] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[20:20:01] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[20:20:01] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[20:20:01] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[20:20:01] [Server thread/INFO]: [AngelChest] 
+[20:20:01] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[20:20:01] [Server thread/INFO]: [AngelChest] ========================================================
