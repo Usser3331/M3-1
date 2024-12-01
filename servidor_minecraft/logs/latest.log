@@ -134,3 +134,14 @@
 [01:18:19] [Server thread/INFO]: Strande_[/127.200.126.4:58799] logged in with entity id 3307 at ([world]-91.96494401246288, -30.0, 194.09985015843046)
 [01:18:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Strande_> que fue
 [01:19:15] [Server thread/INFO]: Strande_ issued server command: /home base2
+[01:21:18] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> beba
+[01:21:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> ven
+[01:21:30] [Async Chat Thread - #1/INFO]: [Not Secure] <fabrizio123> pa que
+[01:21:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Strande_> mira p
+[01:25:41] [Server thread/INFO]: fabrizio123 lost connection: Disconnected
+[01:25:41] [Server thread/INFO]: fabrizio123 left the game
+[01:26:51] [User Authenticator #2/INFO]: UUID of player fabrizio123 is c04600ef-ca80-3181-a4c4-0a327d0c948f
+[01:26:52] [Server thread/INFO]: fabrizio123 joined the game
+[01:26:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fabrizio123's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[01:26:52] [Server thread/INFO]: fabrizio123[/127.109.34.235:58475] logged in with entity id 5251 at ([world]470.51422677674753, -5.0, 310.9128058204246)
+[01:29:05] [Async Chat Thread - #3/INFO]: [Not Secure] <fabrizio123> preta

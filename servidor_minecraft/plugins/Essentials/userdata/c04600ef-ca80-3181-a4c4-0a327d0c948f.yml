@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732862196485
-  login: 1733015443743
+  logout: 1733016341158
+  login: 1733016412801
 money: '0'
 last-account-name: fabrizio123
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -244.85247120006213
-  y: 72.0
-  z: 677.8483755447267
-  yaw: -177.73291015625
-  pitch: -0.8976436257362366
+  x: 470.51422677674753
+  y: -5.0
+  z: 310.9128058204246
+  yaw: -142.48843383789062
+  pitch: -53.099998474121094
 homes:
   base:
     world: 1e7574d3-972b-44cc-8664-06c3de722bc1
