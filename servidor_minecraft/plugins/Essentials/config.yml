@@ -1099,9 +1099,9 @@ protect:
 
     # Disable weather options?
     weather:
-      storm: false
-      thunder: false
-      lightning: false
+      storm: true
+      thunder: true
+      lightning: true
 
 ############################################################
 # +------------------------------------------------------+ #
