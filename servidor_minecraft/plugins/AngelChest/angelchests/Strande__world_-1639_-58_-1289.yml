@@ -1,0 +1,138 @@
+angelchest-saveversion: 2
+uniqueId: 4b4f41f5-bfdc-42c6-b6f1-5de7969b47bd
+suspend-countdowns-when-player-is-offline: false
+worldid: 1e7574d3-972b-44cc-8664-06c3de722bc1
+x: -1639
+y: -58
+z: -1289
+infinite: false
+owner: 19c09800-4cec-3c93-99a0-4841cc10b8b7
+isProtected: true
+secondsLeft: 552
+unlockIn: -1
+created: 1733100167090
+experience: 0
+levels: 0
+price: 0.0
+customblock:
+  entities: []
+  location:
+    worldid: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    x: -1639
+    y: -58
+    z: -1289
+  id: minecraft:CHEST
+  originalBlockData: minecraft:air
+deathCause:
+  damageCause: PROJECTILE
+  killer: WITHER
+opened-by: []
+logfile: Strande__world_2024-12-02_00-42-47.log
+storageInv:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLED_DEEPSLATE
+  amount: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: TUFF
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: REDSTONE
+  amount: 13
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+armorInv:
+- null
+- null
+- null
+- null
+extraInv:
+- null
+overflowInv:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

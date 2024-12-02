@@ -1,0 +1,313 @@
+angelchest-saveversion: 2
+uniqueId: 93ad871e-e8fa-4bf4-abcb-45e76175c90f
+suspend-countdowns-when-player-is-offline: false
+worldid: 1e7574d3-972b-44cc-8664-06c3de722bc1
+x: -1637
+y: -59
+z: -1289
+infinite: false
+owner: c04600ef-ca80-3181-a4c4-0a327d0c948f
+isProtected: false
+secondsLeft: 573
+unlockIn: -1
+created: 1733100188435
+experience: 0
+levels: 0
+price: 0.0
+customblock:
+  entities: []
+  location:
+    worldid: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    x: -1637
+    y: -59
+    z: -1289
+  id: minecraft:CHEST
+  originalBlockData: minecraft:air
+deathCause:
+  damageCause: PROJECTILE
+  killer: WITHER
+opened-by: []
+logfile: fabrizio123_world_2024-12-02_00-43-08.log
+storageInv:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: TUFF
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLED_DEEPSLATE
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    enchants:
+      minecraft:mending: 1
+      minecraft:protection: 4
+      minecraft:unbreaking: 3
+    repair-cost: 1
+    Damage: 20
+    trim:
+      material: minecraft:amethyst
+      pattern: minecraft:snout
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    enchants:
+      minecraft:mending: 1
+      minecraft:protection: 3
+      minecraft:respiration: 3
+    repair-cost: 1
+    Damage: 50
+    trim:
+      material: minecraft:diamond
+      pattern: minecraft:rib
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:mending: 1
+      minecraft:smite: 5
+    repair-cost: 3
+    Damage: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:efficiency: 4
+      minecraft:fortune: 3
+      minecraft:mending: 1
+      minecraft:unbreaking: 3
+    repair-cost: 3
+    Damage: 14
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DIAMOND_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:efficiency: 2
+    Damage: 614
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:power: 1
+      minecraft:unbreaking: 1
+    Damage: 81
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: GOLDEN_CARROT
+  amount: 20
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: TUFF
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: ELYTRA
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:mending: 1
+    repair-cost: 1
+    Damage: 41
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: SHULKER_BOX
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    internal: H4sIAAAAAAAA/6XMMQ7CQAxE0REbpGRbCsQhcgEqboIS40hWsjbaGCFuj9NAD9384k0GMo7jYjT3rC7+6snK3TRi7XAookx1mPxMpj5E1QwgJTTrYh4zfCPOpcVObjh9wSSVn1bna41z9oQ92UM3comDj2//9N1PHngD5NNOqfoAAAA=
+    blockMaterial: SHULKER_BOX
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: RAW_IRON
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 31
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: RAW_IRON
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: CARROT
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: ARROW
+  amount: 55
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: RAW_GOLD
+  amount: 17
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BONE
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: TRIDENT
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:channeling: 1
+      minecraft:impaling: 4
+      minecraft:loyalty: 2
+    repair-cost: 7
+    Damage: 49
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 46
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: RAW_IRON
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: RAW_IRON
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: IRON_HOE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 117
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLED_DEEPSLATE
+  amount: 50
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: AMETHYST_SHARD
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: RAW_IRON
+  amount: 47
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: IRON_SHOVEL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:efficiency: 5
+      minecraft:fortune: 3
+      minecraft:mending: 1
+      minecraft:unbreaking: 3
+    repair-cost: 1
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: CALCITE
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DIAMOND
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLED_DEEPSLATE
+  amount: 13
+armorInv:
+- null
+- null
+- null
+- null
+extraInv:
+- null
+overflowInv:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

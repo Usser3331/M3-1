@@ -1,0 +1,344 @@
+angelchest-saveversion: 2
+uniqueId: 3638e190-4ac3-492e-9c4a-4563fecf97c9
+suspend-countdowns-when-player-is-offline: false
+worldid: 1e7574d3-972b-44cc-8664-06c3de722bc1
+x: -1636
+y: -59
+z: -1287
+infinite: false
+owner: 19c09800-4cec-3c93-99a0-4841cc10b8b7
+isProtected: true
+secondsLeft: 570
+unlockIn: -1
+created: 1733100185390
+experience: 56
+levels: 0
+price: 0.0
+customblock:
+  entities: []
+  location:
+    worldid: 1e7574d3-972b-44cc-8664-06c3de722bc1
+    x: -1636
+    y: -59
+    z: -1287
+  id: minecraft:CHEST
+  originalBlockData: minecraft:air
+deathCause:
+  damageCause: PROJECTILE
+  killer: WITHER
+opened-by: []
+logfile: Strande__world_2024-12-02_00-43-05.log
+storageInv:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '"Tipo Chill de Cojones"'
+    enchants:
+      minecraft:mending: 1
+      minecraft:sharpness: 5
+    repair-cost: 3
+    Damage: 62
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: FIREWORK_ROCKET
+  amount: 54
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: REDSTONE
+  amount: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: ARROW
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:flame: 1
+      minecraft:infinity: 1
+      minecraft:power: 5
+      minecraft:punch: 1
+      minecraft:unbreaking: 3
+    repair-cost: 31
+    Damage: 60
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BREAD
+  amount: 12
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:efficiency: 4
+      minecraft:mending: 1
+      minecraft:silk_touch: 1
+      minecraft:unbreaking: 3
+    repair-cost: 3
+    Damage: 91
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLED_DEEPSLATE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:efficiency: 5
+      minecraft:fortune: 3
+      minecraft:mending: 1
+    repair-cost: 1
+    Damage: 11
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BLACKSTONE
+  amount: 5
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DIRT
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DEEPSLATE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: WHITE_WOOL
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: WATER_BUCKET
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BONE_MEAL
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: TUFF
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BEEF
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: EMERALD
+  amount: 36
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: LEATHER
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BOOK
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: OBSIDIAN
+  amount: 44
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DEEPSLATE
+  amount: 39
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: MUTTON
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: FEATHER
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COPPER_INGOT
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DEEPSLATE_REDSTONE_ORE
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: LAPIS_LAZULI
+  amount: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: ELYTRA
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:mending: 1
+    repair-cost: 1
+    Damage: 59
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: STONE
+  amount: 56
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: GRAVEL
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: FLINT
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DIAMOND_SHOVEL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:efficiency: 5
+      minecraft:fortune: 2
+      minecraft:mending: 1
+      minecraft:unbreaking: 3
+    repair-cost: 3
+    Damage: 717
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DIAMOND_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:efficiency: 4
+      minecraft:mending: 1
+      minecraft:unbreaking: 3
+    repair-cost: 1
+    Damage: 151
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: SOUL_SAND
+  amount: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: OAK_PLANKS
+  amount: 7
+armorInv:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    enchants:
+      minecraft:mending: 1
+      minecraft:protection: 4
+      minecraft:unbreaking: 3
+    repair-cost: 1
+    Damage: 119
+    trim:
+      material: minecraft:amethyst
+      pattern: minecraft:snout
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    enchants:
+      minecraft:mending: 1
+      minecraft:protection: 4
+      minecraft:unbreaking: 3
+    repair-cost: 1
+    Damage: 142
+    trim:
+      material: minecraft:amethyst
+      pattern: minecraft:snout
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    enchants:
+      minecraft:mending: 1
+      minecraft:unbreaking: 3
+    Damage: 143
+    trim:
+      material: minecraft:quartz
+      pattern: minecraft:eye
+- ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NETHERITE_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    enchants:
+      minecraft:mending: 1
+      minecraft:protection: 4
+      minecraft:unbreaking: 3
+    repair-cost: 3
+    Damage: 111
+    trim:
+      material: minecraft:amethyst
+      pattern: minecraft:snout
+extraInv:
+- null
+overflowInv:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
