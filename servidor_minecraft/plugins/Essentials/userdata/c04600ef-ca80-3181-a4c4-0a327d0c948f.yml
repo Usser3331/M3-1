@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733209496530
+  lastteleport: 1733209716060
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733111716440
+  logout: 1733209986439
   login: 1733200826385
 money: '0'
 last-account-name: fabrizio123
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: 597.8005549634521
-  y: 63.0
-  z: -2763.6420629513646
-  yaw: 8.85205078125
-  pitch: 11.99990463256836
+  x: 593.268704209689
+  y: 58.0
+  z: -2710.4213833178014
+  yaw: -88.25482177734375
+  pitch: 8.94226360321045
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -1801.8790422114103
-  y: -9.750812921255317
-  z: -1238.9793113394787
-  yaw: -41.37045669555664
-  pitch: 11.112626075744629
+  x: -242.2101262361413
+  y: 72.0
+  z: 678.3871116078518
+  yaw: 99.9114990234375
+  pitch: 34.200008392333984
 homes:
   base:
     world: 1e7574d3-972b-44cc-8664-06c3de722bc1

@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733207928975
+  lastteleport: 1733209894243
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Jkevvrzzz
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: 583.37251118801
-  y: 58.0
-  z: -2709.8769189433865
-  yaw: 112.5472412109375
-  pitch: 7.493015289306641
+  x: -250.04829149462282
+  y: 193.0
+  z: 782.9714092813562
+  yaw: 115.04434204101562
+  pitch: 8.107421875
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
