@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733200001341
+  logout: 1733201650092
   login: 1733200180384
 money: '0'
 last-account-name: Master_Matt99
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: 124.69999998807907
-  y: 65.0
-  z: -342.42516571492416
-  yaw: 85.1114501953125
-  pitch: 33.6056022644043
+  x: -163.0604649360021
+  y: 75.0
+  z: 645.3939058452468
+  yaw: -93.513916015625
+  pitch: 25.745243072509766
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
