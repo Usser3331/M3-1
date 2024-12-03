@@ -426,3 +426,26 @@
 [05:02:52] [Server thread/INFO]: fabrizio123 issued server command: /sethome aldeanos
 [05:02:58] [Server thread/INFO]: fabrizio123 issued server command: /home base
 [05:02:59] [Server thread/INFO]: fabrizio123 issued server command: /sethome aldeanos
+[05:03:08] [Async Chat Thread - #44/INFO]: [Not Secure] <Strande_> pon /delhome aldeanos
+[05:03:30] [Server thread/INFO]: fabrizio123 issued server command: /delhome aldeanos
+[05:03:35] [Server thread/INFO]: fabrizio123 issued server command: /tpa Strande_
+[05:03:38] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[05:03:52] [Server thread/INFO]: fabrizio123 issued server command: /sethome aldeanos
+[05:03:56] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:04:06] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:04:09] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:04:12] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:05:00] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:05:29] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:06:14] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:07:16] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:07:56] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:12:16] [User Authenticator #10/WARN]: [LuckPerms] LuckPerms already has data for player 'sinjao' - but this data is stored under a different UUID.
+[05:12:16] [User Authenticator #10/WARN]: [LuckPerms] 'sinjao' has previously used the unique ids [bdca5c86-df72-3b9e-9784-60bd29ced7dd] but is now connecting with 'ee91304c-9cb2-3a9d-b342-852f32cfba3a'
+[05:12:16] [User Authenticator #10/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[05:12:16] [User Authenticator #10/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[05:12:16] [User Authenticator #10/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[05:12:17] [User Authenticator #10/INFO]: UUID of player sinjao is ee91304c-9cb2-3a9d-b342-852f32cfba3a
+[05:12:25] [Server thread/INFO]: sinjao joined the game
+[05:12:25] [Server thread/INFO]: sinjao[/127.100.95.161:44873] logged in with entity id 67972 at ([world]-1.5, 63.0, 15.5)
+[05:12:56] [Async Chat Thread - #46/INFO]: [Not Secure] <sinjao> esñrande
