@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733208225559
+  lastteleport: 1733208561753
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,8 +23,8 @@ last-account-name: sinjao
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -14.54719384117812
-  y: 72.0
-  z: 2465.1164656987025
-  yaw: -154.77923583984375
-  pitch: 20.36510467529297
+  x: -140.22357537997777
+  y: 75.79673560066871
+  z: 679.2375357467404
+  yaw: -52.87969970703125
+  pitch: 10.493073463439941
