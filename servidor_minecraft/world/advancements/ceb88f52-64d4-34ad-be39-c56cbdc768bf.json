@@ -11,6 +11,8 @@
       "minecraft:beach": "2024-12-03 03:20:58 +0000",
       "minecraft:forest": "2024-12-03 04:25:05 +0000",
       "minecraft:river": "2024-12-03 04:25:21 +0000",
+      "minecraft:stony_shore": "2024-12-03 04:41:36 +0000",
+      "minecraft:savanna": "2024-12-03 04:41:13 +0000",
       "minecraft:plains": "2024-12-03 04:34:02 +0000"
     },
     "done": false
@@ -501,9 +503,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-03 04:45:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-03 04:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-03 04:45:33 +0000"
     },
     "done": true
   },
@@ -522,6 +536,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-03 04:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-03 04:45:29 +0000"
     },
     "done": true
   },
@@ -549,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-03 04:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-03 04:33:33 +0000"
@@ -564,6 +590,24 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-03 04:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-03 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-03 04:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-03 04:42:31 +0000"
     },
     "done": true
   },
@@ -588,6 +632,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-03 04:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-03 04:45:33 +0000"
     },
     "done": true
   },
