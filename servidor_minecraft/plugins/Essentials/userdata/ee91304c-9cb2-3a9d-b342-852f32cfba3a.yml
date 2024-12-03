@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733212598355
+  lastteleport: 1733213174384
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,8 +23,8 @@ last-account-name: sinjao
 lastlocation:
   world: 6cce31da-3f08-4c72-b96a-b82bdaecebd9
   world-name: world_nether
-  x: -26.30000001192093
-  y: 80.0
-  z: 306.6790744393339
-  yaw: 55.00044250488281
-  pitch: -9.777327537536621
+  x: -66.2651380535217
+  y: 72.0
+  z: 117.10444983753638
+  yaw: 59.38812255859375
+  pitch: 12.496366500854492
