@@ -128,3 +128,5 @@
 [02:34:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Strande_'s group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [02:34:25] [Server thread/INFO]: Strande_ joined the game
 [02:34:25] [Server thread/INFO]: Strande_[/127.200.126.4:38123] logged in with entity id 48 at ([world]-1807.699999988079, -12.0, -1248.6505499541117)
+[02:51:55] [Server thread/INFO]: Strande_ lost connection: Timed out
+[02:51:55] [Server thread/INFO]: Strande_ left the game
