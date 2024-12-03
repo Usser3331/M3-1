@@ -799,3 +799,63 @@
 [06:30:03] [Server thread/INFO]: fabrizio123 issued server command: /home base
 [06:30:11] [Async Chat Thread - #78/INFO]: [Not Secure] <fabrizio123> xd
 [06:32:32] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[06:35:52] [User Authenticator #11/INFO]: UUID of player Jkevvrzzz is d1e09f7f-48ac-33ae-8f36-860253dfd379
+[06:35:53] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Jkevvrzzz's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:35:53] [Server thread/INFO]: Jkevvrzzz joined the game
+[06:35:53] [Server thread/INFO]: Jkevvrzzz[/127.124.181.102:38293] logged in with entity id 104669 at ([world]-1649.2732788850808, 66.0, -1281.5055507569891)
+[06:36:20] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
+[06:36:26] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:36:54] [Server thread/INFO]: Jkevvrzzz issued server command: /home
+[06:38:14] [Async Chat Thread - #80/INFO]: [Not Secure] <Strande_> veni
+[06:38:17] [Async Chat Thread - #80/INFO]: [Not Secure] <Strande_> Jkevvrzzz
+[06:38:29] [Server thread/INFO]: Jkevvrzzz issued server command: /tpa Strande_
+[06:38:32] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:38:46] [Server thread/INFO]: Strande_ was slain by Jkevvrzzz
+[06:38:48] [Server thread/INFO]: Jkevvrzzz issued server command: /home
+[06:38:53] [Async Chat Thread - #80/INFO]: [Not Secure] <Jkevvrzzz> XD
+[06:39:06] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> ya ba
+[06:39:16] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> ya va
+[06:39:18] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> q quiero prote 4
+[06:39:19] [Async Chat Thread - #80/INFO]: [Not Secure] <Strande_> crjo
+[06:39:27] [Async Chat Thread - #80/INFO]: [Not Secure] <Strande_> ya fue
+[06:39:36] [Async Chat Thread - #80/INFO]: [Not Secure] <fabrizio123> xd
+[06:39:38] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> no
+[06:39:42] [Async Chat Thread - #80/INFO]: [Not Secure] <Strande_> perdi el castigo 5
+[06:39:43] [Async Chat Thread - #80/INFO]: [Not Secure] <Strande_> :,v
+[06:39:44] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> me voy
+[06:39:46] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> con ellos
+[06:39:50] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> kerbin
+[06:39:58] [Async Chat Thread - #80/INFO]: [Not Secure] <Strande_> KERBIN???
+[06:40:00] [Async Chat Thread - #80/INFO]: [Not Secure] <Jkevvrzzz> Q
+[06:40:09] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> se supone que tienen prote 4
+[06:40:13] [Async Chat Thread - #80/INFO]: [Not Secure] <Jkevvrzzz> Y]
+[06:40:13] [Async Chat Thread - #80/INFO]: [Not Secure] <sinjao> pa eso boy
+[06:40:20] [Server thread/INFO]: sinjao issued server command: /tpask Jkevvrzzz
+[06:40:27] [Server thread/INFO]: Jkevvrzzz issued server command: /tpaccept
+[06:41:33] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> UHHH
+[06:41:38] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> que rico
+[06:41:38] [Async Chat Thread - #82/INFO]: [Not Secure] <fabrizio123> UHHHH
+[06:41:54] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> deja mato a este
+[06:41:57] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> este da caro
+[06:42:22] [Async Chat Thread - #82/INFO]: [Not Secure] <sinjao> n9
+[06:42:26] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> si
+[06:42:27] [Async Chat Thread - #82/INFO]: [Not Secure] <sinjao> stren
+[06:42:29] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> tal vez
+[06:42:33] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> que fue
+[06:42:39] [Async Chat Thread - #82/INFO]: [Not Secure] <sinjao> teneis bara de blaze?
+[06:42:50] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> creo que si
+[06:42:53] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> manda tp
+[06:42:58] [Server thread/INFO]: Strande_ issued server command: /home granja
+[06:42:58] [Async Chat Thread - #82/INFO]: [Not Secure] <sinjao> vendeme 1 cofre ender
+[06:43:02] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[06:43:05] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[06:43:17] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> cofre ender?
+[06:43:20] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> ender chest?
+[06:43:21] [Async Chat Thread - #82/INFO]: [Not Secure] <sinjao> enderchest
+[06:43:28] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> vava veni
+[06:43:34] [Server thread/INFO]: sinjao issued server command: /tpask Strande_
+[06:43:40] [Server thread/INFO]: Strande_ issued server command: /home base1
+[06:43:45] [Server thread/INFO]: Strande_ issued server command: /tpaccept
+[06:43:51] [Server thread/INFO]: sinjao has made the advancement [Into Fire]
+[06:44:22] [Async Chat Thread - #82/INFO]: [Not Secure] <sinjao> vendeme obsi
+[06:44:32] [Async Chat Thread - #82/INFO]: [Not Secure] <Strande_> dejame busco que creo que tengo por aqui
