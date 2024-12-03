@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-03 07:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-03 06:10:35 +0000"
@@ -832,6 +838,7 @@
       "minecraft:skeleton": "2024-12-03 07:08:18 +0000",
       "minecraft:phantom": "2024-12-03 07:31:07 +0000",
       "minecraft:witch": "2024-12-03 07:17:20 +0000",
+      "minecraft:spider": "2024-12-03 07:40:51 +0000",
       "minecraft:zombie": "2024-12-03 07:08:20 +0000",
       "minecraft:creeper": "2024-12-03 06:01:21 +0000",
       "minecraft:drowned": "2024-12-03 07:13:01 +0000",
@@ -944,6 +951,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-03 07:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-03 07:41:14 +0000"
     },
     "done": true
   },
