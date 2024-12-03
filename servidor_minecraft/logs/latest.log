@@ -153,3 +153,65 @@
 [03:10:31] [Async Chat Thread - #4/INFO]: [Not Secure] <Jkevvrzzz> aceptame el tp
 [03:10:32] [Server thread/INFO]: jerchis issued server command: /tpaccept
 [03:10:41] [Async Chat Thread - #4/INFO]: [Not Secure] <Jkevvrzzz> no tengo mas nada
+[03:11:35] [Server thread/INFO]: jerchis was shot by Skeleton
+[03:11:43] [Async Chat Thread - #6/INFO]: [Not Secure] <Jkevvrzzz> nambre KJASJKJKSA
+[03:12:01] [Server thread/INFO]: jerchis issued server command: /tpa Jkevvrzzz
+[03:12:02] [Server thread/INFO]: Jkevvrzzz issued server command: /HOME
+[03:12:06] [Server thread/INFO]: Jkevvrzzz issued server command: /home
+[03:12:16] [Server thread/INFO]: Jkevvrzzz lost connection: Disconnected
+[03:12:16] [Server thread/INFO]: Jkevvrzzz left the game
+[03:14:29] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> que fue
+[03:14:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> jerchis?
+[03:14:35] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> jajaj
+[03:14:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> que tal
+[03:14:45] [Async Chat Thread - #8/INFO]: [Not Secure] <jerchis> naaaaa me mataron
+[03:14:49] [Server thread/INFO]: Strande_ issued server command: /lp user jerchis info
+[03:14:49] [Async Chat Thread - #8/INFO]: [Not Secure] <jerchis> ahi vamos brooo
+[03:15:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Strande_> ta bien ta bien diviertete mi loco
+[03:15:13] [Async Chat Thread - #8/INFO]: [Not Secure] <jerchis> dsle gracias gggw
+[03:18:38] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:18:38] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:18:38] [Paper Common Worker #0/WARN]: Empty height range: [-55 absolute--60 absolute]
+[03:19:53] [User Authenticator #4/INFO]: UUID of player Master_Matt99 is ceb88f52-64d4-34ad-be39-c56cbdc768bf
+[03:19:56] [Server thread/INFO]: Master_Matt99 joined the game
+[03:19:56] [Server thread/INFO]: Master_Matt99[/127.229.212.67:35931] logged in with entity id 7803 at ([world]-2.5, 64.0, 11.5)
+[03:20:06] [Async Chat Thread - #10/INFO]: [Not Secure] <Master_Matt99> 0 de pin xd
+[03:20:37] [User Authenticator #4/INFO]: UUID of player skunk_mx is b1a837d0-6775-3596-a3ff-565f718c7623
+[03:20:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player skunk_mx's group (tilines) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:20:38] [Server thread/INFO]: skunk_mx joined the game
+[03:20:38] [Server thread/INFO]: skunk_mx[/127.104.9.75:58699] logged in with entity id 8419 at ([world]-0.5, 64.0, -0.5)
+[03:20:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Strande_> xd
+[03:21:06] [Server thread/INFO]: Strande_ issued server command: /lp user Master_Matt99 permission set essentials.sethome true
+[03:21:06] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (master_matt99)
+[03:21:06] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome true
+[03:21:13] [Server thread/INFO]: Strande_ issued server command: /lp user Master_Matt99 permission set essentials.tpa true
+[03:21:13] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (master_matt99)
+[03:21:13] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpa true
+[03:21:26] [Server thread/INFO]: Strande_ issued server command: /lp user Master_Matt99 permission set essentials.tpaccept true
+[03:21:26] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (master_matt99)
+[03:21:26] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpaccept true
+[03:21:35] [Server thread/INFO]: Master_Matt99 lost connection: Disconnected
+[03:21:35] [Server thread/INFO]: Master_Matt99 left the game
+[03:21:41] [Server thread/INFO]: Strande_ issued server command: /essentials reload
+[03:21:41] [Server thread/INFO]: [Essentials] Loaded 39097 items from items.json.
+[03:21:41] [Server thread/INFO]: [Essentials] Using locale en
+[03:21:41] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:22:03] [Server thread/INFO]: skunk_mx was slain by Zombie
+[03:22:10] [Async Chat Thread - #12/INFO]: [Not Secure] <skunk_mx> hagn de dia
+[03:24:34] [Server thread/INFO]: skunk_mx was slain by Zombie
+[03:31:37] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> eu
+[03:31:39] [Server thread/INFO]: jerchis was slain by Zombie
+[03:31:42] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> con solo 1 durmiendo
+[03:31:44] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> se hace de dia
+[03:31:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Strande_> lo menciono
+[03:31:51] [Async Chat Thread - #14/INFO]: [Not Secure] <jerchis> q lag
+[03:32:18] [Async Chat Thread - #14/INFO]: [Not Secure] <skunk_mx> yo no siento el lag
+[03:32:39] [Async Chat Thread - #14/INFO]: [Not Secure] <jerchis> no se a mi me da lag por eso mori no me dejo pegarle al zombie
+[03:35:51] [Async Chat Thread - #16/INFO]: [Not Secure] <skunk_mx> tiene cama?
+[03:37:38] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> eu
+[03:37:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> alguien conoce
+[03:37:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> los textures pack de fresh moves?
+[03:38:07] [Async Chat Thread - #18/INFO]: [Not Secure] <jerchis> noooo
+[03:38:45] [Async Chat Thread - #18/INFO]: [Not Secure] <Strande_> son texturas que hacen los movimientos fluidos y mejores (mas realistas) si desean les mando el pack para que los pongan en su carpeta de textures
+[03:39:21] [Async Chat Thread - #18/INFO]: [Not Secure] <jerchis> tdale los puedo probar
+[03:40:03] [Async Chat Thread - #18/INFO]: [Not Secure] <skunk_mx> cuanto tiempo dura la noche?
