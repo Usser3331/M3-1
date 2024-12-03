@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733202476833
+  lastteleport: 1733203933812
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: fabrizio123
 lastlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: 601.521560008885
-  y: 58.5625
-  z: -2708.9924022177543
-  yaw: 116.79476165771484
-  pitch: 15.000014305114746
+  x: -241.12478327484138
+  y: 72.0625
+  z: 676.932521983881
+  yaw: 33.018409729003906
+  pitch: 24.152284622192383
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world

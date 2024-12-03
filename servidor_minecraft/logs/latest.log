@@ -449,3 +449,111 @@
 [05:12:25] [Server thread/INFO]: sinjao joined the game
 [05:12:25] [Server thread/INFO]: sinjao[/127.100.95.161:44873] logged in with entity id 67972 at ([world]-1.5, 63.0, 15.5)
 [05:12:56] [Async Chat Thread - #46/INFO]: [Not Secure] <sinjao> esñrande
+[05:14:01] [Server thread/INFO]: sinjao issued server command: /tpask Strande
+[05:14:01] [Server thread/INFO]: [Essentials] sinjao was denied access to command.
+[05:15:31] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:15:40] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:15:59] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:17:31] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:18:27] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:18:56] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:19:20] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> que fue
+[05:19:25] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:19:27] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> sinjao
+[05:19:32] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> ola estrandi
+[05:19:35] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> bello
+[05:19:38] [Async Chat Thread - #49/INFO]: [Not Secure] <sinjao> un tpa?
+[05:19:58] [Async Chat Thread - #49/INFO]: [Not Secure] <Strande_> yo a vos o vos a mi?
+[05:20:00] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:20:05] [Async Chat Thread - #49/INFO]: [Not Secure] <sinjao> yo a ti
+[05:20:10] [Async Chat Thread - #49/INFO]: [Not Secure] <Strande_> normal
+[05:20:15] [Async Chat Thread - #49/INFO]: [Not Secure] <sinjao> es que no me deja xd
+[05:20:19] [Async Chat Thread - #49/INFO]: [Not Secure] <Strande_> ahh
+[05:20:35] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> sera porque no tengo los mods?
+[05:20:38] [Server thread/INFO]: Strande_ issued server command: /lp user sinjao permission set essentials.tpa
+[05:20:38] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (sinjao)
+[05:20:38] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpa true
+[05:20:43] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:20:43] [Server thread/INFO]: Strande_ issued server command: /lp user sinjao permission set essentials.tpaccept
+[05:20:43] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (sinjao)
+[05:20:43] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpaccept true
+[05:20:45] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:20:52] [Server thread/INFO]: Strande_ issued server command: /lp user sinjao permission set essentials.sethome
+[05:20:52] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (sinjao)
+[05:20:52] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.sethome true
+[05:20:55] [Server thread/INFO]: sinjao has made the advancement [Stone Age]
+[05:21:01] [Server thread/INFO]: Strande_ issued server command: /lp user sinjao permission set essentials.home true
+[05:21:01] [luckperms-command-executor/INFO]: [LP] LOG > (Strande_) [U] (sinjao)
+[05:21:01] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.home true
+[05:21:06] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> salite y entra
+[05:21:10] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> ya puse los permisos
+[05:21:23] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> q weba
+[05:21:25] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> xd dejalo asi
+[05:21:28] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> eu
+[05:21:29] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> yo la tryhardeo y ya
+[05:21:30] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> manda tpa
+[05:21:42] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> ah ya puedo
+[05:21:45] [Async Chat Thread - #48/INFO]: [Not Secure] <fabrizio123> xd
+[05:21:52] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> uy fabrizio
+[05:21:54] [Async Chat Thread - #48/INFO]: [Not Secure] <fabrizio123> xdno puedes
+[05:21:55] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> nos volvemos a ver
+[05:21:57] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> JAJAJAJAJ
+[05:22:01] [Async Chat Thread - #48/INFO]: [Not Secure] <fabrizio123> jajaa
+[05:22:03] [Async Chat Thread - #48/INFO]: [Not Secure] <fabrizio123> lar
+[05:22:07] [Server thread/INFO]: sinjao issued server command: /tpask fabrizio123
+[05:22:15] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
+[05:22:18] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
+[05:22:24] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
+[05:22:36] [Async Chat Thread - #48/INFO]: [Not Secure] <fabrizio123> que fue
+[05:22:36] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> tremenda granja
+[05:22:47] [Server thread/INFO]: fabrizio123 issued server command: /tpaccept
+[05:22:52] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> quiero hierro
+[05:22:56] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> me cargaré a los golems
+[05:22:57] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> ok?
+[05:23:00] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> si onel?
+[05:23:05] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> que golems?
+[05:23:12] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> los de arriba
+[05:23:17] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> a si normal
+[05:23:18] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:23:31] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> necesito mas de 100 aldeanos para mi granja de hierro xd
+[05:23:37] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:23:47] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:23:56] [Server thread/INFO]: sinjao has made the advancement [Acquire Hardware]
+[05:24:03] [Async Chat Thread - #48/INFO]: [Not Secure] <jerchis> what???
+[05:24:17] [Async Chat Thread - #48/INFO]: [Not Secure] <Strande_> 17000 de hierro por hora xd
+[05:24:25] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:24:35] [Async Chat Thread - #48/INFO]: [Not Secure] <sinjao> tenk iu
+[05:24:50] [Server thread/INFO]: sinjao has made the advancement [Isn't It Iron Pick]
+[05:26:23] [Async Chat Thread - #50/INFO]: [Not Secure] <Strande_> hay fortuna 3 y reparacion por si ocupan
+[05:26:33] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> a cuanto
+[05:26:42] [Async Chat Thread - #50/INFO]: [Not Secure] <Strande_> reparacion por 24
+[05:26:46] [Async Chat Thread - #50/INFO]: [Not Secure] <jerchis> a cuanto o q pides
+[05:26:57] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> a cuanto el fortuna
+[05:27:01] [Async Chat Thread - #50/INFO]: [Not Secure] <Strande_> no pido nada xd solo veni aqui
+[05:27:05] [Async Chat Thread - #50/INFO]: [Not Secure] <Strande_> aqui esta el aldeano
+[05:27:15] [Async Chat Thread - #50/INFO]: [Not Secure] <jerchis> ok gracias
+[05:27:26] [Async Chat Thread - #50/INFO]: [Not Secure] <jerchis> coseguire esmeraldas
+[05:27:47] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> cual e
+[05:27:55] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> f 3
+[05:27:59] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> fortuna 3
+[05:28:04] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> 37
+[05:28:06] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> ienen
+[05:28:10] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> flechero con flecahs?
+[05:28:29] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> va
+[05:28:46] [Async Chat Thread - #50/INFO]: [Not Secure] <Strande_> sinjao kevin sigue viendo su pelicula?
+[05:28:46] [Async Chat Thread - #50/INFO]: [Not Secure] <Strande_> xd
+[05:28:52] [Async Chat Thread - #50/INFO]: [Not Secure] <sinjao> se
+[05:30:32] [Server thread/INFO]: [AngelChest] Removed 3 old log files.
+[05:30:39] [Server thread/INFO]: Strande_ issued server command: /homes end
+[05:31:02] [Server thread/INFO]: jerchis has made the advancement [What a Deal!]
+[05:32:05] [Server thread/INFO]: fabrizio123 issued server command: /home base
+[05:32:13] [Server thread/INFO]: fabrizio123 issued server command: /home aldeanos
+[05:32:27] [Async Chat Thread - #52/INFO]: [Not Secure] <Strande_> che sinjao le sabes al tecnico?
+[05:32:32] [Async Chat Thread - #52/INFO]: [Not Secure] <sinjao> maso
+[05:32:40] [Async Chat Thread - #52/INFO]: [Not Secure] <sinjao> alo rich mc no
+[05:32:48] [Async Chat Thread - #52/INFO]: [Not Secure] <Strande_> vava es que necesitare ayuda pronto
+[05:32:54] [Async Chat Thread - #52/INFO]: [Not Secure] <sinjao> con q
+[05:33:01] [Async Chat Thread - #52/INFO]: [Not Secure] <Strande_> quiero conseguir bedrock
+[05:33:13] [Async Chat Thread - #52/INFO]: [Not Secure] <sinjao> re facil siendo admin
+[05:33:24] [Async Chat Thread - #52/INFO]: [Not Secure] <Strande_> en survival :,v
+[05:33:30] [Async Chat Thread - #53/INFO]: [Not Secure] <sinjao> re facil siendo admin
