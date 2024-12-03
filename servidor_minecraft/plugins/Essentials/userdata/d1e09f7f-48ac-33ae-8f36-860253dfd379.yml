@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733195536092
-  login: 1733198840789
+  logout: 1733199172290
+  login: 1733199666391
 money: '0'
 last-account-name: Jkevvrzzz
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: -20.07464703367833
-  y: 73.0
-  z: 2470.314842645947
-  yaw: -176.82675170898438
-  pitch: 37.59035110473633
+  x: -1652.0491549060594
+  y: 66.0
+  z: -1285.3597457121648
+  yaw: 66.1849365234375
+  pitch: 9.13524055480957
 homes:
   home:
     world: 1e7574d3-972b-44cc-8664-06c3de722bc1
