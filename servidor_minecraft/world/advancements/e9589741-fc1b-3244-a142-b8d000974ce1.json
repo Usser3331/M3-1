@@ -18,6 +18,7 @@
       "minecraft:snowy_taiga": "2024-11-28 04:49:56 +0000",
       "minecraft:deep_cold_ocean": "2024-11-30 04:49:01 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-17 21:09:25 +0000",
+      "minecraft:frozen_ocean": "2024-12-02 01:43:30 +0000",
       "minecraft:frozen_river": "2024-12-01 21:38:24 +0000",
       "minecraft:ocean": "2024-11-20 04:18:48 +0000",
       "minecraft:sunflower_plains": "2024-11-20 02:43:20 +0000",
@@ -217,6 +218,7 @@
       "rotten_flesh": "2024-11-17 22:38:30 +0000",
       "enchanted_golden_apple": "2024-12-01 22:26:14 +0000",
       "cooked_mutton": "2024-11-17 22:28:48 +0000",
+      "potato": "2024-12-02 01:29:45 +0000",
       "chorus_fruit": "2024-11-23 22:10:10 +0000",
       "baked_potato": "2024-11-24 18:43:48 +0000",
       "porkchop": "2024-11-17 23:47:06 +0000",
@@ -2629,6 +2631,90 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-12-02 00:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-02 01:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-02 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-02 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-02 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-02 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:54:22 +0000"
     },
     "done": true
   },

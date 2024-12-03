@@ -640,6 +640,7 @@
       "minecraft:spider": "2024-11-17 21:07:16 +0000",
       "minecraft:piglin_brute": "2024-11-17 22:47:48 +0000",
       "minecraft:creeper": "2024-11-17 21:39:03 +0000",
+      "minecraft:wither": "2024-12-02 00:51:20 +0000",
       "minecraft:slime": "2024-11-24 05:14:10 +0000",
       "minecraft:phantom": "2024-11-18 02:21:05 +0000",
       "minecraft:zombified_piglin": "2024-11-17 22:44:10 +0000",
@@ -4269,15 +4270,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-02 00:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-12-02 00:36:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_andesite": "2024-12-02 00:24:33 +0000"
+      "has_nether_star": "2024-12-02 00:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-02 00:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-12-02 00:56:19 +0000"
     },
     "done": true
   },

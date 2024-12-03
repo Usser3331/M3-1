@@ -1110,6 +1110,7 @@
       "minecraft:piglin": "2024-11-17 22:41:55 +0000",
       "minecraft:enderman": "2024-11-17 22:32:51 +0000",
       "minecraft:silverfish": "2024-11-18 00:18:28 +0000",
+      "minecraft:stray": "2024-12-02 01:46:58 +0000",
       "minecraft:vex": "2024-11-26 07:17:36 +0000",
       "minecraft:zombie": "2024-11-17 22:08:35 +0000",
       "minecraft:drowned": "2024-11-21 05:18:01 +0000",
@@ -4694,6 +4695,36 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-12-02 00:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-02 00:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-02 00:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-12-02 00:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-02 01:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-02 01:00:11 +0000"
     },
     "done": true
   },

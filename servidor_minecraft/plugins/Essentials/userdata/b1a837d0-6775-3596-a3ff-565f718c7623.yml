@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1733101937468
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732777620082
-  login: 1732777547266
+  logout: 1733105310096
+  login: 1733101642944
 money: '0'
 last-account-name: skunk_mx
 logoutlocation:
   world: 1e7574d3-972b-44cc-8664-06c3de722bc1
   world-name: world
-  x: 135.65456464265992
-  y: 69.0
-  z: -24.928155218188536
-  yaw: -91.64986419677734
-  pitch: 11.700023651123047
+  x: -0.5
+  y: 64.0
+  z: -0.5
+  yaw: 43.950008392333984
+  pitch: 28.20000457763672
+lastlocation:
+  world: 1e7574d3-972b-44cc-8664-06c3de722bc1
+  world-name: world
+  x: -2493.5982626147
+  y: 59.0
+  z: -1170.5102948640072
+  yaw: -175.96231079101562
+  pitch: 15.150025367736816
