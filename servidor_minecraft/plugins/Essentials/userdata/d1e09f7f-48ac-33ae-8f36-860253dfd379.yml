@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733213542266
+  lastteleport: 1733214272349
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Jkevvrzzz
 lastlocation:
   world: 6cce31da-3f08-4c72-b96a-b82bdaecebd9
   world-name: world_nether
-  x: 145.78048994671295
-  y: 83.0
-  z: 62.39813295990766
-  yaw: 112.269287109375
-  pitch: 29.07890510559082
+  x: 260.83246211110344
+  y: 44.0
+  z: 123.3538529796553
+  yaw: -177.270751953125
+  pitch: 25.329959869384766
 logoutlocation:
   world: 6cce31da-3f08-4c72-b96a-b82bdaecebd9
   world-name: world_nether

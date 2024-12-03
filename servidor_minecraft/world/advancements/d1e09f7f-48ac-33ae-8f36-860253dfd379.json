@@ -390,13 +390,14 @@
     "criteria": {
       "minecraft:blaze": "2024-12-03 08:00:06 +0000",
       "minecraft:skeleton": "2024-11-28 03:53:17 +0000",
-      "minecraft:piglin": "2024-11-27 04:18:08 +0000",
       "minecraft:phantom": "2024-11-28 05:08:19 +0000",
+      "minecraft:witch": "2024-12-03 07:10:59 +0000",
+      "minecraft:wither_skeleton": "2024-12-03 07:58:53 +0000",
+      "minecraft:piglin": "2024-11-27 04:18:08 +0000",
       "minecraft:enderman": "2024-12-03 08:06:38 +0000",
       "minecraft:magma_cube": "2024-11-27 04:14:31 +0000",
-      "minecraft:witch": "2024-12-03 07:10:59 +0000",
       "minecraft:spider": "2024-11-28 03:53:30 +0000",
-      "minecraft:wither_skeleton": "2024-12-03 07:58:53 +0000",
+      "minecraft:piglin_brute": "2024-12-03 08:16:43 +0000",
       "minecraft:zombie": "2024-11-28 03:23:50 +0000",
       "minecraft:creeper": "2024-11-28 03:55:50 +0000",
       "minecraft:drowned": "2024-12-03 07:09:15 +0000"
@@ -2557,9 +2558,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-03 08:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-03 08:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-03 08:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 08:20:58 +0000"
     },
     "done": true
   },
@@ -2569,9 +2588,21 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-03 08:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2024-12-03 08:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 08:20:58 +0000"
     },
     "done": true
   },
