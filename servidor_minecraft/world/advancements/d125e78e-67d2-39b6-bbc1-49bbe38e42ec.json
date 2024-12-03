@@ -1216,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-03 06:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-03 05:20:48 +0000"
@@ -1273,6 +1279,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-12-03 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-03 06:01:21 +0000"
     },
     "done": true
   },
@@ -1576,6 +1588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-03 06:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-03 05:51:57 +0000"
@@ -1741,6 +1759,12 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2024-12-03 05:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-03 06:00:53 +0000"
     },
     "done": true
   },
